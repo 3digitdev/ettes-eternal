@@ -523,13 +523,18 @@ p {
   overflow-x: auto;
 
   & > table {
-    margin: 1rem;
     padding: 1.5rem;
     border-collapse: collapse;
+    border: 1px solid var(--darkgray);
+
+    th {
+      background-color: var(--lightgray);
+    }
 
     th,
     td {
       min-width: 75px;
+      border: 1px solid var(--gray);
     }
 
     & > * {
