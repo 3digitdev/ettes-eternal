@@ -1,1 +1,0 @@
-/Users/max/Documents/Obsidian/Ettes Eternal/Systems/🚧Crafting🚧.md
