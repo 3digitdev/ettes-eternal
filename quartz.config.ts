@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "ettes-eternal.3digit.dev",
     ignorePatterns: ["private", "templates", ".obsidian", "Artifacts"],
     defaultDateType: "modified",
     theme: {
