@@ -79,12 +79,12 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
 
       for (const [tree, file] of content) {
         const slug = file.data.slug!
-        if (slug === "Home") {
+        if (slug === "index") {
           containsIndex = true
         }
 
         // only process home page, non-tag pages, and non-index pages
-        if (slug.endsWith("/Home") || slug.startsWith("tags/")) continue
+        if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
 
@@ -92,7 +92,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         console.log(
           styleText(
             "yellow",
-            `\nWarning: you seem to be missing an \`Home.md\` home page file at the root of your \`${ctx.argv.directory}\` folder (\`${path.join(ctx.argv.directory, "index.md")} does not exist\`). This may cause errors when deploying.`,
+            `\nWarning: you seem to be missing an \`index.md\` home page file at the root of your \`${ctx.argv.directory}\` folder (\`${path.join(ctx.argv.directory, "index.md")} does not exist\`). This may cause errors when deploying.`,
           ),
         )
       }
