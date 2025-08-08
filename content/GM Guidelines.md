@@ -40,7 +40,16 @@ Reserve the [[Social Challenges]] system for **significant** social encounters w
 
 Favor represents divine attention - gods don't reward lazy followers. Be strict about value adherence requirements.
 # Session Productivity
-Use the [[Character Advancement#Session Productivity|Session Productivity]] guidelines to maintain campaign momentum. Sessions focused on shopping, tavern socializing, or other non-goal-oriented activities should grant **0 XP and not count toward leveling**. Both conditions must apply to prevent power imbalances.
+Sometimes your players just faff around for 3 hours at the table; sitting in a tavern gambling, or a session-long shopping trip.  In these scenarios, it is recommended that you **should not include these sessions in determining advancement**.
+- **Award the players 0 XP for the session**
+- **Session does not count toward next level**
+
+**VERY IMPORTANT:** **Both conditions above** must be applied to prevent **power imbalance** and gaming the system.  If for example you give XP but don't count the session, the balance between expected skill level maximums and current level get thrown off, and the game will feel less balanced as a result.
+# System Scaling
+**Important:** To modify campaign length, modify the XP rewards AND level timing in equal but opposite factors:
+- **Faster Campaign:** 2x XP per session (10 XP) + half the sessions between levels = ~32 session campaign
+- **Slower Campaign:** 0.5x XP per session + double sessions between levels = ~128 session campaign
+**Warning:** Tweaking only one part of the system will create power level imbalances.
 # Flow Point Economy
 Monitor FP generation carefully. Players earn 1 FP per successful attack and 3 FP per critical hit, with 1 FP decay per turn. Don't allow players to bypass the earning mechanisms or avoid the decay - this breaks the tactical resource management the system depends on.
 # Common Pitfalls

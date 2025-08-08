@@ -1,18 +1,22 @@
 # Overview
 Here are the high-level steps for creating a new character in this system:
-1. Select a [[Character Classes|Character Class]] and pick your [[Character Classes#Class Skills|Class Skills]] and [[Character Classes#Specialized Class Equipment|Class Equipment]]
-	- *you probably always want to start here to get Class Skills established before the Ancestry/Background bonuses are applied!  Less confusing.*
-2. Select an [[#Ancestries|Ancestry]]
-3. Come up with a basic backstory concept, and select a [[#Backgrounds|Background]]
-4. Pick your Level 1 [[Perks|Perk]]
-5. Calculate your starting [[Basic Mechanics#Health|Health]]
-6. Pick out your starter [[Equipment#Weapons|Weapon]]/[[Equipment#Armor|Armor]]
-7. Mark down your [[Gear & Services#Standard Adventurer's Kit|Adventurer's Kit]] and buy any additional [[Gear & Services|Gear]]
-8. Flesh out your character's backstory, physical description, and personality
+1. Select a [[Character Classes|Character Class]] and pick your [[Character Classes#Starting Equipment|Starting Equipment]]
+2. Set your [[#Initial Skill Levels]] and set up **Class Skills**
+3. Select an [[#Ancestries|Ancestry]]
+4. Come up with a basic backstory concept, and select a [[#Backgrounds|Background]]
+5. Pick your Level 1 [[Perks|Perk]]
+6. Calculate your starting [[Basic Mechanics#Health|Health]]
+7. Pick out your starter [[Equipment#Weapons|Weapon]]/[[Equipment#Armor|Armor]]
+8. Buy any additional [[Gear & Services|Gear]] with your starting gold
+9. Flesh out your character's backstory, physical description, and personality
 
 ---
+# Initial Skill Levels
+All Skills begin the game at **30**.  To begin with, you pick **8 Skills** that you want to define as "**Class Skills**".  If you would prefer help, there is a variant rule called [[Character Classes#Variant Rule Class Skill Bundles|Skill Bundles]] to help you decide what to pick for your class.  You then roll **`4d8+10`** for each class skill, and add the result to your total.  This will result in each Class Skill being between 44 and 72 depending on how you roll.  *Note that your roll must be applied to the Skill you rolled it for!*  (**At GM discretion, a variant rule will allow you to assign the roll results to whatever skills you want.**)
+
+Once you have your 8 **Class Skills** rolled and assigned, you then can move onto...
 # Ancestries
-**Note:** Every Player gains a +10 to a skill of their choice, alongside the listed Ancestral Skill.  You cannot pick the same skill as the one your Ancestry provided.
+Each Ancestry will grant you a single +10 bonus to a Skill, and a single **Ancestral Trait** you pick from a list.
 ## Core Ancestries
 ### Human
 - **Ancestral Skill**: Any one **non-combat** skill +10
@@ -94,7 +98,7 @@ Hit Dice for your character vary by class (d6/d8/d10/d12)
 Backgrounds are a way to define what it is that your character did before they became an adventurer. You can use these to mesh with an existing backstory you have, or if you're stumped you can use them to help spark your imagination on what your character did in the past!  The [[#Optional Rule Mixed Background|Mixed Backgrounds]] rule can be a great way to come up with interesting characters.
 
 Backgrounds each offer you 2 things:
-1. **Skill Selection**: Each background provides 3 skill options; Player chooses **1 skill** to receive a **+10 bonus** to permanently.
+1. **Skill Selection**: Each background provides 3 skill options; You choose **1 skill** to receive a **+10 bonus** to permanently.
 2. **Roleplaying Bonuses**: These are purely narrative benefits that provide story hooks, social connections, and practical advantages without direct mechanical skill bonuses.  These should not be only one-use, but rather long-lasting benefits to use to keep things interesting and give you plenty of options outside of combat as well!
 ## Optional Rule: Mixed Background
 This is a way to add some really interesting customization to your character and get some inspiration for character backgrounds by doing a tradeoff of Roleplaying Bonuses.

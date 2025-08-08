@@ -48,7 +48,7 @@ At Level 5, Fighters must choose their specialization path:
 ### Weapon Diversity
 When you attack with two different weapon categories in the same round, the second attack deals +{Level} damage.
 ### Dual-Wield Mastery
-Remove all detriments for attacking with an offhand weapon, regardless of category. If you already had the **Dual Wield** Perk, you may immediately replace it with any Combat or Utility Perk of equal or lesser Tier that you meet the requirements for.
+Remove all detriments for attacking with an offhand weapon, regardless of category. If you already had the **Dual Wield** Perk, you gain the **Two-Weapon Fighter** perk instead.  If you also have this Perk already, you may instead take any T1 Combat or Utility Perk that you currently meet the requirements for.
 ### Quick Draw
 - Draw/Sheathe individual weapons: 0 AP
 - Full weapon swap: 1 AP (instead of 2)

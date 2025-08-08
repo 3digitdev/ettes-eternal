@@ -106,7 +106,7 @@ Assess the workmanship, materials, and value of crafted items.
 ### Medicine
 Your knowledge of healing, anatomy, and treatment of injuries and diseases. This skill encompasses both magical and mundane healing techniques as well as understanding of the body.
 #### Administer Healing
-Outside of combat, you may take multiple hours to Administer Healing to another character. You roll your Medicine Skill, and on success the character may immediately make one Recovery Roll. Higher successes yield better results:
+Outside of combat, you may take 2 hours to Administer Healing to another character. You roll your Medicine Skill, and on success the character may immediately make one [[Basic Mechanics#Recovery Roll|Recovery Roll]]. Higher successes yield better results:
 
 |     Success      | Safe % Bonus | Total Safe % | Bonus Dice |   Total Dice    |
 | :--------------: | :----------: | :----------: | :--------: | :-------------: |
@@ -119,7 +119,7 @@ The player doing the Recovery Roll still gets to choose between Safe and Luck fo
 #### Diagnose Condition
 Identify diseases, poisons, curses, or other ailments affecting a patient.
 #### Apply First Aid
-A successful check provides {Level÷2} HP back. This will immediately stabilize a Dying creature or player.
+A successful check provides {Level÷2} HP back. This will immediately stabilize a Dying creature or player.  This cannot be performed more than once per day on any target.
 
 ---
 ### Survival

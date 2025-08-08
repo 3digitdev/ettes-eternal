@@ -81,7 +81,7 @@ _Note: For Normal Success checks, this effectively allows 2 players to attempt s
 In certain situations the GM will determine that an **entire group must work together** to achieve success at a task. This might include the entire party attempting to sneak past a guard, everyone climbing up a dangerous cliff face, or the group working together to navigate treacherous terrain.
 
 **Group Checks cannot be used for situations where only one person needs to succeed**, such as Knowledge checks where one person knowing the answer is sufficient for the group. Use [[#Aid Another]] for those situations instead.
-## Group Check Process
+### Group Check Process
 1. **Designate Leader**: The group chooses a Leader for the check
 	- _this is usually the person with the highest relevant skill, but if someone else is 10 lower but has Advantage, it may be best to use them!_
 2. **Supporting Rolls**: All other participating party members roll their relevant skill:
@@ -94,7 +94,7 @@ In certain situations the GM will determine that an **entire group must work tog
         - Critical Success: Leader gains Advantage (non-stacking)
         - Critical Failure: Leader gains Disadvantage (non-stacking)
 3. **Leader's Roll**: The Leader makes their skill check with all accumulated modifiers to determine the group's overall success or failure.
-## Example
+### Example
 A 5-person party attempts to sneak past guards. The Rogue (80 Thievery) leads while the Fighter (25 Stealth), Barbarian (30 Thievery), Sorcerer (35 Thievery), and Hunter (20 Thievery) provide support.
 **Supporting Rolls**:
 - Fighter rolls 15 (Normal Success): +5 to Leader's skill
@@ -103,7 +103,7 @@ A 5-person party attempts to sneak past guards. The Rogue (80 Thievery) leads wh
 - Hunter rolls 95 (Critical Failure): Disadvantage to Leader
 **Leader's Modified Roll**: 80 Thievery + 5 + 5 - 5 = 85 Thievery with Disadvantage
 The Rogue rolls with effectively 85 skill but must roll twice and take the lower result due to the Hunter's critical failure.
-## Notes
+### Notes
 - **Extended Checks**: For longer challenges, the GM **may** call for multiple Group Checks at their discretion (such as every 50 feet of climbing).  This is not a requirement though, and should be left to GM discretion.  In most cases, a single Group Check will work.
 - **Participation**: All party members attempting the task **must** participate in the Group Check - characters cannot opt out to avoid penalizing the group.
 - **Advantage/Disadvantage**: Multiple sources of Advantage or Disadvantage do not stack - the Leader either has it or doesn't.  Advantage and Disadvantage do **cancel** each other though as usual;  If one player crit succeeds and another crit fails, the Leader takes no penalty or bonus to their roll.
@@ -121,7 +121,7 @@ For more detailed information about Skills, please refer to the [[Skills]] secti
 
 ---
 # Flow System
-In certain situations such as [[Combat|Combat]] or [[Social Challenges]], you can gain **Flow Points** to use to achieve interesting effects or perform special actions.  **Flow Points** are separate from the normal **Action/Reaction Points** used in Combat, and the rules for gaining/losing them depend on the situation.  See the individual sections for more information on how the Flow System works for that section.
+In certain situations such as [[Combat|Combat]], you can gain **Flow Points** to use to achieve interesting effects or perform special actions.  **Flow Points** are separate from the normal **Action/Reaction Points** used in Combat, and the rules for gaining/losing them depend on the situation.  See the individual sections for more information on how the Flow System works for that section.
 
 ---
 # Characters
@@ -131,7 +131,7 @@ Every character has a **Level**.  Many different abilities will use this to dete
 
 If you choose to **Multiclass** your character, your **Level** for the purposes of any effects will still be your standard Level for your initial Class choice.  In situations where there may be confusion, the system will refer to these as your **Primary Class Level** and **Secondary Class Level**.  To be perfectly clear, if an ability states "{Level} or {Level÷2}", it is referring to your **Primary Class Level**.
 ### Health
-Each class has a Hit Dice (HD) value for their class, representing the scaling of their health.
+Each class has a Hit Die (HD) value for their class, representing the scaling of their health.
 
 All characters have hitpoints (HP) that are calculated by the following:
 > 10 + ((HD Maximum + Endurance [[#Modifiers|Modifier]]) × Level)
@@ -170,10 +170,6 @@ When you take approximately 8h to do no strenuous activity (combat, extreme acti
 ## Downtime 🚧
 
 ---
-# Getting Started
-Now that you have a basic idea of how the system works, you can either check out the various linked pages (we recommend starting in [[Skills]]), or you can head right over to [[Character Creation]] and start making your first adventurer!
-
----
 # Dying
 When you reach 0 or less HP, you are considered **Dying**, and go unconscious with 0 HP remaining (no negative HP) All ongoing effects on your character end immediately (positive **and negative**, such as Persistent Damage!)
 
@@ -208,6 +204,10 @@ Every time a character takes a [[#Rest|Long Rest]], they may attempt 1 Recovery 
 **Once per day**, a player may have non-magical healing applied to them (usually through the Medicine Skill), which allows them to take one extra Recovery Roll for that day.  **Note: Better rolls from the healer rolling the Medicine skill may increase the Recovery amount!  See the [[Skills#Medicine|Medicine Skill]] for more details.**
 
 This means that, outside of magical healing, **a player may not roll more than 2 Recovery Rolls per day.**
+
+---
+# Getting Started
+Now that you have a basic idea of how the system works, you can either check out the various linked pages (we recommend starting in [[Skills]]), or you can head right over to [[Character Creation]] and start making your first adventurer!
 
 ---
 # Glossary🚧

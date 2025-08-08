@@ -26,7 +26,7 @@ _(this is not an exhaustive list!)
 - Movement: 1 AP to move full [[Basic Mechanics#Movement|Move Speed]]
 - Sprint: 2 AP to move double Move Speed
 - First Attack per round: 2 AP _(see [[#Escalating Costs]])_
-- Casting first Spell per round: 2 AP _(see [[#Escalating Costs]] and [[Magic#Casting Spells|Casting Spells]])_
+- Casting first Spell per round: 2 AP _(see [[#Escalating Costs]] and [[Magic (OLD)#Casting Spells|Casting Spells]])_
 - Drawing/Sheathing an item: 1 AP each _(thus, 2 AP to switch weapons)_
 - Drinking a potion from your bag: 2 AP _(1 AP to draw potion, 1 AP to drink)_
 - Using a Magic Item: 1-2 AP _(specific to each item)_
@@ -79,6 +79,7 @@ Once you have moved to **Intercept**, you must make an **Agility** Check against
 ### Disarm
 **Cost:** 2 AP  
 **Mechanic:** Make a normal attack roll at Disadvantage. No damage is dealt on success.  
+**Restrictions:**  You can only Disarm targets that are your size category or smaller
 **Effect:** Target drops one held item.
 **Success Results:**
 - **Normal Success:** Item lands in adjacent hex (target's choice)
@@ -99,6 +100,7 @@ _NOTE: This is a great choice if you have 1 AP left on your turn and nothing els
 ### Grapple
 **Cost:** 2 AP  
 **Mechanic:** Opposed Athletics roll vs target.  
+**Restrictions:**  You can only Grapple targets that are your size category or smaller
 **Effect:** On success, both characters are grappled.
 **Effects While Grappled:**
 - **Attacker:** Can make reasonable actions (GM discretion) at Disadvantage
@@ -112,7 +114,8 @@ _NOTE: This is a great choice if you have 1 AP left on your turn and nothing els
 ***Example Triggers:** "When an enemy enters my reach," "When the wizard starts casting," "When the door opens"*
 ### Shove
 **Cost:** 2 AP  
-**Mechanic:** Opposed Athletics roll vs target.  
+**Mechanic:** Opposed Athletics roll vs target.
+**Restrictions:**  You can only Shove targets that are your size category or smaller
 **Before Rolling:** Choose either Push Back OR Knock Prone.
 **Success Results:**
 - **Normal Success:** Achieve chosen effect (push back 1 hex OR knock prone)
@@ -215,7 +218,7 @@ Melee attacking is relatively straightforward as opposed to most systems, but he
 ## Ranged
 Ranged attacking is basically the same as [[#Melee]], except instead of selecting a target in Threat Range, you instead pick any target within range of your weapon that you have Line of Sight (LoS) on, then you roll a **Ranged Skill Check**.  Beyond this, the attack works exactly the same as melee attacking.
 ## Spellcasting
-See [[Magic#Casting Spells|Casting Spells]] for a detailed look at how this works
+See [[Magic (OLD)#Casting Spells|Casting Spells]] for a detailed look at how this works
 ## Escalating Costs
 The first attack or spell cast each round costs 2 AP.  Each additional attack or spell in the same round has an Escalating Cost: your second attack/spell is 3 AP, the third is 4 AP.  This means realistically you can attempt at most 2 attacks/spells per round, barring serious benefits of gaining another 2 AP that round from various abilities and forgoing your movement.
 

@@ -1,13 +1,18 @@
+# Weapon Proficiency
+In order to wield a weapon effectively, you must have Proficiency in it.  Each class starts with proficiency in a set of Weapon Categories, and you can take perks to gain proficiencies
+
+If you attempt to wield a weapon you are not proficient with, you take a **-20 penalty** to your Combat Skill while wielding it.
 # Melee Weapon Summary
 
-| Category | Damage (1h/2h) |    Reach     |  B  |  P  |  S  |
-|:--------:|:--------------:|:------------:|:---:|:---:|:---:|
-|   Axe    |    d10/d12     |    1 hex     |     |     |  ✓  |
-|  Sword   |    d10/d12     |    1 hex     |     |  ✓  |  ✓  |
-| Finesse  |     d8/d10     |    1 hex     |     |  ✓  |  ✓  |
-|   Mace   |    d10/d12     |    1 hex     |  ✓  |  ✓  |     |
-| Polearm  |    d10/d12     | 1 hex/2 hex* |  ✓  |  ✓  |  ✓  |
-|  Brawl   |     d8/--      |    1 hex     |  ✓  |  ✓  |     |
+|  Category  | Damage (1h/2h) |    Reach     |  B  |  P  |  S  |
+| :--------: | :------------: | :----------: | :-: | :-: | :-: |
+|    Axe     |    d10/d12     |    1 hex     |     |     |  ✓  |
+|   Sword    |    d10/d12     |    1 hex     |     |  ✓  |  ✓  |
+|  Finesse   |     d8/d10     |    1 hex     |     |  ✓  |  ✓  |
+|    Mace    |    d10/d12     |    1 hex     |  ✓  |  ✓  |     |
+|  Polearm   |    d10/d12     | 1 hex/2 hex* |  ✓  |  ✓  |  ✓  |
+|   Brawl    |     d8/--      |    1 hex     |  ✓  |  ✓  |     |
+| Improvised |     d4/d6      |    1 hex     |  ✓  |  ✓  |  ✓  |
 *2h Polearms have a reach of 2 hexes
 # Ranged Weapon Summary
 
@@ -129,6 +134,15 @@ Each weapon category also gains unique Class Tier Bonuses that enhance their ide
 - **Expert:** Counter Block reflects {Level} damage instead of {Level÷2}
 - **Master:** When you critically succeed on a block, you can use one Shield Flow Action for free with 2x effect
 - **Legendary:** Once per combat, your shield bash can knock all adjacent enemies prone
+# Improvised
+## Flow Actions
+- **Unexpected** (2 FP): Your first attack with a newly picked-up improvised weapon gains +4 damage as opponents aren't prepared for your creative choice of armament.
+- **Breaking Strike** (3 FP):  Your weapon breaks after this attack, but the attack gains +1 damage die from the devastating impact of sacrificing your weapon.
+## Class Tier Bonuses
+- **Journeyman:** Generate 1 FP when you pick up a new improvised weapon (once per weapon type per combat)
+- **Expert:** When an improvised weapon breaks (from Breaking Strike or Improvised Fury), adjacent enemies take {Level÷2} damage from flying debris
+- **Master:** The breaking damage debris also applies on all attacks that get a Major or Critical Success. (Critical Success will multiply the damage as usual)
+- **Legendary:** Once per combat, you can use any improvised weapon as if it were a proper weapon of your choice from any category.  The weapon keeps its improvised damage dice but gains that chosen weapon category's Flow Actions until the beginning of your next turn.  **This includes Shields.**
 
 ---
 # Advanced Flow Actions
@@ -148,6 +162,8 @@ These powerful techniques represent the pinnacle of weapon mastery, available to
 **Impaling Thrust** (4 FP): Attack an enemy up to 3 hexes away in a straight line. If successful, pull them adjacent to you and they're Restrained until they spend 2 AP to break free. Your weapon is unusable until they free themselves or you spend a free action to remove it.
 ## Brawl
 **Weapon Turn** (4 FP): Force an enemy wielding a weapon to attack themselves or an adjacent ally of your choice using their own weapon and attack skill.
+## Improvised
+**Improvised Fury** (4 FP): Make three improvised weapon attacks against any targets within reach. Each attack uses a different improvised weapon that you grab from the environment as part of the action. All weapons break after their attack regardless of success. This counts as a single action for escalating AP costs. _**Note:** These attacks do not benefit from Breaking Strike's +1 damage die bonus._
 ## Bow
 **Seeking Shot** (4 FP): Your next shot automatically achieves Normal Success and curves around cover/obstacles. Target can only Block this attack, not Dodge or Parry.
 ## Crossbow

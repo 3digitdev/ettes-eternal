@@ -2,9 +2,11 @@ Magic in this system is not going to feel the same as it does in systems like D&
 
 This system takes a more free-form approach;  Each Spellcaster simply has a list of known Spells, and a **Mana Pool** that they use to cast/modify those spells of various levels/costs.  There is no limit to how many of each Spell Level you can cast per day, provided you have the **Mana** for it, but there's a tradeoff of power versus a wider array of options throughout the day.
 
-There are 7 Spell Levels in this system, as well as **Cantrips**
-## Cantrips
-Cantrips are a special type of "innate" spell that are significantly weaker or simple utility spells.  **For all purposes where Spell Level counts, Cantrips are 0-level Spells.**
+There are 5 Spell Tiers in this system (matching directly to [[Character Classes#Class Tier System|Class Tiers]]), as well as **Novice Spells**
+## Novice Spells
+Novice Spells are a special type of "innate" spell that are significantly weaker or simple utility spells.  **For all purposes where Spell Tier counts, Novice Spells are 1 step below Apprentice Spells.**
+### Novice Spell Scaling
+Unlike other spells, Novice Spells scale with your **Adventurer Tier** (based on total character level) rather than your individual Class Tier. This ensures that even multiclass characters and resource-depleted casters maintain competitive basic magical attacks.
 
 ---
 # Mana Pool
@@ -19,7 +21,15 @@ Every Spell has 2 costs associated with it:  **Action Points (AP)** to actually 
 
 AP cost is a static *escalating* amount; See [[Combat#Actions|Combat Actions]] to see more how this works.
 
-Mana Cost is relatively simple:  **Every Spell costs a base amount of Mana equal to its Spell Level** (0-7).  [[#Cantrips]] are 0-Level spells, and thus **cost 0 mana to cast**.  This ensures that Spellcasters will always be able to cast _some_ form of magic, albeit weaker Spells, rather than resorting to more...barbaric...methods.
+Mana Cost is based on Spell Tier:
+- **Novice:** 0 mana
+- **Apprentice:** 1 mana
+- **Journeyman:** 2 mana
+- **Expert:** 3 mana
+- **Master:** 4 mana
+- **Legendary:** 5 mana
+
+You'll notice that **Novice Spells** have a Mana cost of 0; this ensures that Spellcasters will always be able to cast _some_ form of magic, rather than resorting to more...barbaric...methods.
 
 Additionally, you can expend additional Mana for various effects, the core option being on [[#Metamagic]] if you have any available to you.  Some Spellcasting Classes will also have alternative uses for your Mana!
 
@@ -28,6 +38,20 @@ Finally, if a spell targets 1 or more creatures (as opposed to being Blast/Cone/
 You can cast any spell that you have in your Spell List AND that you have the required Mana to cast.  There is no limit or cooldowns on spells, unless an effect states otherwise.
 
 After selecting your Spell, immediately pay the AP and Mana costs associated with the spell, as well as any additional AP/Mana required for additional effects such as Metamagic.  If you cannot afford to pay these costs immediately, **you cannot cast the Spell**.  Once you have paid the required costs, you can make your...
+### Heightened Spells
+When you choose a Spell to cast, and BEFORE rolling the Spellcasting Check, you may choose to **Heighten** the spell.
+
+**Heightening Cost**: +1 mana per Spell Tier increased. An Apprentice spell heightened to Expert costs +2 mana (total 3 mana).
+
+**Heightening Limit**: You **may not** Heighten a spell to a Tier higher than **the highest Spell tier you can currently cast**.
+
+**Heightening Effects**: Each level of Heightening increases the spell's damage dice and often provides additional benefits as described in the individual spell. Heightened spells use the damage scaling of their heightened tier, not their base tier.
+
+**Examples**:
+
+- A Level 10 Sorcerer (Expert Class Tier) can heighten a Journeyman spell to Expert tier for +1 mana
+- A Level 5 Sorcerer (Journeyman Class Tier) cannot heighten any spell beyond Journeyman tier
+- An Apprentice spell heightened to Master tier would cost 1 + 3 = 4 total mana
 ### Spellcasting Roll
 This is almost always standard **Spellcasting Skill Check**, unless a Spell's effect states otherwise.  If you **fail** the Spellcasting Roll, your spell fizzles and you lost all associated costs for the spell.  If you _critically fail_ the Spellcasting Roll, you may have additional complications as decided by the GM.
 
@@ -44,11 +68,11 @@ When you take damage while sustaining a Spell, you must make an **[[Basic Mechan
 ---
 # Learning Spells
 ## Starting Spells
-Every Spellcaster will have a prescribe number of Cantrips and Level 1 Spells that they know when they start the adventure. This number is specific to each Class; refer to the Class itself for this number.
-## New Spells by Level
-Each time you level up, you can learn 2 new Spells of any Spell Level that you can currently cast.  This means that when you Level up and gain access to a new Spell Level (like learning Level 2 Spells at Class Level 3), you can immediately learn 2 Spells at that newly-obtained Level.
+Every Spellcaster will have a prescribed number of Novice and Apprentice Spells that they know when they start the adventure. This number is specific to each Class; refer to the Class itself for this number.
+## New Spells by Class Level
+Each time you level up in your **spellcaster** Class, you can learn 2 new Spells of any Spell Tier that you can currently cast.  This means that when you Level up and gain access to a new Spell Tier (like gaining access to Journeyman Spells at Class Level 5), you can immediately learn 2 Spells at that newly-obtained Spell Tier.
 
-This means that, barring any additional spells learned by other means (see below), you should have roughly 38 Spells + your starting spells by level 20 (~45 spells or so), with between 4-12 spells of each Spell Level, assuming you take 2 of your highest level at each Class Level.
+This means that, barring any additional spells learned by other means (see below), you should have roughly 38 Spells + your starting spells by level 20 (~45 spells or so).
 ## Learning Spells on Adventures🚧
 Outside of the spells you learn while adventuring, you can also learn new spells via a few different methods that boil down to 
 1. Access to the spell you want to learn (a book, a teacher, etc)
@@ -57,31 +81,30 @@ Outside of the spells you learn while adventuring, you can also learn new spells
 
 ---
 # Spellcasting Advancement Table
-The following table demonstrates the scaling of your Base Mana (not linear per level!) and demonstrates what your Mana Pool would be assuming **50 Spellcasting (+5 Modifier)**.  It also shows what the maximum Spell Level you can cast at each level is.
+The following table demonstrates the scaling of your Base Mana (not linear per level!) and demonstrates what your Mana Pool would be assuming **50 Spellcasting (+5 Modifier)**.  It also shows what the maximum Spell Tier you can cast at each level is.
 
-| Level | Base Mana | Max Spell Level | Mana @ 50 |
-| :---: | :-------: | :-------------: | :-------: |
-|   1   |     1     |        1        |     6     |
-|   2   |     2     |        1        |     7     |
-|   3   |     3     |        2        |     8     |
-|   4   |     4     |        2        |     9     |
-|   5   |     5     |        3        |    10     |
-|   6   |     6     |        3        |    11     |
-|   7   |     8     |        4        |    13     |
-|   8   |    10     |        4        |    15     |
-|   9   |    12     |        5        |    17     |
-|  10   |    14     |        5        |    19     |
-|  11   |    16     |        5        |    21     |
-|  12   |    18     |        6        |    23     |
-|  13   |    20     |        6        |    25     |
-|  14   |    22     |        6        |    27     |
-|  15   |    25     |        7        |    30     |
-|  16   |    28     |        7        |    33     |
-|  17   |    31     |        7        |    36     |
-|  18   |    34     |        7        |    39     |
-|  19   |    37     |        7        |    42     |
-|  20   |    40     |        7        |    45     |
-_**Note**: Level 1-2 spells will need to be significantly weaker than linear scaling suggests, given the high daily casting frequency (7-9 level 1 spells by level 2)._
+| Level | Base Mana | Max Spell Tier | Mana @ 50 |
+| ----- | --------- | -------------- | --------- |
+| 1     | 2         | Apprentice     | 7         |
+| 2     | 3         |                | 8         |
+| 3     | 4         |                | 9         |
+| 4     | 5         |                | 10        |
+| 5     | 6         | Journeyman     | 11        |
+| 6     | 7         |                | 12        |
+| 7     | 9         |                | 14        |
+| 8     | 11        |                | 16        |
+| 9     | 13        |                | 18        |
+| 10    | 15        | Expert         | 20        |
+| 11    | 17        |                | 22        |
+| 12    | 19        |                | 24        |
+| 13    | 20        |                | 25        |
+| 14    | 21        | Master         | 26        |
+| 15    | 22        |                | 27        |
+| 16    | 23        |                | 28        |
+| 17    | 24        | Legendary      | 29        |
+| 18    | 26        |                | 31        |
+| 19    | 28        |                | 33        |
+| 20    | 30        |                | 35        |
 
 ---
 # Metamagic

@@ -1,18 +1,22 @@
 You character class is the absolute core of your identity in this system.  It will define the majority of your special abilities, how your character fights, and what role they play in your party.
-# Class Skills
-"Class Skills" are a set of 7 Skills that you select at character creation to represent your character's core competencies.
+# Hit Die
+Each Class has a defined Hit Die that defines how much HP they get per level.  See [[Basic Mechanics#Health|Health Mechanics]] on how to calculate your HP.  At Level 1, this is simply:
 
-**If you are a Spellcasting class, you MUST take Spellcasting as one of your 7 Class Skills**.  Otherwise....well, what's the point?
-
-While normal Skills all start out at 10, **Class Skills will get a +20 boost, effectively beginning the game at 30** (ignoring other potential bonuses from Ancestries/Backgrounds/etc)
-
-Class Skills do not have anything else special about them; no other bonuses, or flavor.  They simply help flesh out the further and allow more customization between characters of the same Class.
-## Class Skill Specialization
-Once you have selected your 7 Class Skills, you can then "specialize"; You have **60 points** to distribute amongst your class skills **in increments of 5**.  **No Class Skill can receive more than 20 points from this distribution**, meaning you could have up to 3 Class Skills start the game at 50 if you min/max, or you can more evenly distribute and have a single 50 skill, or anything in between!
+```
+Maximum roll of the Hit Die + your Endurance Modifier.
+```
+So a Barbarian with 65 Endurance would have **`12 + 6` = 18 HP** at level 1.
 # Weapon Proficiencies
 Most classes will start proficient in at least 1 [[Equipment#Weapon Categories|Weapon Category]] (several spellcasters start with none).  In some cases you will be asked to pick from a set of options.  Characters proficient in a weapon are proficient in both 1h and 2h weapons that fall under this category.
 
 Additionally, each player may choose 1 **extra** Weapon Category to start the game proficient in.  This includes classes that have none, like Sorcerer!  This ensures that every class starts with at least 1 Weapon Proficiency, with some player agency to flesh out their character more.
+# Starting Equipment
+All Classes start with an extremely simple initial set of equipment:
+- A single weapon that they are proficient in
+- A set of [[Equipment#Armor Materials|standard-material]] armor that they are proficient in
+- A [[Gear & Services#Standard Adventurer's Kit|Standard Adventurer's Kit]]
+- 5 gold pieces
+- 2 [[#Specialized Class Equipment]] items
 # Specialized Class Equipment
 This will be defined for each class, but these are a set of 5 options for interesting and unique items that your character can start with if they choose this Class.  **You may pick up to 2 of these items** and add them to your character sheet.  Some are consumables, and are noted as such.  If not noted, then the item does not decay, expire, or get consumed by use.
 # Classes Overview
@@ -106,7 +110,7 @@ Characters pick 2 items from their class list:
 - Wand of a cantrip chosen immediately (cast chosen cantrip 3/day for no mana cost)
 - Elemental charm (change damage type of one spell per day)
 - Spell echo ring (repeat last cantrip cast as free action, 1/day)
-- Silent casting tattoo (cast one specific cantrip for 2 AP, 0 mana, with Silent [[Magic#Metamagic|Metamagic]], uses Sorcerer [[Character Classes#Class Tier System|Class Tier]])
+- Silent casting tattoo (cast one specific cantrip for 2 AP, 0 mana, with Silent [[Magic (OLD)#Metamagic|Metamagic]], uses Sorcerer [[Character Classes#Class Tier System|Class Tier]])
 ## Witch
 - Evil eye amulet (target suffers -10 to their next roll, costs 1 RP, 1/day)
 - Hex bag (target takes -10 to saves vs your curses for full combat, costs 2 AP to activate, 1/day)
