@@ -30,6 +30,7 @@ _e.g. If you are Advancing a Skill from 65-66, you would pay 3 XP for this, rath
 |    56-70    |       4 XP       |
 |    71-80    |       6 XP       |
 |    81-90    |       8 XP       |
+
 See [[Skills#Skill Limits|Skill Limits]] for details on what limits there are to advancing Skills.
 
 ---
@@ -60,6 +61,7 @@ Although there are many ways to determine how/when players should level up, this
 | 18    |           5            |           54           |                             |
 | 19    |           5            |           59           |                             |
 | 20    |           -            |           64           |                             |
+
 _**Total Campaign Length:** ~64 sessions + however many spent at Level 20; coming out to ~1 year, 3 months assuming consistent weekly sessions._
 
 ---

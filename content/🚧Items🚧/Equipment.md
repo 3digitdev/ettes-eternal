@@ -54,6 +54,7 @@ You are both welcome and encouraged to tinker with this system!  We would not su
 |  Polearm   |    varies¹     |      d10/d12      |  ✓  |  ✓  |  ✓  |
 |   Brawl    |       1        |       d8/--       |  ✓  |  ✓  |     |
 | (Cross)Bow |    varies²     |      varies²      |     |  ✓  |     |
+
 *¹2h Polearms have a reach of 2*
 *²See [[#Bow Ranges & Damage]]*
 This clearly shows the damage type coverage for each weapon category along with their mechanical properties.
@@ -75,4 +76,5 @@ Like Weapons, Shields also have Flow Actions they grant you when wielding.  See 
 | Small Shield | -10        | 0        |
 | Large Shield | +0         | -5       |
 | Tower Shield | +10        | -10      |
+
 *Applied to Athletics, Agility, and Thievery while carrying OR wielding the shield.{Level÷2}

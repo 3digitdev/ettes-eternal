@@ -13,6 +13,7 @@ If you attempt to wield a weapon you are not proficient with, you take a **-20 p
 |  Polearm   |    d10/d12     | 1 hex/2 hex* |  ✓  |  ✓  |  ✓  |
 |   Brawl    |     d8/--      |    1 hex     |  ✓  |  ✓  |     |
 | Improvised |     d4/d6      |    1 hex     |  ✓  |  ✓  |  ✓  |
+
 *2h Polearms have a reach of 2 hexes
 # Ranged Weapon Summary
 
@@ -33,6 +34,7 @@ All weapons follow the same tier progression for damage scaling:
 | Expert     | 10              | +1          |
 | Master     | 14              | +2          |
 | Legendary  | 17              | +2          |
+
 Each weapon category also gains unique Class Tier Bonuses that enhance their identity and capabilities.
 
 ---

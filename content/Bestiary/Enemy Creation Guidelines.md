@@ -52,6 +52,7 @@ Standard Enemies serve as reliable moderate threats that require some tactical c
 | Expert           | 1d8 + modifier | 8.5            |
 | Master           | 2d8 + modifier | 13             |
 | Legendary        | 3d8 + modifier | 17.5           |
+
 _Assumes ~+4 skill modifier from 40-50 combat skill range_
 ### Combat Rules
 - **No Flow Points**
@@ -237,21 +238,3 @@ Bosses gain **3-5 Legendary Resistances** per encounter (exact number based on b
 - **Save powerful effects** until resistances are depleted
 - **Focus on reliable damage** rather than single-effect victories
 - **Coordinate timing** to maximize pressure between resistances
-## Balance and Design Philosophy
-### Encounter Pacing
-These mechanics create a three-act structure for boss fights:
-1. **Opening**: Players test boss capabilities, resistances get used
-2. **Middle**: Tactical adaptation as both sides adjust strategies
-3. **Climax**: Resistances depleted, powerful spells become viable again
-### Player Agency
-- **Transparency** ensures players understand the rules
-- **Limited resources** mean resistances will eventually be overcome
-- **Critical hit exemption** preserves moments of player excellence
-- **Strategic depth** rewards thoughtful spell selection and timing
-### GM Empowerment
-- **Flexible response tools** allow adaptation to unexpected player tactics
-- **Clear guidelines** prevent abuse while maintaining challenge
-- **Narrative enhancement** through dramatic resistance moments
-- **Encounter sustainability** keeps boss fights engaging throughout
-
-These systems transform boss encounters from potential steamroll victories into memorable, challenging experiences that showcase both player ingenuity and the epic nature of climactic confrontations.
