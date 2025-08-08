@@ -59,11 +59,6 @@ Gain +4 to Initiative rolls.
 You can wear medium armor (though you still suffer the standard penalties without Armor Training).
 ### Quick Thinking
 Use Willpower modifier instead of Agility modifier for Initiative rolls.
-### Tavern Brawler
-**Prerequisites:** Brawl Weapon Proficiency
-Increase improvised weapon damage:
-- One-handed improvised weapons: 1d6 (up from 1d4)
-- Two-handed improvised weapons: 1d8 (up from 1d6)
 ### Titanfall
 You may now [[Combat#Shove|Shove]] or [[Combat#Disarm|Disarm]] enemies 1 size category larger than you.
 ### Two-Weapon Fighter
@@ -113,8 +108,8 @@ When you are below half HP, gain bonuses based on your tier in this perk:
 |3|+1 RP per turn|
 |4|Advantage on Endurance checks|
 |5|Immune to fear and mental effects|
-### Seasoned Brawler
-**Prerequisites:** Tavern Brawler
+### Tavern Brawler
+**Prerequisites:** Weapon Proficiency (Improvised)
 Picking up/drawing a new improvised weapon from the environment or your person becomes a Free Action.  Describe what you would like to pick up from around you or from your pack, within reason for the environment or what you might be carrying.
 ### Shield Master
 **Prerequisites:** Shield Proficiency  
@@ -125,7 +120,7 @@ You become proficient at wielding Shields. You gain access to the Block [[Combat
 ## Tier 3
 ### Basically A Weapon
 **Prerequisites:** Seasoned Brawler, Endurance 50+
-You may now wield an adjacent creature your size category or lower as if they were an Improvised Weapon.  First, you must already be Grappling them.  You may make attacks with them at a **-10 penalty** as if they were a 2h Improvised Weapon.  Any attack you hit with also does 1d6 bludgeoning damage to the creature you are wielding (reduced by their DR).  Enemies you wield as such can still attempt to break free as a normal Grapple each round.  **You may not use any Flow Actions while doing this, and the "weapon breaking" rules do NOT apply as they normally would.  _Nice try._**
+You may now wield an adjacent creature your size category or lower as if they were an Improvised Weapon.  First, you must already be Grappling them.  You may make attacks with them at a **-10 penalty** (instead of Disadvantage, as described in [[Combat#Grapple|Grapple]] rules) as if they were a 2h Improvised **Melee** Weapon.  Any attack you hit with also does 1d6 bludgeoning damage to the creature you are wielding (reduced by their DR).  Enemies you wield as such can still attempt to break free as a normal Grapple each round.  **You may not use any Flow Actions while doing this, and the "weapon breaking" rules do NOT apply as they normally would.  _Nice try._**
 ### Death Defiance
 When making Death Saving Throws, treat your roll as one success tier higher. This does not turn failures into successes, but can turn critical failures into normal failures.
 ### Two-Weapon Master
