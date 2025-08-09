@@ -2,31 +2,31 @@
 
 |Perk Name|Tier|Prerequisites|Synopsis|
 |---|---|---|---|
-|Authority Figure|1|Influence 30+|Advantage when appearing to be in charge|
-|Crocodile Tears|1|Deception 30+|Advantage on faking emotions|
-|First Impressions|1|Influence 30+|Advantage on first impressions with new people|
-|Gossip Network|1|Insight 30+|Learn one interesting secret about anyone after 1 hour in their social circle|
-|Life of the Party|1|Influence 30+|Advantage on Influence during meals or social gatherings|
-|Matchmaker|1|Insight 30+|Insight check to identify romantic compatibility between any two people|
-|Name Dropper|1|Influence 30+|Advantage when mentioning connections to important people|
-|Paper Trail|1|Deception 30+|Advantage on creating false documentation|
-|Technobabble|1|Deception 30+|Advantage when lying to appear expert on a topic|
-|Cold Read|2|Insight 40+|Determine emotional state, background, and concerns within minutes|
-|Cult of Personality|2|Influence 40+|Inspire fanatical devotion in followers|
-|Emotional Contagion|2|Insight 40+|Your mood unconsciously spreads to others around you|
-|Fear Reader|2|Insight 40+|Advantage to identify fears after spending hours with someone|
-|Inspiring Presence|2|Influence 40+|2 AP to give allies +10 to next Willpower check|
-|Master of Disguise|2|Deception 40+|Create convincing physical disguises|
-|Reputation|2|Influence 40+|Choose group from list, gain benefits, can take multiple times|
-|Rumor Mill|2|Deception 40+|Advantage on spreading rumors about others|
-|Trigger|2|Insight 40+|Identify what would push mentally unstable people over edge or bring them back|
-|Voice Mimic|2|Deception 40+|Perfectly copy voices heard for 10+ minutes|
-|Web of Lies|2|Deception 40+|Maintain multiple false personas, make identity verification nearly impossible|
-|Connected|3|Influence 50+, Reputation|Advantage on Influence with chosen Reputation group|
-|Gaslighting|3|Deception 50+|Advantage on making others question their memories/perceptions|
-|Sleeper Agent|4|Deception 70+|Plant false memories/beliefs (1h + trust required)|
+|Authority Figure|Apprentice|Influence 30+|Advantage when appearing to be in charge|
+|Crocodile Tears|Apprentice|Deception 30+|Advantage on faking emotions|
+|First Impressions|Apprentice|Influence 30+|Advantage on first impressions with new people|
+|Gossip Network|Apprentice|Insight 30+|Learn one interesting secret about anyone after 1 hour in their social circle|
+|Life of the Party|Apprentice|Influence 30+|Advantage on Influence during meals or social gatherings|
+|Matchmaker|Apprentice|Insight 30+|Insight check to identify romantic compatibility between any two people|
+|Name Dropper|Apprentice|Influence 30+|Advantage when mentioning connections to important people|
+|Paper Trail|Apprentice|Deception 30+|Advantage on creating false documentation|
+|Technobabble|Apprentice|Deception 30+|Advantage when lying to appear expert on a topic|
+|Cold Read|Journeyman|Insight 40+|Determine emotional state, background, and concerns within minutes|
+|Cult of Personality|Journeyman|Influence 40+|Inspire fanatical devotion in followers|
+|Emotional Contagion|Journeyman|Insight 40+|Your mood unconsciously spreads to others around you|
+|Fear Reader|Journeyman|Insight 40+|Advantage to identify fears after spending hours with someone|
+|Inspiring Presence|Journeyman|Influence 40+|2 AP to give allies +10 to next Willpower check|
+|Master of Disguise|Journeyman|Deception 40+|Create convincing physical disguises|
+|Reputation|Journeyman|Influence 40+|Choose group from list, gain benefits, can take multiple times|
+|Rumor Mill|Journeyman|Deception 40+|Advantage on spreading rumors about others|
+|Trigger|Journeyman|Insight 40+|Identify what would push mentally unstable people over edge or bring them back|
+|Voice Mimic|Journeyman|Deception 40+|Perfectly copy voices heard for 10+ minutes|
+|Web of Lies|Journeyman|Deception 40+|Maintain multiple false personas, make identity verification nearly impossible|
+|Connected|Expert|Influence 50+, Reputation|Advantage on Influence with chosen Reputation group|
+|Gaslighting|Expert|Deception 50+|Advantage on making others question their memories/perceptions|
+|Sleeper Agent|Legendary|Deception 70+|Plant false memories/beliefs (1h + trust required)|
 # Social Skill Perk Descriptions
-## Tier 1
+## Apprentice Tier
 ### Authority Figure
 **Prerequisites:** Influence 30+  
 **Effect:** Advantage when appearing to be in charge or giving orders to others.
@@ -54,7 +54,7 @@
 ### Technobabble
 **Prerequisites:** Deception 30+  
 **Effect:** Advantage when lying to appear expert on a topic you know little about.
-## Tier 2
+## Journeyman Tier
 ### Cold Read
 **Prerequisites:** Insight 40+  
 **Effect:** Determine someone's current emotional state, general background, and immediate concerns within minutes of meeting them.
@@ -88,14 +88,15 @@
 ### Web of Lies
 **Prerequisites:** Deception 40+  
 **Effect:** You can maintain multiple false personas simultaneously without slipping up. Additionally, others find it nearly impossible to verify information about your past or identity through normal means.
-## Tier 3
+## Expert Tier
 ### Connected
 **Prerequisites:** Influence 50+, Reputation  
 **Effect:** Advantage on Influence checks when dealing with your chosen Reputation group.
 ### Gaslighting
 **Prerequisites:** Deception 50+  
 **Effect:** Advantage on making others question their own memories and perceptions.
-## Tier 4
+## Master Tier
+## Legendary Tier
 ### Sleeper Agent
 **Prerequisites:** Deception 70+  
 **Effect:** Plant false memories or beliefs in someone's mind. Requires 1 hour of interaction and the target must trust you to some extent.

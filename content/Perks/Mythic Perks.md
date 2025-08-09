@@ -27,10 +27,10 @@ Heroes can suppress any Mythic Perk effect (ephemeral or permanent) at will, act
 5. **Plan for Your Next Quest:** When designing Ephemeral Effects, carefully consider how they'll interact with your planned next quest. Abilities like unlimited flight can make certain encounters trivial or require significant encounter redesign.
 ### Power Scaling by Party Level
 **Scale with Available Tiers:** Match power levels to what the party can access normally:
-- **Level 1-4 Party:** Tier 1-2 power Ephemeral Effect, Tier 1 Permanent Effect
-- **Level 5-9 Party:** Tier 2-3 power Ephemeral Effect, Tier 1-2 Permanent Effect
-- **Level 10-14 Party:** Tier 3-4 power Ephemeral Effect, Tier 2-3 Permanent Effect
-- **Level 15-20 Party:** Beyond Tier 4 power Ephemeral Effect, Tier 3-4 Permanent Effect
+- **Level 1-4 Party:** Apprentice-Journeyman power Ephemeral Effect, Apprentice Permanent Effect
+- **Level 5-9 Party:** Journeyman-Expert power Ephemeral Effect, Apprentice-Journeyman Permanent Effect
+- **Level 10-14 Party:** Expert-Master power Ephemeral Effect, Journeyman-Expert Permanent Effect
+- **Level 15-20 Party:** Beyond Legendary Tier power Ephemeral Effect, Expert-Master Permanent Effect
 ### Acquisition Guidelines
 - **Recommended Rate:** 5-6 Mythic Perks per full 1-20 campaign 
 - **Quest Scope:** Multi-session story arcs with significant conclusions (defeated major villain, saved a city, completed planar journey) 

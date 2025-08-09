@@ -1,8 +1,8 @@
-Magic in this system is not going to feel the same as it does in systems like D&D.  Many RPG systems use what's called [Vancian Magic](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic), and it involves Spell Slots, Preparing Spells each morning, etc.
+Magic in Ettes Eternal is not going to feel the same as it does in systems like D&D.  Many RPG systems use what's called [Vancian Magic](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic), and it involves Spell Slots, Preparing Spells each morning, etc.
 
-This system takes a more free-form approach;  Each Spellcaster simply has a list of known Spells, and a **Mana Pool** that they use to cast/modify those spells of various levels/costs.  There is no limit to how many of each Spell Level you can cast per day, provided you have the **Mana** for it, but there's a tradeoff of power versus a wider array of options throughout the day.
+Ettes Eternal takes a more free-form approach;  Each Spellcaster simply has a list of known Spells, and a **Mana Pool** that they use to cast/modify those spells of various levels/costs.  There is no limit to how many of each Spell Level you can cast per day, provided you have the **Mana** for it, but there's a tradeoff of power versus a wider array of options throughout the day.
 
-There are 5 Spell Tiers in this system (matching directly to [[Character Classes#Class Tier System|Class Tiers]]), as well as **Novice Spells**
+There are 5 Spell Tiers in Ettes Eternal (matching directly to [[Character Classes#Class Tier System|Class Tiers]]), as well as **Novice Spells**
 ## Novice Spells
 Novice Spells are a special type of "innate" spell that are significantly weaker or simple utility spells.  **For all purposes where Spell Tier counts, Novice Spells are 1 step below Apprentice Spells.**
 ### Novice Spell Scaling
@@ -10,7 +10,7 @@ Unlike other spells, Novice Spells scale with your **Adventurer Tier** (based on
 
 ---
 # Mana Pool
-Mana is a common concept in fantasy referring to your innate capacity to cast spells.  Every spellcasting Class in this system will have a Mana Pool that is calculated by various values.  This Mana Pool **refreshes after a [[Basic Mechanics#Rest|Long Rest]]**.
+Mana is a common concept in fantasy referring to your innate capacity to cast spells.  Every spellcasting Class in Ettes Eternal will have a Mana Pool that is calculated by various values.  This Mana Pool **refreshes after a [[Basic Mechanics#Rest|Long Rest]]**.
 ## Calculating Mana Pool
 Your Mana Pool will be a combination of a Base Mana value for your Class Level, combined with your **Spellcasting [[Skills#Skill Modifiers|Modifier]]**.  See the [[#Spellcasting Advancement Table]] for more details.
 

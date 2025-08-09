@@ -1,4 +1,4 @@
-Animal Companions are a unique feature granted to specific classes (currently Druid and Hunter) which give those players a "sidekick" in the form of a supernaturally-talented animal of some kind that is completely loyal and obedient to the player (referred to as the "Trainer" in this system).
+Animal Companions are a unique feature granted to specific classes (currently Druid and Hunter) which give those players a "sidekick" in the form of a supernaturally-talented animal of some kind that is completely loyal and obedient to the player (referred to as the "Trainer" in Ettes Eternal).
 
 As a rule, Animal Companions are NOT hyper-intelligent.  They can understand far more than a normal animal of their type, but do not assume they're any more intelligent than, say, a perfectly trained dog.  Additionally, Animal Companions are _never_ at the same **power** level as the party.  They are not there to overshadow anyone, and thus will always be slightly worse than equivalent classes/characters.
 # Companion Stats
@@ -34,7 +34,7 @@ Your Animal Companion is smart, but still needs direction.  You must use AP on y
 - **Coordinated Attack**: Hunter and companion attack same target with timing bonus
 - **Protective Stance**: Companion grants +2 DR to Hunter for remainder of round
 # A Note On Balance
-You may assume that, if a character is expected to use 2 AP (⅓ of their turn) commanding a creature that is designed to be _less powerful_, then it might not be worth having an Animal Companion.  This system has endeavored to ensure that this is not the case, and that the benefits each character gets from the Animal Companion (such as ability to Gang Up at range with them, or the various interesting effects/boons the Companion grants) outweighs the loss of sheer damage output the character would get otherwise.  This will be an ongoing process, and we hope to continue improving so it never feels like this is an objectively wrong choice to make for your character.
+You may assume that, if a character is expected to use 2 AP (⅓ of their turn) commanding a creature that is designed to be _less powerful_, then it might not be worth having an Animal Companion.  Ettes Eternal has endeavored to ensure that this is not the case, and that the benefits each character gets from the Animal Companion (such as ability to Gang Up at range with them, or the various interesting effects/boons the Companion grants) outweighs the loss of sheer damage output the character would get otherwise.  This will be an ongoing process, and we hope to continue improving so it never feels like this is an objectively wrong choice to make for your character.
 # Advancement
 Companions gain +5 to any one Skill every level
 - All Skills have a maximum of 70, unless modified by a special ability

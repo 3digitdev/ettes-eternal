@@ -35,7 +35,7 @@ See [[Skills#Skill Limits|Skill Limits]] for details on what limits there are to
 
 ---
 # Class Level Progression
-Although there are many ways to determine how/when players should level up, this system takes an opinionated approach to the problem so as to provide a balanced and consistent progression to the game, allowing GMs not to worry about keeping player levels up or various fiddly numbers and balancing and edge cases.
+Although there are many ways to determine how/when players should level up, Ettes Eternal takes an opinionated approach to the problem so as to provide a balanced and consistent progression to the game, allowing GMs not to worry about keeping player levels up or various fiddly numbers and balancing and edge cases.
 ### Recommended Class Level Timeline
 *See [[#System Scaling|Guidelines]] below for information on deviating from this timeline!*
 
@@ -68,9 +68,4 @@ _**Total Campaign Length:** ~64 sessions + however many spent at Level 20; comin
 # Perk Acquisition
 Every character receives 1 Perk for free regardless of class at every new Class Level (including Level 1), for a total of **20 Perks by level 20**
 
-You start the game only able to buy Tier 1 Perks.  As shown in the table above, other Perks unlock at later levels:
-- **Tier 1:** Available at all levels
-- **Tier 2:** Available starting Level 5
-- **Tier 3:** Available starting Level 10
-- **Tier 4:** Available starting Level 14
-- **Tier 5:** Available starting Level 17
+You start the game only able to buy Apprentice Tier Perks.  As shown in the table above, higher Tier Perks unlock at later levels along with every other Tiered System.

@@ -32,6 +32,15 @@ Before each skill roll, the GM will assess:
 When Distance reaches 0, the pursuers catch their quarry. If the chase extends beyond reasonable narrative time, the quarry may escape through other means.
 
 ---
+# The Tables Are Turned
+In a more unlikely scenario, the players may be the ones being chased down.  In this situation, make the following modifications to the rules above:
+1. Every player has their own **Distance** value, calculated as above;  each individual can be "caught up to" independently.
+2. The players are now attempting to **increase** their own Distance values with actions, described as above.
+3. Enemy moves now are to **reduced Distance**; anything they do that reduces Distance reduces _all players'_ Distance values equally.
+## GM Note:
+This system is a little bit unbalanced against players, so make sure to not go too hard on this, and adjust the enemies' actions accordingly!  That said, 1-2 players getting caught while the rest get away is some _fantastic_ quest bait... _we won't judge you_.
+
+---
 # Example Chase Scenario
 
 ## Setup

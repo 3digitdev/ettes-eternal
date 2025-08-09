@@ -25,7 +25,6 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 **Allies**: The Ending, The Depths  
 **Enemies**: The Revealing, The Ordering
 ### Values
-- **Preserve Sacred Mysteries**: Some knowledge is too dangerous or sacred for common understanding
 - **Accept Your Limitations**: Acknowledge when you cannot or should not know something
 - **Avoid Uncharted Territories**: Refuse to explore places marked as forbidden or dangerous
 - **Protect Others From Harmful Truths**: Shield people from knowledge that would destroy them
@@ -40,10 +39,9 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 **Allies**: The Ordering, The Growing  
 **Enemies**: The Unknowing, The Concealing
 ### Values
-- **Seek Truth Actively**: Investigate mysteries and uncover hidden facts
+- **Seek Truth Actively**: Investigate mysteries and uncover hidden facts; correct misinformation and superstition.
 - **Share Knowledge Freely**: Teach others and spread useful information
 - **Expose Corruption**: Bring wrongdoing into the light
-- **Challenge False Beliefs**: Correct misinformation and superstition with facts
 ### Anathemas
 - **Willful Ignorance**: Refusing to learn when knowledge is available
 - **Hoarding Knowledge**: Keeping useful information secret for personal gain
@@ -55,7 +53,6 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 **Allies**: The Unknowing, The Changing  
 **Enemies**: The Preserving, The Growing
 ### Values
-- **Honor Natural Death**: Accept that all things must end
 - **Grant Merciful Release**: End unnecessary suffering when healing is impossible
 - **Complete Unfinished Business**: Ensure proper closure to important matters
 - **Destroy What Corrupts**: Eliminate things that have become twisted beyond redemption
@@ -73,7 +70,6 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 
 - **Nurture Potential**: Help others develop their capabilities
 - **Protect Seedlings and Children**: Defend vulnerable new life forms
-- **Create New Opportunities**: Open paths for others to advance and thrive
 - **Restore What Was Lost**: Heal emotional or spiritual wounds, rebuild communities
 ### Anathemas
 - **Destroying Potential**: Deliberately preventing others from reaching their capabilities
@@ -88,8 +84,7 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 ### Values
 - **Build Bridges**: Create understanding between different groups
 - **Honor Bonds**: Respect relationships, promises, and obligations to others
-- **Share Burdens in Life**: Help others carry their emotional and spiritual loads
-- **Strengthen Communities**: Work to make groups more cohesive and supportive
+- **Strengthen Communities**: Actively sacrifice and work to make groups more cohesive and supportive
 ### Anathemas
 - **Sowing Division**: Deliberately creating conflict between allies
 - **Breaking Oaths**: Violating promises made to others
@@ -103,7 +98,6 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 ### Values
 - **Refuse Unearned Help**: Decline assistance when you can accomplish tasks yourself
 - **Defend Others' Right to Solitude**: Actively protect people who wish to be left alone
-- **Cultivate Self-Reliance**: Develop your own capabilities rather than relying on others
 - **Protect Individual Rights**: Defend personal autonomy against group pressure
 ### Anathemas
 - **Forced Dependency**: Making others reliant on you through manipulation
@@ -117,9 +111,8 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 **Enemies**: The Consuming, The Changing
 ### Values
 - **Take Significant Risks to Shield Innocents**: Put yourself in real danger to defend those who cannot defend themselves
-- **Preserve What Matters**: Protect important people, places, and things
+- **Preserve What Matters**: Protect important people, places, and things.  Create and maintain places where people can find sanctuary.
 - **Accept Guardian Responsibilities**: Take on duties to watch over others or places
-- **Prepare Safe Refuges**: Create or maintain places where people can find sanctuary
 ### Anathemas
 - **Enabling Predators**: Allowing those you protect to harm others
 - **Cowardly Abandonment**: Fleeing when you should stand guard
@@ -133,7 +126,6 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 ### Values
 - **Take Only What Is Needed**: Seize resources necessary for survival, but no excess
 - **Efficient Use**: Waste nothing that has value
-- **Claim Victory Spoils**: Take resources or knowledge from those you defeat in fair conflict
 - **Absorb Lessons**: Learn from what you consume or conquer
 ### Anathemas
 - **Wasteful Destruction**: Destroying useful resources without purpose
@@ -146,7 +138,6 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 **Allies**: The Revealing, The Protecting  
 **Enemies**: The Unknowing, The Chaotic
 ### Values
-- **Establish Fair Rules**: Create systems that benefit everyone
 - **Mediate Disputes Justly**: Use established procedures to settle conflicts
 - **Uphold Beneficial Laws**: Support rules that serve the common good
 - **Create Lasting Institutions**: Build organizations that will endure and serve future generations
@@ -161,10 +152,9 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 **Allies**: The Changing, The Freeing  
 **Enemies**: The Ordering, The Binding
 ### Values
-- **Trust in Random Chance**: Make important decisions using dice, cards, or other random methods
+- **Trust in Random Chance**: Make *extremely* important decisions using dice, cards, or other random methods
 - **Break Unjust Systems**: Destroy structures that oppress or harm
 - **Encourage Creativity**: Support new and unusual approaches to problems
-- **Disrupt Harmful Patterns**: Interrupt routines or systems that cause suffering
 ### Anathemas
 - **Rigid Inflexibility**: Refusing to adapt when change is clearly needed
 - **Oppressive Control**: Using power to stifle others' freedom
@@ -177,9 +167,8 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 **Enemies**: The Preserving, The Binding
 ### Values
 - **Repurpose the Old for New Uses**: Transform existing things to serve different purposes
-- **Facilitate Others' Growth**: Help people transform in positive ways
-- **Evolve Beyond Limits**: Constantly improve and develop new capabilities
-- **Adapt or Perish**: Change tactics when facing defeat or failure
+- **Facilitate Others' Growth**: Help people transform in positive and extreme ways
+- **Adapt or Perish**: Take on novel and dangerous tactics when facing defeat or failure
 ### Anathemas
 - **Enforced Stagnation**: Preventing others from changing or growing
 - **Clinging to the Past**: Letting outdated methods hold you back
@@ -192,7 +181,6 @@ The divine realm consists of twelve primal Primal Deities, each representing fun
 **Enemies**: The Changing, The Ending
 ### Values
 - **Maintain Traditions**: Preserve customs and knowledge from the past
-- **Protect Legacy**: Ensure important things survive for future generations
 - **Honor Ancestors**: Respect the wisdom and sacrifices of those who came before
 - **Guard Against Historical Loss**: Prevent the destruction of culturally or historically significant things
 ### Anathemas

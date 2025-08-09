@@ -2,25 +2,25 @@
 
 |Perk Name|Tier|Prerequisites|Synopsis|
 |---|---|---|---|
-|Divine Lore|1|Religion 30+|Identify divine magic and basic religious practices|
-|Heretic|1|Religion 30+|Ignore 1 Value AND 1 Anathema of your deity|
-|Mana Sight|1|Arcana 30+|See approximate mana pools; Hard+ Success reveals exact amounts|
-|Natural Camouflage|1|Nature 30+|Use Nature instead of Thievery for stealth in wilderness|
-|Poison Resistance|1|Nature 30+|Advantage vs natural poisons, automatically identify toxic plants/creatures|
-|Quick Study|1|Any Knowledge skill 50+|1-hour study grants Advantage on subtopic for the day|
-|Research Assistant|1|Academia 50+|Train locals to gather information equivalent to Hard Success|
-|Confessor|2|Religion 40+|Use Religion instead of Influence when questioning people about secrets|
-|Counterspell Theory|2|Arcana 40+, Spellcasting 30+|Reaction: Arcana check vs enemy's Spellcasting to disrupt their spell|
-|Forbidden Knowledge|2|Any Knowledge skill 40+|Know dangerous secrets and lost information in chosen knowledge area|
-|Herbalist|2|Nature 40+|Use Nature instead of Medicine when treating poison, disease, or infection|
-|Heretic Hunter|2|Religion 40+|Hard Success identifies followers of Opposing Deities (once per person/month)|
-|Sacred Ground|2|Religion 40+|Consecrate 3-hex area providing +1 RP or +5 vs fear for allies|
-|Speed Reader|2|Academia 40+|10-minute study grants Advantage on that topic for the day|
-|Tinkerer|2|Arcana 40+, Crafting 40+|Create temporary magical items lasting 24 hours|
-|Flash of Insight|3|One Knowledge Skill 70+|Improve success level of high-skill Knowledge checks|
-|Living Library|3|Academia 80+|Auto-succeed on memorized Academia knowledge studied for 1+ hours|
+|Divine Lore|Apprentice|Religion 30+|Identify divine magic and basic religious practices|
+|Heretic|Apprentice|Religion 30+|Ignore 1 Value AND 1 Anathema of your deity|
+|Mana Sight|Apprentice|Arcana 30+|See approximate mana pools; Hard+ Success reveals exact amounts|
+|Natural Camouflage|Apprentice|Nature 30+|Use Nature instead of Thievery for stealth in wilderness|
+|Poison Resistance|Apprentice|Nature 30+|Advantage vs natural poisons, automatically identify toxic plants/creatures|
+|Quick Study|Apprentice|Any Knowledge skill 50+|1-hour study grants Advantage on subtopic for the day|
+|Research Assistant|Apprentice|Academia 50+|Train locals to gather information equivalent to Hard Success|
+|Confessor|Journeyman|Religion 40+|Use Religion instead of Influence when questioning people about secrets|
+|Counterspell Theory|Journeyman|Arcana 40+, Spellcasting 30+|Reaction: Arcana check vs enemy's Spellcasting to disrupt their spell|
+|Forbidden Knowledge|Journeyman|Any Knowledge skill 40+|Know dangerous secrets and lost information in chosen knowledge area|
+|Herbalist|Journeyman|Nature 40+|Use Nature instead of Medicine when treating poison, disease, or infection|
+|Heretic Hunter|Journeyman|Religion 40+|Hard Success identifies followers of Opposing Deities (once per person/month)|
+|Sacred Ground|Journeyman|Religion 40+|Consecrate 3-hex area providing +1 RP or +5 vs fear for allies|
+|Speed Reader|Journeyman|Academia 40+|10-minute study grants Advantage on that topic for the day|
+|Tinkerer|Journeyman|Arcana 40+, Crafting 40+|Create temporary magical items lasting 24 hours|
+|Flash of Insight|Expert|One Knowledge Skill 70+|Improve success level of high-skill Knowledge checks|
+|Living Library|Expert|Academia 80+|Auto-succeed on memorized Academia knowledge studied for 1+ hours|
 # Knowledge Skill Perk Descriptions
-## Tier 1
+## Apprentice Tier
 ### Divine Lore
 **Prerequisites:** Religion 30+  
 **Effect:** Identify divine magic and basic religious practices.
@@ -42,7 +42,7 @@
 ### Research Assistant
 **Prerequisites:** Academia 50+  
 **Effect:** Train a local (2 hours, Normal Success). They return in 8 hours with information equivalent to a Hard Success on the topic.
-## Tier 2
+## Journeyman Tier
 ### Confessor
 **Prerequisites:** Religion 40+  
 **Effect:** Use Religion instead of Influence when questioning people about their secrets or guilt.
@@ -67,10 +67,12 @@
 ### Tinkerer
 **Prerequisites:** Arcana 40+, Crafting 40+  
 **Effect:** Spend 1 hour and materials to create items with minor magical effects lasting 24 hours (light sources, minor tools, etc.).
-## Tier 3
+## Expert Tier
 ### Flash of Insight
 **Prerequisites:** At least 1 Knowledge Skill 70+  
 **Effect:** Once per day, you may increase the success level of a Knowledge Check which you have 70+ Skill Level in. (Failure → Normal Success → Hard Success → Major Success → Critical Success)
 ### Living Library
 **Prerequisites:** Academia 80+  
 **Effect:** Once per day, auto-succeed on any Academia check for information you've personally studied from books for 1+ hours.
+## Master Tier
+## Legendary Tier

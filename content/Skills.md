@@ -9,15 +9,19 @@ Skills are separated by **Skill Category**.  Many times, an ability may refer to
 |   ------------    |   ----------   |    ---------    |   ----------   | [[#Thievery]] | [[#Religion]] |
 # Skill Mechanics
 ## Skill Limits
-For any standard character, it is impossible to have a skill **below 10**, or **above 90**.  Skills have a soft-limit-range of 20-80, but in some circumstances (such as magic effects) you may be able to achieve between 10-90.  **If an effect would reduce your Skill to below 10, or increase it above 90, the Skill remains within the range of 10-90 instead.**
+For any standard character, it is impossible to have a skill **below 10**, or **above 90**.  Skills have a soft-limit-range of 20-80, but in some circumstances (such as magic effects, or higher level play) you may be able to achieve between 10-90.  **If an effect would reduce your Skill to below 10, or increase it above 90, the Skill remains within the range of 10-90 instead.**
 ## Skill Modifiers
-Many times in this system, the text will refer to your **Skill Modifier**; this represents a shorthand of your Skill's level, and is used for small modifiers to various effects.  You **Skill Modifier** in any skill is simply determined by the **tens digit of your Skill**.  _Note that this is NOT "Skill ÷ 10, rounded"_
+Many times in Ettes Eternal, the text will refer to your **Skill Modifier**; this represents a shorthand of your Skill's level, and is used for small modifiers to various effects.  You **Skill Modifier** in any skill is simply determined by the **tens digit of your Skill**.  _Note that this is NOT "Skill ÷ 10, rounded"_
 ## Basic Competency
+There are many things in other systems that commonly require checks from adventurers: horseback riding, climbing, and swimming to name a few.  In Ettes Eternal, you are heroes worthy (eventually...) of legend.  We assume every adventurer has basic competency in, well, basic adventuring.  You can swim well (enough), you can ride a horse, you can scale a wall with good handholds. 
 
+**However,** there are still plenty of situations that may call for a check even with this assumption.  Swimming through rapids, climbing a sheer cliff without gear, or racing through difficult thick forests on horseback in a mad dash.  If it makes sense that the average person who knows how to do this thing would have some difficulty, the GM is welcome to ask for a check on this.  
+
+If however, the water is calm, the cliff is rocky, and the horse is a happy boy on a flat plain, well....just do the thing and move onto more exciting stuff.  Nothing more boring than your epic adventurer dying trying to ford a relatively calm river.
 # Skill Descriptions
-Many Skills are more obvious as to what they can be applied to for their rolls.  However, some skills include "special actions" explicitly called out that show certain things you may not consider to fall under that Skill's domain.  
+Many Skills are more obvious as to what they can be applied to for their rolls.  However, some skills include "special actions" explicitly called out that show certain things you may not consider to fall under that Skill's domain.
 
-**Multiple different Skills can be appropriate to achieve a specific goal!**  You might use Influence to Intimidate someone, but you can also use your **Melee** or **Athletics** skill as well, depending on how you describe it!
+**Multiple different Skills can be appropriate to achieve a specific goal!**  You might use Influence to Intimidate someone, but you can also use your **Melee** or **Athletics** skill as well, depending on how you describe it!  Final judgement as always falls to the GM on what is appropriate.
 ## Combat
 ### Melee
 Your ability to fight with hand-to-hand weapons and in close quarters combat. This encompasses weapon technique, positioning, and understanding of combat timing and distance.
@@ -36,7 +40,7 @@ Use your weapon skills to make threatening gestures that cow opponents.
 ### Spellcasting
 Your ability to manipulate magical forces, understand arcane theory, and channel supernatural energies. This skill governs both the casting of spells and understanding of magical phenomena.
 #### Identify Magic
-Determine the nature and properties of magical effects, items, or phenomena.
+Determine the nature and properties of magical effects, items, or phenomena.  The amount you learn about the magic depends on how well you do on the roll, at GM discretion.
 
 ---
 ## Physical

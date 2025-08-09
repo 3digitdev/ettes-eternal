@@ -1,10 +1,22 @@
-# Action Economy
-The combat system is based on an Action Economy, with various actions taking certain types of action Points _(described further below)_:
-- **[[#Actions|Action Points (AP)]]** - used for most normal actions such as attacking, casting spells, etc.
-- **[[Combat#Reactions|Reaction Points (RP)]]** - used for acting on another creature's turn to react to something, such as dodging an incoming attack, etc.
-- **[[#Combat Flow System|Flow Points (FP)]]** - used for special types of combat abilities that vary depending on character, weapon, etc.
-You character will start each round/combat with a number of each of these, and gain/lose them by performing actions.
-## Actions/Turn Cheat Sheet:
+# Round Resolution Cheat Sheet
+## Round Structure
+1. **Initiative Order**: Characters act in order determined by Initiative result
+2. **Sequential Actions**: Each character declares one action, resolves it, then decides next action
+3. **Reaction Interruptions**: Reactions can interrupt the active character's turn when triggered
+4. **Round End**: "End of round" effects resolve, and new round begins; *same initiative order*
+## Individual Turn Sequence
+1. **Declare action** and spend AP
+2. **Resolve action** (including any triggered reactions)
+3. **Repeat** until AP exhausted or player chooses to end turn
+4. **Ongoing effects resolve** (bleeding, poison, etc.)
+5. **FP decay**: Lose 1 FP (unless Flow State was used)
+6. **Next character's turn**
+## Round End
+- After all characters complete turns, new round begins with same initiative order
+- No additional effects or resets
+
+---
+# Actions/Turn Cheat Sheet
 - 6 AP per round
 	- 2 AP for attacks/spells; +1 AP escalation
 	- 1 AP per Move Speed; maximum 2 AP/turn
@@ -16,6 +28,14 @@ You character will start each round/combat with a number of each of these, and g
 	- Gain 1 FP from attacks that hit, 3 FP from crits
 		- Limit 1 FP from reactions per round
 	- Lose 1 FP per round
+
+---
+# Action Economy
+The combat system is based on an Action Economy, with various actions taking certain types of action Points _(described further below)_:
+- **[[#Actions|Action Points (AP)]]** - used for most normal actions such as attacking, casting spells, etc.
+- **[[Combat#Reactions|Reaction Points (RP)]]** - used for acting on another creature's turn to react to something, such as dodging an incoming attack, etc.
+- **[[#Combat Flow System|Flow Points (FP)]]** - used for special types of combat abilities that vary depending on character, weapon, etc.
+You character will start each round/combat with a number of each of these, and gain/lose them by performing actions.
 ## Actions
 Your primary action type are just "Actions".  These are things you do in combat that will cost **Action Points (AP)**.  
 
@@ -90,8 +110,8 @@ Once you have moved to **Intercept**, you must make an **Agility** Check against
 **Cost:** 1 AP  
 **Effect:** Draw a or stow a weapon/shield
 ### Feint
-**Cost:** 2 AP  
-**Mechanic:** Make an opposed Melee or Deception roll vs target's Melee or Agility (target's choice).  
+**Cost:** 2 AP
+**Mechanic:** Make an opposed Melee or Deception roll vs target's Melee or Agility (target's choice).
 **Effect:** On success, your next attack against that target gains Advantage.
 ### Flow State
 **Cost:** 1 AP
@@ -103,17 +123,17 @@ _NOTE: This is a great choice if you have 1 AP left on your turn and nothing els
 **Restrictions:**  You can only Grapple targets that are your size category or smaller
 **Effect:** On success, both characters are grappled.
 **Effects While Grappled:**
-- **Attacker:** Can make reasonable actions (GM discretion) at Disadvantage
+- **Attacker:** Must spend 2 AP per round to maintain the Grapple; can make reasonable actions (GM discretion) at Disadvantage
 - **Defender:** Cannot take actions except one Opposed Athletics check per round to break free
 - **Movement:** Neither can move independently
-- **Duration:** Until defender wins Athletics contest or effect is broken
+- **Duration:** Until defender wins Athletics contest or the effect is broken or ended
 ### Ready Action
 **Cost:** N/A
 **Effect:** Define a specific trigger condition and choose an action to take when that trigger occurs. When the trigger happens, you act immediately at that point in the initiative order. Your initiative position moves to that point for subsequent rounds.
 
 ***Example Triggers:** "When an enemy enters my reach," "When the wizard starts casting," "When the door opens"*
 ### Shove
-**Cost:** 2 AP  
+**Cost:** 2 AP
 **Mechanic:** Opposed Athletics roll vs target.
 **Restrictions:**  You can only Shove targets that are your size category or smaller
 **Before Rolling:** Choose either Push Back OR Knock Prone.
@@ -121,7 +141,7 @@ _NOTE: This is a great choice if you have 1 AP left on your turn and nothing els
 - **Normal Success:** Achieve chosen effect (push back 1 hex OR knock prone)
 - **Hard Success+:** Can choose to do both effects (push back 1 hex AND knock prone)
 ### Total Defense
-**Cost:** 3 AP (ends turn immediately)  
+**Cost:** 3 AP (ends turn immediately)
 **Effect:** Gain +1 RP and Advantage on all Reactions until the beginning of your next turn.
 ### Tumble Through
 **Cost**: 1 AP
@@ -153,22 +173,6 @@ Surprise attacks are simply 1 round of combat resolved normally, but only the su
 First, roll initiative for everyone (even the surprised party).  The _surprising_ party gets their free 2 FP at the start of combat in this Surprise Round.  **The surprised party starts the Surprise round with 0 AP, 0 RP, and 0 FP** (they get their 2 free FP at the start of the first normal round of combat)
 
 Resolve the Surprise Round as a normal round of combat other than these rule exceptions above.  Once the surprising party has all taken a turn, then combat proceeds as normal following initiative order.  _This can mean that high-rolling surprisers will get multiple turns before the enemy gets one!_
-## Round Resolution Cheat Sheet
-### Round Structure
-1. **Initiative Order**: Characters act in order determined by Initiative result
-2. **Sequential Actions**: Each character declares one action, resolves it, then decides next action
-3. **Reaction Interruptions**: Reactions can interrupt the active character's turn when triggered
-4. **Round End**: "End of round" effects resolve, and new round begins; *same initiative order*
-### Individual Turn Sequence
-1. **Declare action** and spend AP
-2. **Resolve action** (including any triggered reactions)
-3. **Repeat** until AP exhausted or player chooses to end turn
-4. **Ongoing effects resolve** (bleeding, poison, etc.)
-5. **FP decay**: Lose 1 FP (unless Flow State was used)
-6. **Next character's turn**
-### Round End
-- After all characters complete turns, new round begins with same initiative order
-- No additional effects or resets
 
 ---
 # Movement 
@@ -281,7 +285,7 @@ _Yes, you're correct in realizing there's absolutely no base mechanical benefit 
 ---
 # Combat Flow System
 ## Inspiration
-The **Flow System** is a new concept to this system that is intended to make Melee and Ranged combatants have more interesting things to do on their turn than the standard class abilities and "I swing my sword twice, roll damage".  **Note that this system is not applied to Spellcasters**. They have many of their own interesting things to do each round due to expansive spell lists, and thus did not need this.  You can think of this as a sort of "Spell List" for Martial Combat.
+The **Flow System** is a new concept to Ettes Eternal that is intended to make Melee and Ranged combatants have more interesting things to do on their turn than the standard class abilities and "I swing my sword twice, roll damage".  **Note that this is not applied to Spellcasters**. They have many of their own interesting things to do each round due to expansive spell lists, and thus did not need this.  You can think of this as a sort of "Spell List" for Martial Combat.
 ## Flow Points
 **Flow Points** are a separate pool of action points given to martial combatants as reward for certain actions, and represent a martial character getting into the "flow of combat", and being able to achieve interesting results the more/longer they fight.  **Flow Points** are gained in a variety of ways, and **can be banked between turns**.  You are not required to have 0 FP at the end of your turn or risk losing it.  There is a [[#Flow Decay]] mechanic that will sap some FP each turn, and many abilities that may sap FP in their effect.
 ### Maximum FP

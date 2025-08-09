@@ -2,20 +2,20 @@
 
 |Perk Name|Tier|Prerequisites|Synopsis|
 |---|---|---|---|
-|Evidence Hunter|1|Perception 30+|Advantage on Perception checks at crime scenes/investigation scenarios|
-|Iron Will|1|Willpower 30+|Advantage on saves vs mind control/charm effects|
-|Paranoia|1|Perception 30+|Advantage to spot someone tailing or eavesdropping on you|
-|Treasure Hunter|1|Perception 30+|Successful check tells you the most valuable item in sight at the moment|
-|Willpower Clarity|1|Willpower 30+|Hard Success lets you see through low-level illusions|
-|Illusion Sense|2|Perception 40+|Actively detect illusions within spell level {Level÷2} range|
-|Stubborn Refusal|2|Willpower 40+|Once per day, automatically resist one effect that would force you to do something|
-|Threat Assessment|2|Perception 40+|Advantage on checks to evaluate combat capabilities of visible opponents|
-|Voice Recognition|2|Perception 40+|Instantly match voices you've heard before, even through disguise/accents|
-|Mental Fortress|3|Willpower 50+|Immune to fear and mind-reading, resist interrogation/torture|
-|Perfect Clarity|3|Willpower 60+, Willpower Clarity|Normal Success sees through low-level illusions|
-|True Sight|3|Illusion Sense, Perception 60+|Passively detect illusions within spell level {Level÷2} range|
+|Evidence Hunter|Apprentice|Perception 30+|Advantage on Perception checks at crime scenes/investigation scenarios|
+|Iron Will|Apprentice|Willpower 30+|Advantage on saves vs mind control/charm effects|
+|Paranoia|Apprentice|Perception 30+|Advantage to spot someone tailing or eavesdropping on you|
+|Treasure Hunter|Apprentice|Perception 30+|Successful check tells you the most valuable item in sight at the moment|
+|Willpower Clarity|Apprentice|Willpower 30+|Hard Success lets you see through low-level illusions|
+|Illusion Sense|Journeyman|Perception 40+|Actively detect illusions within spell level {Level÷2} range|
+|Stubborn Refusal|Journeyman|Willpower 40+|Once per day, automatically resist one effect that would force you to do something|
+|Threat Assessment|Journeyman|Perception 40+|Advantage on checks to evaluate combat capabilities of visible opponents|
+|Voice Recognition|Journeyman|Perception 40+|Instantly match voices you've heard before, even through disguise/accents|
+|Mental Fortress|Expert|Willpower 50+|Immune to fear and mind-reading, resist interrogation/torture|
+|Perfect Clarity|Expert|Willpower 60+, Willpower Clarity|Normal Success sees through low-level illusions|
+|True Sight|Expert|Illusion Sense, Perception 60+|Passively detect illusions within spell level {Level÷2} range|
 # Mental Skill Perk Descriptions
-## Tier 1
+## Apprentice Tier
 ### Evidence Hunter
 **Prerequisites:** Perception 30+  
 **Effect:** Advantage on Perception checks at crime scenes or investigation scenarios.
@@ -31,7 +31,7 @@
 ### Willpower Clarity
 **Prerequisites:** Willpower 30+  
 **Effect:** Hard Success on Willpower checks lets you see through low-level illusions.
-## Tier 2
+## Journeyman Tier
 ### Illusion Sense
 **Prerequisites:** Perception 40+  
 **Effect:** Make an active Perception check to detect illusions of spell level {Level÷2} or lower.
@@ -44,7 +44,7 @@
 ### Voice Recognition
 **Prerequisites:** Perception 40+  
 **Effect:** Instantly match voices you've heard before to their source, even through disguise or accents.
-## Tier 3
+## Expert Tier
 ### Mental Fortress
 **Prerequisites:** Willpower 50+  
 **Effect:** Immune to fear effects and mind-reading attempts. Additionally, you can remain calm and focused during interrogation, torture, or other high-pressure situations without breaking.
@@ -54,3 +54,5 @@
 ### True Sight
 **Prerequisites:** Illusion Sense, Perception 60+  
 **Effect:** Passively detect illusions of spell level {Level÷2} or lower without needing to roll.
+## Master Tier
+## Legendary Tier

@@ -1,6 +1,6 @@
 ## Quick Reference Table
 - _All persistent damage can be ended by spending 2 AP (no roll)._
-- _Effects marked "--" last until cause ends or specific removal method used._
+- _Effects marked "--" last until the cause ends or specific removal method used._
 
 | Effect                | Removal Check     | Brief Effect                                          |
 | --------------------- | ----------------- | ----------------------------------------------------- |
@@ -25,20 +25,21 @@
 | Confused              | Willpower         | Must attack last hostile actor or closest             |
 | Frightened            | Willpower         | Disadvantage vs source; can't approach                |
 
-## Persistent Damage Effects
+---
+# Persistent Damage Effects
 **Notation:** Persistent damage is noted by "**Persistent #**" where # denotes the damage each round.  This could be either a flat number ("Persistent 4") or a damage roll ("Persistent 1d4")
 
 **Application:** Damage amount based on the effect that caused it. If another effect would cause persistent damage of the same type, the higher minimum result replaces the lower value. **No stacking.**
 
-**Timing:** Persistent Damage is applied at the end of the affected character's turn.
+**Timing:** Persistent Damage is applied at the end of the affected character's turn, _before_ the affected character's free attempt to remove the effect (see below)
 
 **Damage:**  If the damage is a roll, the damage is rolled at the end of each new turn, rather than as a single roll that's continuously applied.
-### Removing Persistent Effects
-**After damage is applied each turn**, the character may make a single appropriate Skill Check to end the effect:
+## Removing Persistent Effects
+**After damage is applied each turn**, the character may make a single appropriate Skill Check as a Free Action to end the effect:
 - **Bleed/Poison/Shock:** Endurance check
 - **Fire/Ice/Acid:** Agility check
 **Active Removal:** A character may spend 2 AP on their turn to end any persistent damage effect with no roll required.
-### Persistent Damage Types
+## Persistent Damage Types
 - **Bleed** - Physical trauma, persistent blood loss
 - **Fire** - Burning effects, heat damage
 - **Ice** - Freezing effects, frostbite damage
@@ -46,42 +47,47 @@
 - **Poison** - Toxins, venom, harmful substances
 - **Acid** - Corrosive damage, chemical burns
 
-## Physical Status Effects
-### Asleep
+---
+# ‼️Diminishing Returns
+Each time someone is affected (fails to resists, etc.) a **Physical** or **Mental** Status Effect, they gain **Advantage** resisting further attempts of the **same effect** (not the same **type**, merely the same **status effect**).  Additionally, future of the same status have **half the duration** that they normally would, or in the case of statuses that would last until removed, **the creature gains Advantage on rolls to resist/end the effect**.  After the second of the same effect has afflicted a creature within the same combat, they are **immune to that effect for the remainder of the combat**.
+
+---
+# Physical Status Effects
+## Asleep
 **Duration:** Until the cause states it ends  
 **Effect:** Similar to Paralyzed. An ally can spend 2 AP on their turn to rouse you from Sleep with no skill check required.
-### Blind
+## Blind
 **Duration:** Until the cause states it ends  
 **Effect:** Cannot attempt vision-based Perception checks. All vision-based skill checks (attacking, spellcasting, etc.) suffer -50 penalty to hit targets or achieve intent.
-### Invisible
+## Invisible
 **Duration:** Until removed  
 **Effect:** Enemies must make a Major Success Perception check to discover your location. Cannot be targeted by attacks or spells (but AoE can still hit). Taking hostile actions or casting spells ends Invisibility after the action resolves. Attacks/spells while Invisible are treated as Surprise Round actions.
-### Paralyzed
+## Paralyzed
 **Duration:** Until the cause states it ends  
 **Effect:** Immediately lose all AP, RP, and FP. Fall Prone and are considered helpless - cannot defend against any actions taken toward you.
-### Prone
+## Prone
 **Duration:** Until removed  
 **Effect:** Disadvantage on Attack and Agility rolls (but not Spellcasting). Melee attacks gain Advantage against you, Ranged attacks gain Disadvantage against you. Spells targeting you are unaffected.  
 **Removal:** Stand up for 1 AP (provokes reactions) OR crawl 1 hex for 1 AP (does not provoke reactions).
-### Restrained
+## Restrained
 **Duration:** Until the cause states it ends  
 **Effect:** As Stunned, but once per round you may make an appropriate skill check (usually Endurance or Agility) to slip/break free.
-### Slowed
+## Slowed
 **Duration:** Until the cause states it ends  
 **Effect:** Move at half rate per AP spent. Cannot take Step Actions.
-### Stunned
+## Stunned
 **Duration:** Until the cause states it ends  
 **Effect:** Immediately lose all FP and RP. Can only Move 1 hex on your turn (this movement provokes reactions). Can still take other Actions as normal.  Not knocked Prone by this effect.
-## Mental Status Effects
-### Charmed
+# Mental Status Effects
+## Charmed
 **Duration:** Until removed  
 **Effect:** Cannot attack the source and treat them as an ally.  
 **Removal:** Willpower save at the end of each turn.
-### Confused
+## Confused
 **Duration:** Until the cause states it ends  
 **Effect:** Any attacks must target the person who last took a hostile action. If not in range, attack the closest person physically. Ties determined randomly.  
 **Removal:** Successful Willpower check at the end of each turn.
-### Frightened
+## Frightened
 **Duration:** Until removed  
 **Effect:** Disadvantage on all actions dealing with the fear source. Cannot approach the source. If you critically fail a Willpower check while Frightened, must spend at least 1 AP moving directly away from the source (unless doing so would endanger you).  
 **Removal:** Ally spends AP talking you back to your senses, OR succeed a Willpower check at the end of each turn.

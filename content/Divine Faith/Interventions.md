@@ -1,4 +1,4 @@
-## Tier 1 Interventions
+## Apprentice Interventions
 
 |Name|Category|Summary|
 |---|---|---|
@@ -11,7 +11,7 @@
 |**Fear of God**|Curse|All enemies become Frightened for 3 rounds of chosen source. Plea effect penalizes Willpower saves.|
 |**Chains of Faith**|Curse|Halve enemy movement speed for Level÷2 rounds. Plea effect extends duration.|
 |**Disruption**|Curse|Enemies limited to 2 FP maximum for Level÷2 rounds. Plea effect immediately drains FP.|
-### Tier 1 Intervention Descriptions
+### Apprentice Intervention Descriptions
 #### Holy Nova
 **Cost:** 3 AP + 5 Favor  
 **Range:** 10 hexes from caster  
@@ -98,7 +98,7 @@ All enemies within range can have **no more than 2 FP at any time** for **Level 
 **Plea Effect:** Make a Religion skill check. On success, enemies immediately lose additional Flow Points: **1 FP per success level, totaling 4 FP lost on a Critical Success.**
 
 ---
-## Tier 2 Interventions
+## Journeyman Interventions
 
 |Name|Category|Summary|
 |---|---|---|
@@ -108,7 +108,7 @@ All enemies within range can have **no more than 2 FP at any time** for **Level 
 |**Divine Rebalance**|Blessing|Improve roll success tiers once per round for Level÷2 rounds. Plea effect allows lowering enemy results.|
 |**Heretic's Misfortune**|Curse|Expand enemy critical failure range to 85+ for Level÷2 rounds. Plea effect reduces critical success range.|
 |**Holy Confessor**|Curse|Enemies cannot lie for Level÷2 minutes. Plea effect compels answers to specific questions.|
-### Tier 2 Intervention Descriptions
+### Journeyman Intervention Descriptions
 #### Font of Life
 **Cost:** 4 AP + 8 Favor  
 **Range:** 10 hexes from caster  

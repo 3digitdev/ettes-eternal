@@ -1,10 +1,10 @@
 Many systems have different ways of handling "Divine" sources of magic.  A most common example is having one or more Classes (commonly Cleric or Paladin) that channel the divine to cast their own spells; similar to Arcane or Natural Magic, but with a slightly different flavor.
 
-You might have noticed by now that this system has neither Cleric OR Paladin as Class choices.  That's because this system decided to take a different approach to the Divine.  I wanted the Divine magics to be exactly how they sound; godly, incredible effects and, just like religion itself, hypothetically accessible to anyone with enough faith and prayer.  The gods will bless those who praise them, and provide them with incredible miracles, or... Divine Intervention.
+You might have noticed by now that Ettes Eternal has neither Cleric OR Paladin as Class choices.  That's because we decided to take a different approach to the Divine.  We wanted the Divine magics to be exactly how they sound; godly, incredible effects and, just like religion itself, hypothetically accessible to anyone with enough faith and prayer.  The gods will bless those who praise them, and provide them with incredible miracles, or... Divine Intervention.
 
-So what if you wanted to play a Cleric?  You're probably feeling a tad disappointed right now, and we understand.  The good news is you can make something similar to a Cleric or a Paladin within this system; you just won't be a Divine Smite-slinging Undead Slayer like you're used to.  Instead, you get to play any other class you want and ALSO be a Cleric!  You could be a Fighter championing his Primal Deity's cause (sounds like a Paladin, right?) or a Rogue with a heart of gold.  But why should it be so limited?  Barbarians have their own Primal Deities too, why wouldn't their Gods answer to their pleas?  What prevents a Sorcerer from praying to a Goddess of Magic and receiving boons?
+So what if you wanted to play a Cleric?  You're probably feeling a tad disappointed right now, and we understand.  The good news is you can make something similar to a Cleric or a Paladin within Ettes Eternal; you just won't be a Divine Smite-slinging Undead Slayer like you're used to.  Instead, you get to play any other class you want and ALSO be a Cleric!  You could be a Fighter championing his Primal Deity's cause (sounds like a Paladin, right?) or a Rogue with a heart of gold.  But why should it be so limited?  Barbarians have their own Primal Deities too, why wouldn't their Gods answer to their pleas?  What prevents a Sorcerer from praying to a Goddess of Magic and receiving boons?
 # Channeling the Divine
-So how does this work?  Well, in this system, the Divine is available to anyone.  In order to open your character to the divine, you must take the [[Magic Perks#Divine Practitioner|Divine Practitioner]] Perk.  This represents your dedication to the [[Religion#Pantheon|Primal Deity]] of your choice, and opens up the world of Divine Interventions for you. 
+So how does this work?  Well, in Ettes Eternal, the Divine is available to anyone.  In order to open your character to the divine, you must take the [[Magic Perks#Divine Practitioner|Divine Practitioner]] Perk.  This represents your dedication to the [[Religion#Pantheon|Primal Deity]] of your choice, and opens up the world of Divine Interventions for you. 
 
 Although it's as simple as a single Perk, the **prerequisites** of the perk (high Religion Skill) means that you need significant Skill investment in order to gain the benefits of this system.  Given the power available from these Interventions, this is intended to ensure you never have more than 1, maybe 2 players in a single party that are wielding that power.
 
@@ -34,7 +34,7 @@ As mentioned, various acts will allow you to increase your favor
 #### Common Sources 
 ##### Morning/Evening Prayers
 **Favor Gained**: 1 Favor.
-This will be one of your primary consistent forms of Favor gain.  If you spend at least 1 hour praying between 5am-12pm (Morning Prayers), or 1 hour praying between 5pm-12am (Evening Prayers) you can gain 1 Favor for each (so up to 2 Favor per in-game day)
+This will be one of your primary consistent forms of Favor gain.  If you spend at least 1 hour praying between 5am-12pm (Morning Prayers), or 1 hour praying between 5pm-12am (Evening Prayers) you can gain 1 Favor (you only gain this once per day; praying at both times is encouraged for devotion, but will not gain extra Favor!)
 
 **CAVEAT FOR PLAYERS AND GM:**  Your Primal Deities do not favor lackadaisical worshippers, especially those capable of spreading their word.  Similar to the restrictions in [[Character Advancement (OLD)#Session Productivity|Session Productivity]], if your GM decides that your party is slacking off and not actively pursuing goals, or if the divine practitioner(s) in the party is/are not working their hardest, they may decide that you are not worthy of Favor for simply paying lip service twice a day!  **The GM may decide at any time for roleplaying reasons to withhold Morning/Evening Prayer benefits, in order to ensure the party is not merely banking up Favor**.
 
@@ -57,17 +57,19 @@ This one is rather straightforward.  Like with Strict Values Adherence, each Pri
 ### Acting Against Values
 If you perform, condone, or participate in any actions that are in direct conflict with your Primal Deity's [[Religion#Values|Values]], OR offer assistance/mercy to any Enemy of your Primal Deity, you will immediately **lose 10 Favor**, to a minimum of 0 Favor remaining.  This is not something to take lightly; your Primal Deity choice drives much of your character's decisions, or you pay the price!
 # Using Interventions
-Like the Perks in this system, Interventions follow a 4-Tier structure.
+Like the Perks in Ettes Eternal, Interventions follow a 5-Tier structure.
 ## Making a Plea
 This is a special Action you can use at any time, but commonly in Combat situations.  As the name suggests, you must take several seconds to make a Plea to your Primal Deity, asking them to grant you a specific Intervention.
 
 **Costs**:
-- (Tier + 2) Action Points (3 AP for Tier 1 → 6 AP for Tier 4)
+- 3 Action Points Base, +1 for each Tier above Apprentice (3 AP for Apprentice → 6 AP for Expert).  
+	- Legendary Tier also will require sacrificing all RP for the round as well!
 - Favor points (cost is based on Intervention, with ranges for each Tier):
-	- **Tier 1:** 3-5 favor
-	- **Tier 2:** 6-8 favor
-	- **Tier 3:** 9-11 favor
-	- **Tier 4:** 12-14 favor
+	- **Apprentice:** 3-5 favor
+	- **Journeyman:** 6-8 favor
+	- **Expert:** 9-11 favor
+	- **Master:** 12-14 favor
+	- **Legendary: 15-20 favor**
 
 When you make a Plea, **Success is guaranteed.**  You will gain the Base Effect for the Intervention just by spending the AP + Favor.  It is **recommended** that you incorporate some Roleplaying to this mechanic, but you are **not required to** if you are not comfortable.
 ## Plea Effects

@@ -1,11 +1,11 @@
 # Multiclass Perk Table
 
-| Perk Name          | Tier | Prerequisites                    | Synopsis                                                     |
-| ------------------ | ---- | -------------------------------- | ------------------------------------------------------------ |
-| Multiclass Acolyte | 2    | -                                | Gain levels 1-5 of secondary class, stackable up to 5 times  |
-| Multiclass Expert  | 3    | 5 Multiclass Acolyte perk stacks | Gain levels 6-10 of secondary class, stackable up to 5 times |
+| Perk Name          | Tier       | Prerequisites                    | Synopsis                                                     |
+| ------------------ | ---------- | -------------------------------- | ------------------------------------------------------------ |
+| Multiclass Acolyte | Journeyman | -                                | Gain levels 1-5 of secondary class, stackable up to 5 times  |
+| Multiclass Expert  | Expert     | 5 Multiclass Acolyte perk stacks | Gain levels 6-10 of secondary class, stackable up to 5 times |
 # Multiclass Perk Descriptions
-## Tier 2
+## Journeyman Tier
 ### Multiclass Acolyte
 **Prerequisites:** None  
 **Effect:** On first purchase, choose a Secondary Class (can only multiclass into one class total). This decision cannot be changed except in extreme circumstances later on.
@@ -15,7 +15,7 @@
 On receipt of each stack of this Perk, you receive the next level of class features (levels 1-5). All multiclass features scale using the Level of your Secondary Class. Your total Health is still calculated using your Primary Class's hit dice; your Secondary Class has no effect on base stats like this.
 
 This Perk can stack up to 5 times.
-## Tier 3
+## Expert Tier
 ### Multiclass Expert
 **Prerequisites:** 5 Multiclass Acolyte perk stacks  
 **Effect:** Gain access to levels 6-10 of your Secondary Class. Each purchase grants the next level of class features (levels 6-10).

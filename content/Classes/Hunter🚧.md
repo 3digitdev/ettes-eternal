@@ -23,7 +23,7 @@ Once per day, you can craft a number of special arrows/bolts based on your Hunte
 | Master     | 9          |
 | Legendary  | 12         |
 ### Field Crafting
-Choose any 2 different [[Traps#Tier 1 Traps|Tier 1 Traps]] to learn. You can craft and deploy each known trap once per day for no materials costs.  You may still craft any number of traps in a day based on time/materials; this ability gives you 2 free each day.
+Choose any 2 different [[Traps#Apprentice Traps|Apprentice Traps]] to learn. You can craft and deploy each known trap once per day for no materials costs.  You may still craft any number of traps in a day based on time/materials; this ability gives you 2 free each day.
 
 You also gain a +5 to Survival when deploying the trap to determine spot/disarm/resist difficulties.
 ### Can't Hide

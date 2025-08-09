@@ -1,5 +1,5 @@
 # Overview
-Here are the high-level steps for creating a new character in this system:
+Here are the high-level steps for creating a new character in Ettes Eternal:
 1. Select a [[Character Classes|Character Class]] and pick your [[Character Classes#Starting Equipment|Starting Equipment]]
 2. Set your [[#Initial Skill Levels]] and set up **Class Skills**
 3. Select an [[#Ancestries|Ancestry]]

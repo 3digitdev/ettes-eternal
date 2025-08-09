@@ -1,4 +1,4 @@
-This system provides scalable stat blocks for four enemy types designed to create consistent, balanced encounters throughout your campaign. Each enemy type serves a specific tactical role and scales automatically with party advancement using Class Tier progression.
+Ettes Eternal attempts to provide scalable stat blocks for four enemy types designed to create consistent, balanced encounters throughout your campaign. Each enemy type serves a specific tactical role and scales automatically with party advancement using Class Tier progression.
 - **[[#Mooks]]** provide numerous but fragile opposition
 - **[[#Standard Enemies]]** offer reliable moderate threats
 - **[[#Lieutenants]]** serve as dangerous mini-bosses requiring coordinated party effort

@@ -1,6 +1,6 @@
 The **Social Challenge** system was designed to give a bit of a more interesting feel to higher pressure social situations like interrogations, high pressure political navigation, and other such events.  Not all roleplaying will use this (see below) but this provides a framework for GMs to make it more obvious how well players are doing at the situation, and provide them easy avenues for moving the story and conversation along.
 ## When to Use Social Challenges
-**Social Challenges** are formal structured social encounters used when players need to overcome significant NPC resistance to achieve important goals. Use this system when:
+**Social Challenges** are formal structured social encounters used when players need to overcome significant NPC resistance to achieve important goals. Use Social Challenges when:
 - The NPC has strong reasons to refuse the request (fear, loyalty, secrets, conflicting interests)
 - The social goal is important to the story or character advancement
 - Simple roleplay or a single skill check feels insufficient for the stakes involved

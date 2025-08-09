@@ -1,26 +1,26 @@
 # Magic Perk Table
 
-|Perk Name|Tier|Prerequisites|Synopsis|
-|---|---|---|---|
-|Divine Practitioner|1|Religion 60+, allegiance to a chosen Deity|Gain the ability to use [[Divine Intervention\|Divine Interventions]]|
-|Spell Initiate|1|-|Learn 2 cantrips from another spellcasting class|
-|Magic Eater|1|-|Gain HP when targeted by spells, stackable|
-|Spell Dreamer|1|-|Dream about magical events elsewhere for cryptic visions|
-|Synchronized Casting|1|-|+2 damage when casting same turn as ally, stackable|
-|Weekly Resonance|1|Spellcasting 30+|Choose one day for spell damage bonus, opposite day penalty|
-|Basic Metamagic|2|Spellcasting 30+|Choose one Basic Metamagic option, stackable|
-|Counterspell Expert|2|Spellcasting 40+|Disrupt enemy spellcasting within range|
-|Elemental Affinity|2|Spellcasting 40+|Specialize in one damage type for +4 damage and resistance|
-|Arcane Diplomat|2|Spellcasting 30+|Communicate with magical creatures, social bonuses|
-|Spell Backlash|2|Spellcasting 30+|Enemies take damage when critically failing spells near you|
-|Spell Disruption|2|Spellcasting 40+|Enemies get -5 to spellcasting within 2 hexes|
-|Passive Arcane Sense|2|Spellcasting 30+|Automatically detect magic within 3 hexes|
-|War Caster|3|Spellcasting 50+|Enhanced combat spellcasting and concentration|
-|Advanced Metamagic|3|Basic Metamagic, Spellcasting 50+|Choose one Advanced Metamagic, pick new one each time taken|
-|Devout Practitioner|3|Religion 40+|+1 Favor from chosen source, -5 when violating values|
-|Divine Specialist|3|Religion 50+, Divine Practitioner|One Intervention category costs 1 less Favor|
+| Perk Name            | Tier       | Prerequisites                              | Synopsis                                                                                 |
+| -------------------- | ---------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Divine Practitioner  | Apprentice | Religion 60+, allegiance to a chosen Deity | Gain the ability to use [[Divine Intervention\|Divine Interventions]]                    |
+| Spell Initiate       | Apprentice | -                                          | Learn 2 cantrips from another spellcasting class                                         |
+| Magic Eater          | Apprentice | -                                          | Gain HP when targeted by spells, stackable                                               |
+| Spell Dreamer        | Apprentice | -                                          | Dream about magical events elsewhere for cryptic visions                                 |
+| Synchronized Casting | Apprentice | -                                          | +2 damage when casting same turn as ally, stackable                                      |
+| Weekly Resonance     | Apprentice | Spellcasting 30+                           | Choose one day for spell damage bonus, opposite day penalty                              |
+| Basic Metamagic      | Journeyman | Spellcasting 30+                           | Choose one Basic Metamagic option, stackable                                             |
+| Counterspell Expert  | Journeyman | Spellcasting 40+                           | Disrupt enemy spellcasting within range                                                  |
+| Elemental Affinity   | Journeyman | Spellcasting 40+                           | Specialize in one damage type for +4 damage and resistance                               |
+| Arcane Diplomat      | Journeyman | Spellcasting 30+                           | Communicate with magical creatures, social bonuses                                       |
+| Spell Backlash       | Journeyman | Spellcasting 30+                           | Enemies take damage when critically failing spells near you                              |
+| Spell Disruption     | Journeyman | Spellcasting 40+                           | Enemies get -5 to spellcasting within 2 hexes                                            |
+| Passive Arcane Sense | Journeyman | Spellcasting 30+                           | Automatically detect magic within 3 hexes                                                |
+| War Caster           | Expert     | Spellcasting 50+                           | Enhanced combat spellcasting and concentration                                           |
+| Advanced Metamagic   | Expert     | Basic Metamagic, Spellcasting 50+          | Choose one Advanced Metamagic, pick new one each time taken                              |
+| Devout Practitioner  | Expert     | Religion 40+                               | Gain 1 extra Favor when adhering to Values, and only take -5 Favor when violating Values |
+| Divine Specialist    | Expert     | Religion 50+, Divine Practitioner          | One Intervention category costs 1 less Favor                                             |
 # Magic Perk Descriptions
-## Tier 1
+## Apprentice Tier
 ### Divine Practitioner
 **Prerequisites:** Religion 60+, allegiance to a chosen [[🚧Religion🚧#Pantheon|Deity]] **Effect**: You are recognized as a champion of your Deity, and are granted access to [[Divine Intervention|Divine Interventions]] on behalf of that Deity.
 ### Spell Initiate
@@ -54,7 +54,7 @@
 ### Weekly Resonance
 **Prerequisites:** Spellcasting 30+  
 **Effect:** Choose one day of the week. On that day, your spells deal +2 damage. On the opposite day of the week, your spells deal -2 damage.
-## Tier 2
+## Journeyman Tier
 ### Basic Metamagic
 **Prerequisites:** Spellcasting 30+  
 **Effect:** Choose one [[Magic (OLD)#Metamagic|Basic Metamagic]] option (Extend, Split, Still, Rebound, Surge, or Widen). You can apply it to your spells. Each time you take this perk, choose a different Basic Metamagic option.
@@ -76,7 +76,7 @@
 ### Passive Arcane Sense
 **Prerequisites:** Spellcasting 30+  
 **Effect:** Your Perception skill automatically detects magical auras within 3 hexes without requiring any action or roll. You sense the presence and general school of magic, but not specific details.
-## Tier 3
+## Expert Tier
 ### War Caster
 **Prerequisites:** Spellcasting 50+  
 **Effect:** You can cast spells while wielding weapons and shields without penalty. When you take damage while sustaining a spell, you have Advantage on the opposed roll to maintain it. Additionally, you can use spells for Reaction Attacks instead of weapon attacks.
@@ -84,8 +84,10 @@
 **Prerequisites:** Basic Metamagic, Spellcasting 50+  
 **Effect:** Choose one [[Magic (OLD)#Metamagic|Advanced Metamagic]] option. You can apply it to your spells. Each time you take this perk, choose a different Advanced Metamagic option.
 ### Devout Practitioner
-**Prerequisites:** Religion 40+  
-**Effect:** Choose one source of Favor gain. You gain +1 additional Favor from that source, but lose 5 Favor (instead of 1) when acting against your deity's values.
+**Prerequisites:** Religion 70+  
+**Effect:** You gain +1 additional Favor from adhering to your Values, and only lose 5 Favor (instead of 10) when acting against your deity's values.
 ### Divine Specialist
 **Prerequisites:** Religion 50+, [[Divine Intervention|Divine Intervention]]  
 **Effect:** Choose one Intervention category (Healing, Blessing, or Curse). All interventions of that type cost 1 less Favor.
+## Master Tier
+## Legendary Tier

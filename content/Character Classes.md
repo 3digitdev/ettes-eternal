@@ -1,4 +1,4 @@
-You character class is the absolute core of your identity in this system.  It will define the majority of your special abilities, how your character fights, and what role they play in your party.
+You character class is the absolute core of your identity in Ettes Eternal.  It will define the majority of your special abilities, how your character fights, and what role they play in your party.
 # Hit Die
 Each Class has a defined Hit Die that defines how much HP they get per level.  See [[Basic Mechanics#Health|Health Mechanics]] on how to calculate your HP.  At Level 1, this is simply:
 
@@ -36,7 +36,7 @@ The following is a table providing a general look at the basics of each class
 # Class Tier System
 The Class Tier system represents your growing mastery and power within each of your character classes. Unlike equipment-based scaling, your Class Tier is an **inherent** part of your class progression.  While this is simply an abstraction of your Class Level, this is used to help scale power levels throughout the game for various systems.
 ## Tier Progression
-Each class advances through five distinct tiers based on your level in that class.  **You automatically gain the next Class Tier upon reaching the minimum level required for it**.  There are no feats, no training.  A heavier roleplay group might want to set up a "training" requirement, or some kind of instructor to help you "tier up", but this is not required by the rules.
+Each class advances through the five Tiers based on your level in that class, as mentioned in the [[Basic Mechanics#Tiered Systems|Tier System]] description.  **You automatically gain the next Class Tier upon reaching the minimum level required for it**.  There are no feats, no training.  A heavier roleplay group might want to set up a "training" requirement, or some kind of instructor to help you "tier up", but this is not required by the rules.
 
 | Class Tier | Minimum Level | Description                                       |
 | ---------- | ------------- | ------------------------------------------------- |
@@ -63,7 +63,7 @@ Spells use the Class Tier of the specific spellcasting class they belong to for 
 See [[#Appendix A Multiclassing Examples]] for a more detailed look at how this works for multiclassing more clearly.
 # Specialized Class Equipment
 Characters pick 2 items from their class list:
-## Bard
+## Bard 🚧
 - Instrument of minor charm (captivate audience for performance)
 - Harmony earrings (hear conversations clearly up to 20 hexes away)
 - Lore crystal (answers one simple lore question for free 1/day)
@@ -75,7 +75,7 @@ Characters pick 2 items from their class list:
 - Clarity totem (ignore negative effects of a single Rage.  3 total uses, and then becomes inert)
 - Ancestral bone dice (gain advantage on one Athletics or Endurance check per day)
 - Animal calling whistle (summon one local animal per day)
-## Druid
+## Druid 🚧
 - Nature speaking staff (communicate with plants in 10 hex radius, 1/day)
 - Nature's wrath seeds (throw seed to deal {Level÷2} poison damage in 2-hex radius, 3/day)
 - Grove marker (create temporary sacred space 1/day)
@@ -93,7 +93,7 @@ Characters pick 2 items from their class list:
 - Battle standard (allies within 3 hexes gain +5 to fear resistance)
 - Combat reflexes amulet (gain 1 extra Reaction Point per round for one combat, 1/day)
 - Victory chalice (drink after killing enemy, costs 1 RP, grants 5 temporary HP, 1/day)
-## Monk
+## Monk 🚧
 - Meditation beads (reduce AP cost of one action by 1, minimum 1, once per day)
 - Iron body wraps (gain +3 DR against first attack each combat)
 - Focus crystal (regain 2 Flow Points instantly, 1/day)
@@ -111,7 +111,7 @@ Characters pick 2 items from their class list:
 - Elemental charm (change damage type of one spell per day)
 - Spell echo ring (repeat last cantrip cast as free action, 1/day)
 - Silent casting tattoo (cast one specific cantrip for 2 AP, 0 mana, with Silent [[Magic (OLD)#Metamagic|Metamagic]], uses Sorcerer [[Character Classes#Class Tier System|Class Tier]])
-## Witch
+## Witch 🚧
 - Evil eye amulet (target suffers -10 to their next roll, costs 1 RP, 1/day)
 - Hex bag (target takes -10 to saves vs your curses for full combat, costs 2 AP to activate, 1/day)
 - Brewing cauldron (create a single magical potion per day with a successful Crafting skill and no materials required; this magical potion can replicate any non-damaging spell you currently know at your Witch [[Character Classes#Class Tier System|Class Tier]].  You may not apply Metamagic to this spell effect.)
@@ -149,7 +149,7 @@ Characters pick 2 items from their class list:
 - Dramatic entrance grappling hook (+10 to first attack if you used movement to get into combat)
 - Lucky charm (reroll critical failure 3/day, costs 1 RP to use)
 # Variant Rule: Class Skill Bundles
-If you would like some help with picking out Class Skills, this system introduces an option called "Class Skill Bundles" which are a set of ~5 pre-defined Class Skills for each.  These Skills represent your class's primary proficiencies, matching to the archetype each represents.
+If you would like some help with picking out Class Skills, Ettes Eternal introduces an option called "Class Skill Bundles" which are a set of ~5 pre-defined Class Skills for each.  These Skills represent your class's primary proficiencies, matching to the archetype each represents.
 
 **Additionally**, every you pick 2 other Skills not on your Class's list, and those 2 skills become Class Skills as well, for a total of **7 Class Skills** like normal.
 

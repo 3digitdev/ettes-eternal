@@ -2,38 +2,38 @@
 ## Dice Basics
 This system uses a d100-based system in order to easily represent difficulties, power level, and odds of success at a glance.
 
-For any non-damage roll that you attempt, you will have a **Target Number (TN)** that you need to achieve.  You roll a d100, and simply compare the result of your roll against the **TN**.  If your roll is **less than or equal to the TN**, you have succeeded on the check.  If your roll is **greater than the TN**, you have failed the check.
+For any non-damage roll that you attempt, you will have a **Skill Level** that you need to achieve.  You roll a d100, and simply compare the result of your roll against the **Skill Level**.  If your roll is **less than or equal to the Skill Leve4l**, you have succeeded on the check.  If your roll is **greater than the Skill Level**, you have failed the check.
 ## Success & Failure
 ### Success/Failure Levels
 There are 4 **Success Levels** and 2 **Failure Levels** when performing a roll:
 - **Critical Failure**: Your roll was ≥95.
-	- Even if your **TN** was >95 (extremely rare but technically possible), this roll is considered an abject failure, and the GM will assign consequences to the roll appropriate for the situation.
--  **Failure**: Your roll was > **Target Number**
+	- Even if your **Skill Level** was >95 (extremely rare but technically possible), this roll is considered an abject failure, and the GM will assign consequences to the roll appropriate for the situation.
+-  **Failure**: Your roll was > **Skill Level**
 	- You failed to achieve the result you wanted, but no other consequences occur.
--  **Normal Success**: Your roll was ≤ **Target Number**
+-  **Normal Success**: Your roll was ≤ **Skill Level**
 	- You succeed on the roll as normal, with no extra benefits
-- **Hard Success**: Your roll was ≤ ½ **Target Number**
+- **Hard Success**: Your roll was ≤ ½ **Skill Level**
 	- You succeeded on the roll in an impressive way, or succeeded at a particularly hard task
-- **Major Success**: Your roll was ≤ ¼ **Target Number**
+- **Major Success**: Your roll was ≤ ¼ **Skill Level**
 	- You succeeded on the roll in an incredible way, or succeeded on an extremely difficult task
 - **Critical Success**: Your roll was ≤ 05
 	- You have succeeded in spectacular fashion.  The GM will assign an incredible result along with your expected result, appropriate for the situation.
 #### Rounding
-To keep things simple and consistent, when dividing some number for a result (such as ½ **Target Number**):  **ALWAYS ROUND ALL FRACTIONS UP TO NEXT WHOLE NUMBER.**  
+To keep things simple and consistent, when dividing some number for a result (such as ½ **Skill Level**):  **ALWAYS ROUND ALL FRACTIONS UP TO NEXT WHOLE NUMBER.**  
 e.g. `25.5` becomes `26`, `33.25` becomes `34`, etc.
-## Difficulty Levels & Target Numbers
-In order to remain consistent, all difficulty modifiers to determining the success of the check will be handled as modifications to either the **Difficulty Level** or the **Target Number**, rather than placing bonuses/negatives on the roll result itself.
+## Difficulty Levels & Skill Levels
+In order to remain consistent, all difficulty modifiers to determining the success of the check will be handled as modifications to either the **Difficulty Level** or the **Skill Level**, rather than placing bonuses/negatives on the roll result itself.
 ### Difficulty Levels
 As a default any given roll should only require a **Normal Success** in order to succeed at the task.  However, in many circumstances like performing an especially hard task, the GM may require that you achieve a **Hard** or **Major Success** in order to succeed at the check.  In these situations, a **Success Level** lower than that (like a **Normal Success**) will be considered a **Failure**.
-### Target Number Modifications
-Very rarely, an ability or circumstance may temporarily modify your normal **Target Number** for a roll by ±5, ±10, etc.  These should be straightforward, and are applied only to the **Target Number**, with negatives making the roll harder, and positives making the roll easier.
+### Skill Level Modifications
+Very rarely, an ability or circumstance may temporarily modify your normal **Skill Level** for a roll by ±5, ±10, etc.  These should be straightforward, and are applied only to the **Skill Level**, with negatives making the roll harder, and positives making the roll easier.
 ## Advantage & Disadvantage
-Sometimes an ability or circumstance will grant you **Advantage** or **Disadvantage** on your roll.  In these situations, your **Target Number** remains the same, but you get to roll your dice **2 times**
+Sometimes an ability or circumstance will grant you **Advantage** or **Disadvantage** on your roll.  In these situations, your **Skill Level** remains the same, but you get to roll your dice **2 times**
 and take the higher result (**Advantage**) or lower result (**Disadvantage**)
 ## Opposed Checks
 In many situations such as combat, you will find yourself resolving the situation as an **Opposed Check**. In this situation, there's usually someone on offense ("**Attacker**"), and someone opposing them ("**Defender**").
 
-The Attacker makes their check.  **If they succeed**, have the Defender then make their check, and compare **the _**success/failure levels.**_ (_not the resulting rolls_):
+The Attacker makes their check.  **If they succeed**, have the Defender then make their check, and compare **the _**success/failure levels,**_ _NOT the resulting rolls_:
 - If Defender's success level was less than the Attacker's success level, the Attacker wins
 - If the Defender's success level was equal to the Attacker's success level, it's a [[#Resolving Ties|Tie]]
 	- NOTE: [[Combat#Reaction System|Reactions]] in combat handle ties in a specific way!
@@ -51,7 +51,7 @@ When 2 people tie a roll, default to the underlying Skill being rolled;  The per
 
 In the rare case that there is a **complete** tie (identical Skill levels), then resolve in favor of the **players**. If it's two players who tied, then let the players decide who wins their own way.
 ## Extended Checks
-In some rare situations the GM will request that you do an **Extended Check**.  These represent efforts over an extended period of time, such as crafting an item.
+In some situations the GM will request that you do an **Extended Check**.  These represent efforts over an extended period of time, such as crafting an item.
 
 The GM will determine a **number of Successes** that you need to complete the check, and will determine how often you can make the roll.  In certain circumstances, you may need to achieve the desired number of successes within a maximum number of attempts (_example: You need 5 successes in the next week, but can only roll a Check once per day_).
 
@@ -110,7 +110,7 @@ The Rogue rolls with effectively 85 skill but must roll twice and take the lower
 
 ---
 # Skills Introduction
-In this system there is no separation of Attributes/Characteristics and Skills like you find in other systems.  Your character is defined by a set of 19 different **[[Skills]]** that your character will have various levels of ability in.  Your Skill may have a value of anywhere between 1-100 (_[[#Skill Limits|limits apply]]_). In the vast majority of circumstances, you will be rolling a Skill Check to resolve any situation, and your Skill Level (modified rarely) will represent the **Target Number** for your Skill Check.
+In this system there is no separation of Attributes/Characteristics and Skills like you find in other systems.  Your character is defined by a set of 19 different **[[Skills]]** that your character will have various levels of ability in.  Your Skill may have a value of anywhere between 1-100 (_[[#Skill Limits|limits apply]]_). In the vast majority of circumstances, you will be rolling a Skill Check to resolve any situation, and your Skill Level (modified rarely) will represent the **Skill Level** for your Skill Check.
 
 **Examples:**
 - 50 Endurance → +5 Endurance Modifier
@@ -121,7 +121,7 @@ For more detailed information about Skills, please refer to the [[Skills]] secti
 
 ---
 # Flow System
-In certain situations such as [[Combat|Combat]], you can gain **Flow Points** to use to achieve interesting effects or perform special actions.  **Flow Points** are separate from the normal **Action/Reaction Points** used in Combat, and the rules for gaining/losing them depend on the situation.  See the individual sections for more information on how the Flow System works for that section.
+In certain situations (primarily [[Combat|Combat]]), you can gain **Flow Points** to use to achieve interesting effects or perform special actions.  **Flow Points** are separate from the normal **Action/Reaction Points** used in Combat, and the rules for gaining/losing them depend on the situation.  See the individual sections for more information on how the Flow System works for that section.
 
 ---
 # Characters
@@ -153,7 +153,7 @@ All characters have a default **Move Speed** of 6 hexes per round.   Outside of 
 Unless specified otherwise by Ancestry, characters have standard human senses and sense abilities.
 ## Character Features
 ### Ancestry
-Every character has an [[Character Creation#Ancestries|Ancestry]] (commonly called a Race in other systems) which represents your bloodline/lineage.  These Ancestries will grant you certain benefits, including Class Skills, a Skill Bonus, and an Ancestral Trait.  The idea behind these is to simply provide some small flavor and abilities, rather than becoming the "correct" choice for any given class like other systems might be.  See the [[Character Creation#Ancestries|Ancestries]] for more details
+Every character has an [[Character Creation#Ancestries|Ancestry]] (commonly called a Race in other systems) which represents your bloodline/lineage.  These Ancestries will grant you certain benefits including a Skill Bonus and an Ancestral Trait.  The idea behind these is to simply provide some small flavor and abilities, rather than becoming the "correct" choice for any given class like other systems might be.  See the [[Character Creation#Ancestries|Ancestries]] for more details
 ### Background
 A [[Character Creation#Backgrounds|Background]] represents a baseline for what your character used to do before beginning their adventures.  Each Background grants an additional Skill Bonus based on the choice, as well as a set of useful and interesting Roleplaying Bonuses unique to each Background to help give players a leg-up at the beginning of a campaign.  Backgrounds provide very little _mechanical_ benefit;  They are intended to either be a capstone or a jumping-off point for you to define your character's backstory!  See the [[Character Creation#Backgrounds|Backgrounds]] for more details.
 ### Class
@@ -179,7 +179,7 @@ If an ally stabilizes you at any point in this process, you become unconscious a
 ## Death Saves
 While Dying, you have 4 death save rolls (one per round on your turn) that you can attempt before you permanently die.
 
-The Death Save roll is a flat d100 roll with a **Target Number of 60**.  There are very few, if any, effects or abilities which can modify this Target Number.
+The Death Save roll is a flat d100 roll with a **Skill Level of 60**.  There are very few, if any, effects or abilities which can modify this Skill Level.
 
 In order to fend off permanent death, you need **3 successes to stabilize without assistance**. A Critical Success counts as 2 successes for the sake of this tally, but you still only get 1 success even if your roll is a Major Success.
 
@@ -204,10 +204,17 @@ Every time a character takes a [[#Rest|Long Rest]], they may attempt 1 Recovery 
 **Once per day**, a player may have non-magical healing applied to them (usually through the Medicine Skill), which allows them to take one extra Recovery Roll for that day.  **Note: Better rolls from the healer rolling the Medicine skill may increase the Recovery amount!  See the [[Skills#Medicine|Medicine Skill]] for more details.**
 
 This means that, outside of magical healing, **a player may not roll more than 2 Recovery Rolls per day.**
+# Tiered Systems
+Ettes Eternal, in many of its mechanics and systems, uses the concept of "Tiers" of play.  This represents how the game is progressing.  In basically any situation you will have 5 Tiers:
+1. Apprentice
+2. Journeyman
+3. Expert
+4. Master
+5. Legendary
+The abilities, effects, and other mechanics for each Tiered System in Ettes Eternal scales as you increase in Tiers, with Legendary Tier producing effects worthy of its namesake.
+
+This convention was chosen to easily track progress and match up when new systems/tiers unlock across all of Ettes Eternal.  You can see when these Tiers are achieved in the [[Character Advancement#Class Level Progression|Class Level Progression]] table.  **Without exception**, each new Tier of effects for a subsystem is unlocked at the same time for all subsystems.  You will get access to Expert Tier Perks at the same time as Expert Tier Traps, and Expert Tier Spells, etc.
 
 ---
 # Getting Started
 Now that you have a basic idea of how the system works, you can either check out the various linked pages (we recommend starting in [[Skills]]), or you can head right over to [[Character Creation]] and start making your first adventurer!
-
----
-# Glossary🚧

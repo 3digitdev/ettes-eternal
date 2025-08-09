@@ -1,6 +1,5 @@
 # Core GM Philosophy
-
-This system minimizes GM complexity through consistent mechanics. Your primary job is facilitating heroic fantasy while maintaining meaningful challenges. Focus on narrative flow over mechanical optimization.
+Ettes Eternal minimizes GM complexity through consistent mechanics. Your primary job is facilitating heroic fantasy while maintaining meaningful challenges. Focus on narrative flow over mechanical optimization.
 # Balance Guidelines
 ## Avoid Modifier Creep
 The system intentionally avoids scattered +/-5 bonuses. When players ask for situational modifiers, use **Advantage/Disadvantage** instead. Reserve flat bonuses for specific abilities and spells only.  These are hard to keep track of and we want to avoid people having to keep track of 8 different modifiers like in _some_ systems...

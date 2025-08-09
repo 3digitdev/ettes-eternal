@@ -1,4 +1,4 @@
-In order to provide the maximum amount of customization within reason, this system also allows players to "**Multiclass**"; that is, to select an entire secondary Character Class that interacts with their Primary Class and grants new abilities.
+In order to provide the maximum amount of customization within reason, Ettes Eternal also allows players to "**Multiclass**"; that is, to select an entire secondary Character Class that interacts with their Primary Class and grants new abilities.
 #### IMPORTANT RULE TERMINOLOGY
 - Throughout this document, and the rest of the rulebook, you will hear reference to "Primary Class" to refer to your base Class that you created your character with, and "Secondary Class" to refer to the Class you choose to Multiclass into.
 - **For the sake of all non-secondary-class effects, when an effect would refer to "Level" (such as "you deal {Level÷2} damage, it is referring to your PRIMARY Class Level.  So if you are a Level 10 Sorcerer and Level 2 Fighter, you would deal 5 damage (Level 10 ÷ 2)**.

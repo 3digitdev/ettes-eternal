@@ -1,15 +1,15 @@
 # Armor
-This system uses "Armor-as-Damage-Reduction (DR)" which is different from many other D&D-like systems..  Every piece of armor + material has a Damage Reduction (DR) value that reduces your damage from _each hit_ by that much, even down to taking 0 damage!  This means that Armor no longer represents an abstract chance to not take damage (like AC or THAC0), but simply a direct reduction of any damage you take.  This meshes better with the way combat works, rolling against your own stats rather than against enemies.
+Ettes Eternal uses "Armor-as-Damage-Reduction (DR)" which is different from many other D&D-like systems..  Every piece of armor + material has a Damage Reduction (DR) value that reduces your damage from _each hit_ by that much, even down to taking 0 damage!  This means that Armor no longer represents an abstract chance to not take damage (like AC or THAC0), but simply a direct reduction of any damage you take.  This meshes better with the way combat works, rolling against your own stats rather than against enemies.
 ### Armor Categories & Properties
 - **Light Armor**: 1 DR, no penalties
 - **Medium Armor**: 2 DR, -10 to Agility, Thievery, Spellcasting, and Athletics
 - **Heavy Armor**: 3 DR, -20 to Agility, Thievery, Spellcasting, and Athletics
 ### Armor Materials
-Most armor will be created out of basic materials; Cloth, Leather, and Metal.  This system provides you some example "special materials" that you can craft any type of armor out of that lets you customize your armor in unique ways, as well as increasing the DR value of the Armor!
+Most armor will be created out of basic materials; Cloth, Leather, and Metal.  Ettes Eternal provides you some example "special materials" that you can craft any type of armor out of that lets you customize your armor in unique ways, as well as increasing the DR value of the Armor!
 
 All armor materials can be used for any armor type (Light/Medium/Heavy); you can have Metal Light Armor just as easily as Cloth Heavy Armor (kind of weird, but it's high fantasy...)
 #### Bring Your Own Materials
-You are both welcome and encouraged to tinker with this system!  We would not suggest going above +2 on DR, but bring your own ideas for materials for armor, and give them a special property.  Scaling-wise, try to match power levels to the DR bonus, and anything that does damage should do `{Level÷2}` or `{Level}` damage for scaling and balance purposes.
+You are both welcome and encouraged to tinker with this materials system!  We would not suggest going above +2 on DR, but bring your own ideas for materials for armor, and give them a special property.  Scaling-wise, try to match power levels to the DR bonus, and anything that does damage should do `{Level÷2}` or `{Level}` damage for scaling and balance purposes.
 #### Metal Materials
 
 |   Material   | DR  | Special Property                                                                                                 |

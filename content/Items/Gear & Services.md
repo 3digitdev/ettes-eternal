@@ -1,3 +1,15 @@
+# Currency
+- **100 Copper (c)** = 1 Silver
+- **100 Silver (s)** = 1 Gold
+- **100 Gold (g)** = 1 Platinum
+- **100 Platinum (p)** = 1 Diamond (d)
+## Basic Income Reference
+- **Average townsperson**: 50s-1g per month (laborers, shopkeepers, craftsmen)
+- **Skilled artisan**: 5-10g per month
+- **Wealthy merchant**: 50g-1p per month
+- **Noble/Lord**: 5+ Platinum per month
+
+---
 # Standard Adventurer's Kit
 All adventurers start with this kit for free.
 This is a backpack with the following items in it:
@@ -11,6 +23,8 @@ This is a backpack with the following items in it:
 - **Basic Tool Kit** - Hammer, nails, small knife for general utility
 - **Small Sack (2)**
 - **Oil Flask**
+
+---
 # Toolkits
 **Note: All Toolkits cost 2 gold each**
 
@@ -23,6 +37,8 @@ This is a backpack with the following items in it:
 |  Scholar's Kit  | Quills, ink, parchment, magnifying glass, reference notes          | Required for detailed Academia research and copying complex texts                               |
 |  Survival Kit   | Snares, fishing line, water purification tablets, navigation tools | Required for certain Survival checks in harsh wilderness environments                           |
 |  Trapper's Kit  | Basic trap-making materials                                        | Contains 20 **Trap Materials**                                                                  |
+
+---
 # Basic Items
 
 There used to be a table here, with prices and items.  Lots of them.  All the prices were under 1g.  **What's the point.**  
@@ -40,6 +56,8 @@ You're heroes, even if you're level 1.  You can afford basic items.  I leave it 
 | Night Vision Elixir |  1g  | See in darkness as if it were dim light for 2 hours           |
 | Fortifying Draught  |  2g  | Advantage on next Endurance check within 1 hour               |
 |    Clarity Tonic    |  3g  | Advantage on next Willpower check within 1 hour               |
+
+---
 # Cost of Living (Urban Areas)
 
 | Standard of Living | Cost (Day) | Amenities                                                                                           |
@@ -47,6 +65,8 @@ You're heroes, even if you're level 1.  You can afford basic items.  I leave it 
 |      Subsist       |     3c     | Shared room in flophouse, street food, worn clothing. Basic shelter and sustenance only.            |
 |    Comfortable     |     3s     | Private room at inn, quality meals, decent clothing. Clean accommodation with regular services.     |
 |      Flourish      |     2g     | Luxury suite, fine dining, tailored clothing. Premium services, personal attendants, social access. |
+
+---
 # Basic Services
 
 |      Service      | Cost (Day) | Description                                                             |
