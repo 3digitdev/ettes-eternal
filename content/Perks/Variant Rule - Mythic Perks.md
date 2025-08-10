@@ -17,7 +17,7 @@ Heroes can suppress any Mythic Perk effect (ephemeral or permanent) at will, act
 **This is something UNIQUE to Mythic Perks;  normal Perks _cannot be suppressed in this manner_.**
 ## Guidelines for GMs
 ### Power Level Expectations
-**Ephemeral Effects** should exceed Tier 4 perk power significantly - think game-changing abilities that would normally require multiple high-level spells or magical items. These are temporary, so be bold.
+**Ephemeral Effects** should exceed normal power of available Perks at the given level significantly - think game-changing abilities that would normally require multiple high-level spells or magical items. These are temporary, so be bold.
 **Permanent Effects** should feel like enhanced Perk effects of appropriate level - meaningful but not campaign-breaking since they're permanent additions.
 ### Design Principles
 1. **Epic Names:** Use evocative titles that capture the quest's essence. "Avatar of the Plane of Air" tells a story; "Flight Perk" does not.

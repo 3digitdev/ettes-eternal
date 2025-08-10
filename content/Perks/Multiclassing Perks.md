@@ -7,7 +7,7 @@
 # Multiclass Perk Descriptions
 ## Journeyman Tier
 ### Multiclass Acolyte
-**Prerequisites:** None  
+**Prerequisites:** None
 **Effect:** On first purchase, choose a Secondary Class (can only multiclass into one class total). This decision cannot be changed except in extreme circumstances later on.
 
 **If you are using the "Class Skills" variant rule:** On first purchase, gain one non-overlapping Class Skill from the Secondary Class at +10.
@@ -17,9 +17,10 @@ On receipt of each stack of this Perk, you receive the next level of class featu
 This Perk can stack up to 5 times.
 ## Expert Tier
 ### Multiclass Expert
-**Prerequisites:** 5 Multiclass Acolyte perk stacks  
+**Prerequisites:** 5 [[#Multiclass Acolyte]] perk stacks
+**Restriction:** You **cannot** take this Perk if it would increase your Secondary Class Level above your `Primary Class Level ÷ 2` (_you must wait until level 12 to get Secondary Class Level 6, etc._)
 **Effect:** Gain access to levels 6-10 of your Secondary Class. Each purchase grants the next level of class features (levels 6-10).
 
-You must already have 5 Multiclass Acolyte perks for your Secondary Class.
+You must already have 5 Multiclass Acolyte perk stacks for your Secondary Class.
 
-Can be taken up to 5 times.
+This Perk can stack up to 5 times.

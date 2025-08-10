@@ -31,7 +31,7 @@ Determines health scaling by class. Each class has a different HD (d6, d8, d10, 
 ## Interventions
 See [[#Divine Intervention]]. The specific miraculous effects available to divine practitioners.
 ## Mythic Perks
-Special story-based rewards granted to entire parties after completing major quest arcs. Provide both powerful temporary abilities and permanent benefits. See [[Mythic Perks]].
+Special story-based rewards granted to entire parties after completing major quest arcs. Provide both powerful temporary abilities and permanent benefits. See [[Variant Rule - Mythic Perks]].
 ## Mana Pool
 The magical energy resource used by spellcasters. Calculated from base mana (determined by class level) plus [[Skills#Skill Modifiers|Spellcasting Modifier]]. Refreshes after [[Basic Mechanics#Rest|Long Rest]].
 ## Metamagic
