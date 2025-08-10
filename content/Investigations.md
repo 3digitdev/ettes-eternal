@@ -1,40 +1,14 @@
-# Building Investigation Scenarios
-## Node-Based Design
-Structure investigations as **scenes** (locations, people, or events) connected by **clues** rather than predetermined linear paths. Each scene should contain multiple potential clues that can lead to other scenes, creating a web of information rather than a single chain.
-
-Players can approach scenes in multiple orders based on what they discover, allowing for organic investigation flow based on character interests and player choices.
-## The Three-Clue Rule
-Every investigation should offer **at least three different clue sources** to solve the mystery. This prevents bottlenecks where missing one crucial piece of information stalls the entire investigation.
-
-**Example Investigation - The Missing Professor:**
-- **Crime Scene:** Professor's ransacked office with signs of struggle
-- **Witness Interviews:** Students and colleagues who saw suspicious activity
-- **Records Research:** Academic correspondence revealing threatening letters
-
-If players struggle with one clue source, two others remain available to complete the investigation.
-## Guaranteed Progress Principle
-Characters with relevant skills and reasonable approaches should always discover **something useful** when investigating appropriate sources. The question isn't whether they find information, but how much detail they uncover and what complications arise from their methods.
-## Skill Flexibility
-Each clue source should be approachable through **2-3 different skills**, allowing parties with different expertise to contribute meaningfully. A crime scene might be investigated through Perception (physical evidence), Medicine (examining injuries), or Insight (reading the scene's emotional context).
-
----
-# When to Use Investigation Challenges
-**Investigation Challenges** are formal structured mystery encounters used when players need to uncover significant information or solve complex mysteries. Use this system when:
-- The mystery has multiple interconnected clues requiring systematic investigation
-- Simple skill checks feel insufficient for the complexity and importance of the mystery
-- There are meaningful risks and consequences to different investigative approaches
-- The information is crucial to story advancement or character goals
-
-**Regular skill checks** should be used for:
-- Simple information gathering where NPCs have no reason to hide facts
-- Routine research or knowledge recalls
-- Single-clue discoveries that don't require extended investigation
-- Situations where the mystery itself isn't the primary challenge
+# Introduction
+## Guaranteed Progress
+Investigations are designed to be fun and interesting, not frustrating dead-ends.  To that extent, a party performing an investigation are not trying to find out IF they discover the mystery, but rather _how_ they do it; what path(s) they follow, what secrets they discover or miss, and what complications they run into along the way.
+## When To Use
+This system wasn't designed for every tiny little secret out there.  Many "investigations" in Ettes Eternal may be resolvable with a couple of simple Skill Checks.  This system was designed primarily for campaigns that want to center around investigations;  A party that wants to solve mysteries, track down cults, and uncover hidden conspiracies.  There can be plenty of combat still sprinkled into such a campaign (leaving the rest of the system still useful), but this system would provide the core gameplay experience for such campaigns or quest lines.
 
 ---
 # Core Mechanics
-## Skills Used
-Any skill can potentially contribute to an investigation depending on the approach:
+The core mechanics of an Investigation will be very similar to those in [[Social Challenges]].  This is intentional so that there aren't any new mechanics introduced simply for this sub-system.  Additionally, for extra realistic investigations, one could transition directly into a Social Challenge when doing something like interrogating a suspect or witness to a murder, or other such ideas!  Although the system described below uses simple Skill Check resolution mechanics, nothing is stopping you from mixing and matching the systems in Ettes Eternal however you prefer!
+## Using Skills
+A large majority of the [[Skills]] already defined can be quite useful in Investigations;
 - **Perception** - Physical evidence, crime scenes, noticing details
 - **Insight** - Reading people, detecting deception, understanding motivations
 - **Academia** - Research, historical records, scholarly analysis
@@ -42,83 +16,103 @@ Any skill can potentially contribute to an investigation depending on the approa
 - **Arcana/Religion/Nature** - Specialized knowledge for supernatural or technical mysteries
 - **Thievery** - Covert investigation, accessing restricted areas
 - **Medicine** - Autopsy results, understanding injuries or symptoms
-## Investigation Structure
-Each investigation consists of **3 clue sources** that players must investigate to solve the mystery:
-- **Each clue source can yield 1-3 Information Points (IP)** based on approach and success
-- **Players need at least 1 IP from each source** to gain the basic clues needed to solve the mystery
-- **Additional IP provides extra context, tactical advantages, or detailed information** for subsequent actions
-## Position/Effect Assessment
-Before each investigative roll, GM assesses:
-### Position: How risky your investigative approach is
-- **Controlled:** Library research, examining public evidence, interviewing cooperative witnesses
-- **Risky:** Questioning suspicious individuals, investigating without permission, time pressure
-- **Desperate:** Breaking and entering, confronting dangerous suspects, investigating under hostile conditions
-### Effect: How much progress you can make
-- **Limited:** Indirect approaches, poor tools/access, working alone (1 IP maximum)
-- **Standard:** Direct investigation, proper tools/access, reasonable approach (2 IP maximum)
-- **Great:** Ideal circumstances, perfect tools, expert knowledge, team coordination (3 IP maximum)
-## Information Points and Complications
+- **Athletics** - Chasing down suspects ([[Chase Rules]] anyone?)
+- **Agility** - Squeezing into hiding spots to eavesdrop
 
-| Position       | Success                    | Failure                    |
-| -------------- | -------------------------- | -------------------------- |
-| **Controlled** | 1 IP, no complications     | 1 IP, minor complications  |
-| **Risky**      | 2 IP, minor complications  | 1 IP, medium complications |
-| **Desperate**  | 3 IP, medium complications | 2 IP, major complications  |
-## Success/Failure Resolution
-- **Success:** Achieve your Effect level of IP and reveal information
-- **Failure:** Gain reduced IP but face complications based on Position
-- **Critical Success (≤05):** Increase Effect level by one tier (Limited→Standard→Great)
-- **Critical Failure (≥95):** Face major complications regardless of Position, but still gain IP based on Position
+Some skills, like Combat Skills, Endurance/Willpower, or Survival/Crafting, will have very limited application directly to Investigations.  Campaigns focused on investigations may end up with these remaining at base values for the most part, and that's okay!
+## Information Points
+In Investigations, you are aiming to gain **Information Points** towards clues.  Each clue will have **3 Information Points (IP)** that can be gained to learn more information:
+- **1 IP** will get you the very basics of the clue; this is the guaranteed result after providing your Skill Check.
+- **2 IP** will get you extra context and information
+- **3 IP** will yield useful, actionable information or even surprising connections/threads to pull on
+Various Skill checks you perform in the Scene will net you certain amounts of IP. **Players are allowed to use multiple approaches to a Clue in order to stack IP gain up to the maximum 3 IP**; so if the first approach only nets the party 1 IP, they can attempt a second (different) approach with another Skill to potentially gain the extra IP for more information, but they do this at the risk of Complications!
+## Position & Effect
+As with the [[Social Challenges]] system, there are **Position** and **Effect** mechanics.  These basically work the same, but for a quick overview, every time you describe your approach to investigating a Clue in a Scene, the GM will be making a judgement of the Position and Effect of your approach; How tenuous your approach is (Position) and how effective (Effect) the result is!  The final arbitration of this is up to the GM.
+### Position
+Position is defined by 3 tiers:  **Controlled**, **Risky**, and **Desperate**.  These will vary based on how you approach investigating the clue.  A **Controlled** approach might be a calm methodical examination of a corpse or a casual conversation with a witness, while a **Desperate** approach might be frantically tearing through the clothes of a body in a hurry, or aggressively grilling the witness in a locked room.
+### Effect
+Effect is also defined by 3 tiers:  **Limited**, **Standard**, and **Great**.  This depends on how effective the GM deems your approach to be to discovering the details of the clue, and will determine how many **Information Points** your Skill Check could potentially obtain.  A **Limited** Effect might be a cursory look at the victim's corpse or a non-probing coffee chat with a witness, while a **Great** effect might be a full autopsy of the victim or a detailed multi-hour conversation with the witness to establish rapport and probe on details.
+## Success and Failure
+Unfortunately, unlike most other systems in Ettes Eternal, the Investigations do not have a concept of Hard/Major successes.  You approach to investigating a clue, and the resulting Skill Check, are simply either Failure or Success, with Critical results available:
+- **Success:**  Achieve your Effect's IP gain, revealing information and gaining complications based on the Position.
+- **Failure:**  Achieve lower IP gain for your Effect (minimum 1), but gain worse complications based on Position.
+- **Critical Success**:  As Success, but increase your effective **Effect** by 1 step (if possible); a Critical success on a **Great** Effect should result in lowering any potential complications.
+- **Critical Failure:**  As Failure, but you are guaranteed to have major complications regardless of your Position.
+## Complications
+Complications can wildly vary based on what the situation is, but generally will range from "minor", "medium" or "major" complications.  **At no time should a Complication ever destroy a potential Clue, unless absolutely necessary**.
+### Example Complications
+#### Minor Complications
+- Witnesses become slightly suspicious or uncooperative
+- You attract some unwanted attention
+- Investigation takes longer than expected
+- Minor evidence is contaminated or lost
+#### Medium Complications
+- Authorities take serious notice of your investigation
+- Key witnesses become frightened and harder to reach
+- Suspects become aware they're being investigated
+- Time pressure significantly increases
+#### Major Complications
+- Legal trouble or arrest
+- Witnesses or sources are threatened or disappear
+- Evidence is destroyed or tampered with
+- Hostile parties actively work against your investigation
+- Physical danger or direct confrontation
+## Results Tables
+### Position Table
+
+| Position       | Success              | Failure              | Critical Success    | Critical Failure             |
+| -------------- | -------------------- | -------------------- | ------------------- | ---------------------------- |
+| **Controlled** | No complications     | Minor complications  | No complications    | Major complications          |
+| **Risky**      | Minor complications  | Medium complications | Minor complications | Major complications          |
+| **Desperate**  | Medium complications | Major complications  | Minor complications | Multiple major complications |
+### Effect Table
+
+|              | Success | Failure | Critical Success | Critical Failure |
+| ------------ | ------- | ------- | ---------------- | ---------------- |
+| **Limited**  | 1 IP    | 1 IP    | 2 IP             | 1 IP             |
+| **Standard** | 2 IP    | 1 IP    | 3 IP             | 1 IP             |
+| **Great**    | 3 IP    | 2 IP    | 3 IP             | 1 IP             |
 
 ---
-# Investigation Flow
-## Approaching Clue Sources
+# Flow of an Investigation
+## Approach New Scene
 Each clue source should be designed with **2-3 applicable skills** that provide different perspectives on the same information. **Players can make multiple investigative attempts** on the same clue source using different skills or approaches to accumulate up to 3 IP total per source.
 **Example - Crime Scene Investigation:**
 - **Perception:** Physical evidence, signs of struggle, murder weapon location
 - **Medicine:** Cause of death, time of death, attacker's likely size/strength
 - **Insight:** Emotional context, whether this was personal or professional
 
-Players could examine the scene with Perception (gaining 1 IP), then follow up with a Medicine check (gaining up to 2 more IP), accumulating information while risking complications from multiple attempts.
-## Revealing Information
+Players could examine the scene with Perception (gaining 1 IP), then follow up with a Medicine check (gaining up to 2 more IP based on Effect), accumulating information while risking complications from multiple attempts.
+## Reveal Information
 **Basic Clue (1 IP):** Essential information needed to understand what happened and progress the investigation.
 
 **Detailed Clue (2 IP):** Additional context that provides tactical advantages, identifies specific individuals, or reveals connections to other elements.
 
 **Complete Picture (3 IP):** Full understanding including motivations, timeline, methods, and actionable intelligence for next steps.
-## Complications and Consequences
-Failed rolls and risky approaches create ongoing complications that affect the investigation:
-
-**Minor Complications:**
-- Witnesses become slightly suspicious or uncooperative
-- You attract some unwanted attention
-- Investigation takes longer than expected
-- Minor evidence is contaminated or lost
-
-**Medium Complications:**
-- Authorities take serious notice of your investigation
-- Key witnesses become frightened and harder to reach
-- Suspects become aware they're being investigated
-- Time pressure significantly increases
-
-**Major Complications:**
-- Legal trouble or arrest
-- Witnesses or sources are threatened or disappear
-- Evidence is destroyed or tampered with
-- Hostile parties actively work against your investigation
-- Physical danger or direct confrontation
+## Next Scene
+Based on the results of these clues, one or more new Scenes should be obvious next-steps for the party.  The party can collate their notes, and decide which Scene(s) to approach next as a group or individually.
 
 ---
-# GM Guidelines
+# GM Guide to Investigations
+## Node-Based Mysteries
+Structure investigations as **scenes** (locations, people, or events) connected by **clues** rather than predetermined linear paths. Each scene should contain multiple potential clues that can lead to other scenes, creating a web of information rather than a single chain.
+
+Players can approach scenes in multiple orders based on what they discover, allowing for organic investigation flow based on character interests and player choices.
+## Rule of Threes
+"Rule of Threes" is named as such to help you think about the ideal way to design a mystery and the individual scenes/clues:
+- A Mystery should have at least 3 Scenes (but ideally more for complex Mysteries!)
+- A Scene should have at least 3 possible Clues available to the party in it
+- Each Clue should have 2-3 possible Skills that can be used to obtain the information
 ## Skill Discovery
-Rather than listing applicable skills upfront, describe scenes in detail and let players propose investigative approaches. When players suggest using a skill, evaluate whether their fictional approach makes sense for uncovering information from that clue source.
+Rather than listing applicable skills upfront, describe scenes in detail and let players propose investigative approaches. When players suggest using a Skill, you can decide on the spot whether their fictional approach makes sense for uncovering information from that clue source, even if it doesn't match the 2-3 Skills you planned for the Clue.
 
 **Example Scene Description:** _"The professor's office has been ransacked. Papers are scattered across the floor, a computer monitor is cracked, and there's a distinctive scent of expensive cologne lingering in the air. The building's security guard is waiting nervously in the hallway."_
 
 Players might then propose: examining the physical evidence (Perception), questioning the guard (Influence), researching what files were accessed on the computer (Academia), or checking for magical traces (Arcana).
 
-**GM Safety Net:** If players seem stuck, you can mention that this scene offers opportunities for specific skills, but try scene description first.
-## Setting Appropriate Position/Effect
+### GM Safety Net
+If players seem stuck, you can mention that this scene offers opportunities for specific skills, but try scene description first.  So if your players are waffling or unsure what to do, you might say "There are some good opportunities here for an Academia check, Alice" or "If you use your Perception Skill on the ransacked desk you might discover some interesting information" to help spark the players to investigate the scene.  Try to avoid this if possible, but it's always better to make things more explicit rather than letting everyone flounder and not have fun moving things forward.
+## Position & Effect
 **Don't automatically scale difficulty with character level.** A Level 15 character with 80 Perception should get Great Effect when examining crime scenes - they're genuinely expert investigators.
 
 **Position should reflect fictional circumstances:**
@@ -130,15 +124,15 @@ Players might then propose: examining the physical evidence (Perception), questi
 - How direct and efficient is this method?
 - Does the character have the right tools and knowledge?
 - Are they working with others or alone?
-## Designing Clue Sources
+## Designing Clues
 When creating investigations, prepare each clue source with:
 - **2-3 applicable skills** that provide different angles on the information
 - **Multiple approaches possible** - players can attempt several different skill checks on the same source to accumulate up to 3 IP total
 - **Basic information** revealed with 1 IP (essential facts)
 - **Additional context** revealed with 2 IP (tactical advantages, connections)
 - **Complete picture** revealed with 3 IP (full understanding, actionable intelligence)
-## Balancing Investigation Pacing
-Most investigations will resolve in **3-6 total skill checks** - one per clue source, with some sources potentially requiring multiple attempts if players want maximum information or face complications that force new approaches.
+
+As always, be ready to improvise a bit!  Players will **always** surprise you with their creativity (or sometimes lack thereof...) on how they approach the investigations.  Don't shoehorn them into your own perspective if they find unique ways of uncovering your clues.
 
 ---
 # Example Investigation: The Riverside Murder
