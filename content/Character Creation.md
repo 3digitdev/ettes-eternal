@@ -12,7 +12,7 @@ Here are the high-level steps for creating a new character in Ettes Eternal:
 
 ---
 # Initial Skill Levels
-All Skills begin the game at **30**.  To begin with, you pick **8 Skills** that you want to define as "**Class Skills**".  If you would prefer help, there is a variant rule called [[Character Classes#Variant Rule Class Skill Bundles|Skill Bundles]] to help you decide what to pick for your class.  You then roll **`4d8+10`** for each class skill, and add the result to your total.  This will result in each Class Skill being between 44 and 72 depending on how you roll.  *Note that your roll must be applied to the Skill you rolled it for!*  (**At GM discretion, a variant rule will allow you to assign the roll results to whatever skills you want.**)
+All Skills begin the game at **30**.  To begin with, you pick **8 Skills** that you want to define as "**Class Skills**".  If you would prefer help, there is an alternate rule called [[Class Skill Bundles]] to help you decide what to pick for your class.  You then roll **`4d8+10`** for each class skill, and add the result to your total.  This will result in each Class Skill being between 44 and 72 depending on how you roll.  *Note that your roll must be applied to the Skill you rolled it for!*  (**At GM discretion, an alternate rule can allow you to assign the roll results to whatever skills you want.**)
 
 Once you have your 8 **Class Skills** rolled and assigned, you then can move onto...
 # Ancestries
@@ -78,12 +78,6 @@ Each Ancestry will grant you a single +10 bonus to a Skill, and a single **Ances
 ---
 ## Classes
 Select a single Class to start the game as, and you gain benefits to skills based on the class
-### Variant Rule: Class Skills
-Rather than letting the player 
-- 
-- The player also gets to pick 2 other non-class skills to **become** class skills (and start at 30)
-- The player then picks 4 of their Class Skills that start the game at 40 rather than 30.
-- **Advancement**: Class skills **cost less to improve** throughout career
 ### Hit Dice
 Hit Dice for your character vary by class (d6/d8/d10/d12)
 ## Equipment
@@ -107,7 +101,7 @@ First, you choose a "Primary Background"; this is the one you get your Skill and
 
 By making unique combinations like this, explaining why you lose one bonus and gain another can be fantastic ways to spark your imagination for interesting and non-standard character backstories.
 ## Bring Your Own Background
-You are welcome to design backgrounds not on this list, **collaborating with your DM for final approval.**
+You are welcome to design backgrounds not on this list, **collaborating with your GM for final approval.**
 
 First, try to think of some good applicable Skill Options that are thematic to the Background. **We recommend that no background gives a Spellcasting Skill option.**
 

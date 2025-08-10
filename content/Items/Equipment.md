@@ -39,7 +39,7 @@ You are both welcome and encouraged to tinker with this materials system!  We wo
 # Weapons
 ## Weapon Categories
 - See [[Combat#Flow Actions by Weapon Category|Weapon Flow Actions]] for special attacks for each category.
-- What weapon you use is up to you and your proficiencies; what category it belongs in belongs in a combination of common sense + DM judgement call
+- What weapon you use is up to you and your proficiencies; what category it belongs in belongs in a combination of common sense + GM judgement call
 	- especially true when it comes to Rapiers or other Finesse-like weapons.
 - Damage types are not exhaustive, and not all weapons in each category do all those damages
 	- Good examples: A club can't do Piercing damage, but a Morningstar can.  A Halberd can't do Bludgeoning damage, but a quarterstaff can.

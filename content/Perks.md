@@ -36,5 +36,5 @@ Many perks have **prerequisites** that must be met before you can select them:
 Perks are gained automatically as you level up. Every time you gain a level (including Level 1), you **choose 1 perk** from those available to you based on your current Class Tier and any prerequisites you meet.
 
 You must select your perk immediately upon leveling—there is no saving or banking perk selections for later.  You are not allowed to save a low level Perk choice until later to get a higher Tier Perk.
-# Variant Rule: Mythic Perks
-There exists an incredible boon to brave adventurers known as [[Variant Rule - Mythic Perks|Mythic Perks]].  Refer to their section for more information.
+# Alternate Rule: Mythic Perks
+There exists an incredible boon to brave adventurers known as [[Mythic Perks|Mythic Perks]].  Refer to their section for more information.

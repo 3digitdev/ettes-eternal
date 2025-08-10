@@ -10,7 +10,7 @@
 **Prerequisites:** None
 **Effect:** On first purchase, choose a Secondary Class (can only multiclass into one class total). This decision cannot be changed except in extreme circumstances later on.
 
-**If you are using the "Class Skills" variant rule:** On first purchase, gain one non-overlapping Class Skill from the Secondary Class at +10.
+**If you are using the [[Class Skill Bundles]] Alternate rule:** On first purchase, gain one non-overlapping Class Skill from the Secondary Class at +10.
 
 On receipt of each stack of this Perk, you receive the next level of class features (levels 1-5). All multiclass features scale using the Level of your Secondary Class. Your total Health is still calculated using your Primary Class's hit dice; your Secondary Class has no effect on base stats like this.
 

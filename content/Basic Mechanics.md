@@ -140,7 +140,7 @@ All characters have hitpoints (HP) that are calculated by the following:
 A Level 5 Barbarian (d12 HD and 65 Endurance (+6 Modifier) would have
 `10 + (12 (HD maximum) + 6) x 5)` →  `10 + (18 x 5)` = **100 HP**
 #### Changes to Endurance
-Any **permanent** change to your Endurance (including leveling up, [[Variant Rule - Mythic Perks|Variant Rule - Mythic Perks]], or even bonuses from worn items) will cause you to re-calculate your full health total retroactively to level 1.  The easiest way to do this is to just multiply the _change_ in your Endurance [[Skills#Skill Modifiers|Modifier]] by your current **Level**.  So a Level 15 character that has their Endurance go from 45 to 55 would gain an additional 15 health **immediately**.
+Any **permanent** change to your Endurance (including leveling up, [[Mythic Perks|Mythic Perks]], or even bonuses from worn items) will cause you to re-calculate your full health total retroactively to level 1.  The easiest way to do this is to just multiply the _change_ in your Endurance [[Skills#Skill Modifiers|Modifier]] by your current **Level**.  So a Level 15 character that has their Endurance go from 45 to 55 would gain an additional 15 health **immediately**.
 
 _Note: Because this applies to **worn items** too, there is potential for confusion if the player is constantly donning and doffing the item.  For the sake of simplicity, we leave it to the GM and players to determine how to handle this, so that magic items can continue to provide interesting benefits_
 #### A note on rolling HP
