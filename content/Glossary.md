@@ -3,7 +3,7 @@ The primary action currency in [[Combat]]. Characters start each round with 6 AP
 ## Advantage/Disadvantage
 Roll twice and take the higher (Advantage) or lower (Disadvantage) result. Used instead of small numerical bonuses to represent favorable or unfavorable circumstances.
 ## Animal Companion
-A loyal animal partner available to certain classes like [[Hunter🚧]] and [[Druid]]. See [[Animal Companions]] for detailed rules on stats, commands, and advancement.
+A loyal animal partner available to certain classes like [[Hunter🚧]] and [[Druid🚧]]. See [[Animal Companions]] for detailed rules on stats, commands, and advancement.
 ## Class Tier
 A measure of mastery within your character class, progressing from Apprentice (Level 1) to Legendary (Level 17+). Determines damage dice scaling and ability power. See [[Character Classes#Class Tier System|Tier System]].
 ## Counterspell
