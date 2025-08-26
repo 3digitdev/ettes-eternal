@@ -55,7 +55,7 @@ When you choose a Spell to cast, and BEFORE rolling the Spellcasting Check, you 
 ### Spellcasting Roll
 This is almost always standard **Spellcasting Skill Check**, unless a Spell's effect states otherwise.  If you **fail** the Spellcasting Roll, your spell fizzles and you lost all associated costs for the spell.  If you _critically fail_ the Spellcasting Roll, you may have additional complications as decided by the GM.
 
-If you succeed the Spellcasting Roll, you may apply the effects of the Spell.  This may involve enemies making additional [[Basic Mechanics#Opposed Checks|Opposed Checks]].  Spells may also have additional bonuses associated with Hard/Major Successes, or even custom Critical Success effects.  If a spell does not have a defined Critical Effect on its description, then the spell will simply do **double damage** as normal  (All non-damaging spells **will** have a Critical Effect defined).
+If you succeed the Spellcasting Roll, you may apply the effects of the Spell.  This may involve enemies making additional [[Basic Mechanics#Opposed Checks|Opposed Checks]].  Spells may also have additional bonuses associated with Hard/Major Successes, or even custom Critical Success effects.  If a spell does not have a defined Critical Effect on its description, then the spell will simply do **double damage or healing** as normal  (All non-damaging/healing spells **will** have a Critical Effect defined).
 ## Sustained Spells
 Some spells have a duration of "**Sustained**", meaning they continue as long as you can maintain concentration on them.
 

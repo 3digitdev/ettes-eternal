@@ -12,7 +12,7 @@ Mooks are numerous, fragile enemies designed to die in a single hit while creati
 ### Stats
 - **HP**: 1d4 (dies in 1 hit)
 - **Damage**: Party Level ÷ 2, minimum 1
-- **Skills**: 4 skills at 30-40 (GM rolls 1d11+29 or chooses)
+- **Skills**: 4 skills at 30-40 (GM rolls 1d10+30 or chooses)
     - 1 Combat skill (Melee/Ranged/Spellcasting)
     - 1 Physical skill (Agility/Athletics/Endurance)
     - 1 Mental skill (Perception/Willpower)
@@ -47,7 +47,7 @@ Standard Enemies serve as reliable moderate threats that require some tactical c
 
 | Party Class Tier | Damage Formula | Average Damage |
 | ---------------- | -------------- | -------------- |
-| Apprentice       | 0d8 + modifier | 4              |
+| Apprentice       | 1d4 + modifier | 6              |
 | Journeyman       | 1d8 + modifier | 8.5            |
 | Expert           | 1d8 + modifier | 8.5            |
 | Master           | 2d8 + modifier | 13             |
