@@ -1,12 +1,12 @@
 # Skill List
 Skills are separated by **Skill Category**.  Many times, an ability may refer to Skills within a certain category in order to limit/group what Skills are applicable to the ability's effect.
 
-|      Combat       |    Physical    |     Mental      |     Social     |   Technical   |   Knowledge   |
-| :---------------: | :------------: | :-------------: | :------------: | :-----------: | :-----------: |
-|    [[#Melee]]     |  [[#Agility]]  | [[#Perception]] | [[#Deception]] | [[#Crafting]] | [[#Academia]] |
-|    [[#Ranged]]    | [[#Athletics]] | [[#Willpower]]  | [[#Influence]] | [[#Medicine]] |  [[#Arcana]]  |
-| [[#Spellcasting]] | [[#Endurance]] |    ---------    |  [[#Insight]]  | [[#Survival]] |  [[#Nature]]  |
-|   ------------    |   ----------   |    ---------    |   ----------   | [[#Thievery]] | [[#Religion]] |
+|             Combat              |         Physical          |           Mental            |          Social           |        Technical        |        Knowledge        |
+| :-----------------------------: | :-----------------------: | :-------------------------: | :-----------------------: | :---------------------: | :---------------------: |
+|        [[#Melee\|Melee]]        |   [[#Agility\|Agility]]   | [[#Perception\|Perception]] | [[#Deception\|Deception]] | [[#Crafting\|Crafting]] | [[#Academia\|Academia]] |
+|       [[#Ranged\|Ranged]]       | [[#Athletics\|Athletics]] |  [[#Willpower\|Willpower]]  | [[#Influence\|Influence]] | [[#Medicine\|Medicine]] |   [[#Arcana\|Arcana]]   |
+| [[#Spellcasting\|Spellcasting]] | [[#Endurance\|Endurance]] |          ---------          |   [[#Insight\|Insight]]   | [[#Survival\|Survival]] |   [[#Nature\|Nature]]   |
+|          ------------           |        ----------         |          ---------          |        ----------         | [[#Thievery\|Thievery]] | [[#Religion\|Religion]] |
 # Skill Mechanics
 ## Skill Limits
 For any standard character, it is impossible to have a skill **below 10**, or **above 90**.  Skills have a soft-limit-range of 20-80, but in some circumstances (such as magic effects, or higher level play) you may be able to achieve between 10-90.  **If an effect would reduce your Skill to below 10, or increase it above 90, the Skill remains within the range of 10-90 instead.**

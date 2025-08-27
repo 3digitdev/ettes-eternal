@@ -2,38 +2,38 @@
 ## Dice Basics
 This system uses a d100-based system in order to easily represent difficulties, power level, and odds of success at a glance.
 
-For any non-damage roll that you attempt, you will have a **Skill Level** that you need to achieve.  You roll a d100, and simply compare the result of your roll against the **Skill Level**.  If your roll is **less than or equal to the Skill Leve4l**, you have succeeded on the check.  If your roll is **greater than the Skill Level**, you have failed the check.
+For any non-damage roll that you attempt, you will have a **Target Number** that you need to achieve.  You roll a d100, and simply compare the result of your roll against the **Target Number**.  If your roll is **less than or equal to the Target Number** (commonly but not always your Skill Level), you have succeeded on the check.  If your roll is **greater than the Target Number**, you have failed the check.
 ## Success & Failure
 ### Success/Failure Levels
 There are 4 **Success Levels** and 2 **Failure Levels** when performing a roll:
 - **Critical Failure**: Your roll was ≥95.
-	- Even if your **Skill Level** was >95 (extremely rare but technically possible), this roll is considered an abject failure, and the GM will assign consequences to the roll appropriate for the situation.
--  **Failure**: Your roll was > **Skill Level**
+	- Even if your **Target Number** was >95 (extremely rare but technically possible), this roll is considered an abject failure, and the GM will assign consequences to the roll appropriate for the situation.
+-  **Failure**: Your roll was > **Target Number**
 	- You failed to achieve the result you wanted, but no other consequences occur.
--  **Normal Success**: Your roll was ≤ **Skill Level**
-	- You succeed on the roll as normal, with no extra benefits
-- **Hard Success**: Your roll was ≤ ½ **Skill Level**
+-  **Normal Success**: Your roll was ≤ **Target Number**
+	- You succeed at the task exactly as you describe, with no extra benefits
+- **Hard Success**: Your roll was ≤ ½ **Target Number**
 	- You succeeded on the roll in an impressive way, or succeeded at a particularly hard task
-- **Major Success**: Your roll was ≤ ¼ **Skill Level**
+- **Major Success**: Your roll was ≤ ¼ **Target Number**
 	- You succeeded on the roll in an incredible way, or succeeded on an extremely difficult task
 - **Critical Success**: Your roll was ≤ 05
 	- You have succeeded in spectacular fashion.  The GM will assign an incredible result along with your expected result, appropriate for the situation.
 #### Rounding
-To keep things simple and consistent, when dividing some number for a result (such as ½ **Skill Level**):  **ALWAYS ROUND ALL FRACTIONS UP TO NEXT WHOLE NUMBER.**  
+When dividing some number for a result (such as ½ **Target Number**):  **ALWAYS ROUND ALL FRACTIONS UP TO NEXT WHOLE NUMBER.**  
 e.g. `25.5` becomes `26`, `33.25` becomes `34`, etc.
-## Difficulty Levels & Skill Levels
-In order to remain consistent, all difficulty modifiers to determining the success of the check will be handled as modifications to either the **Difficulty Level** or the **Skill Level**, rather than placing bonuses/negatives on the roll result itself.
+## Difficulty Levels & Target Numbers
+All difficulty modifiers to determining the success of the check will be handled as modifications to either the **Difficulty Level** (making the check require a Hard/Major Success) or the **Target Number** (such as increasing/lowering your skill for the roll by +/- 10), rather than placing bonuses/negatives on the roll result itself.
 ### Difficulty Levels
 As a default any given roll should only require a **Normal Success** in order to succeed at the task.  However, in many circumstances like performing an especially hard task, the GM may require that you achieve a **Hard** or **Major Success** in order to succeed at the check.  In these situations, a **Success Level** lower than that (like a **Normal Success**) will be considered a **Failure**.
-### Skill Level Modifications
-Very rarely, an ability or circumstance may temporarily modify your normal **Skill Level** for a roll by ±5, ±10, etc.  These should be straightforward, and are applied only to the **Skill Level**, with negatives making the roll harder, and positives making the roll easier.
+### Target Number Modifications
+Very rarely, an ability or circumstance may temporarily modify your normal **Target Number** for a roll by ±5, ±10, etc.  These should be straightforward, and are applied only to the **Target Number**, with negatives making the roll harder, and positives making the roll easier.
 ## Advantage & Disadvantage
-Sometimes an ability or circumstance will grant you **Advantage** or **Disadvantage** on your roll.  In these situations, your **Skill Level** remains the same, but you get to roll your dice **2 times**
+An ability or circumstance may grant you **Advantage** or **Disadvantage** on your roll.  In these situations, your **Target Number** remains the same, but you get to roll your dice **2 times**
 and take the higher result (**Advantage**) or lower result (**Disadvantage**)
 ## Opposed Checks
-In many situations such as combat, you will find yourself resolving the situation as an **Opposed Check**. In this situation, there's usually someone on offense ("**Attacker**"), and someone opposing them ("**Defender**").
+In many situations such as combat, you will find yourself resolving the situation as an **Opposed Check**. In this situation, there's someone on "offense" (the "**Attacker**"), and someone opposing them (the "**Defender**").
 
-The Attacker makes their check.  **If they succeed**, have the Defender then make their check, and compare **the _**success/failure levels,**_ _NOT the resulting rolls_:
+**If the attacker succeeds their check**, have the Defender then make their check, and compare the _**success/failure levels,**_ _NOT the resulting rolls_:
 - If Defender's success level was less than the Attacker's success level, the Attacker wins
 - If the Defender's success level was equal to the Attacker's success level, it's a [[#Resolving Ties|Tie]]
 	- NOTE: [[Combat#Reaction System|Reactions]] in combat handle ties in a specific way!
@@ -49,7 +49,7 @@ The Attacker makes their check.  **If they succeed**, have the Defender then mak
 ### Resolving Ties
 When 2 people tie a roll, default to the underlying Skill being rolled;  The person with the higher Skill should win the tie.
 
-In the rare case that there is a **complete** tie (identical Skill levels), then resolve in favor of the **players**. If it's two players who tied, then let the players decide who wins their own way.
+In the rare case that there is a **complete** tie (identical Skill levels), then resolve in favor of the **players**. If it's two players who tied, then the players flip a coin.
 ## Extended Checks
 In some situations the GM will request that you do an **Extended Check**.  These represent efforts over an extended period of time, such as crafting an item.
 
@@ -67,12 +67,13 @@ When you have achieved ≥ the number of required **Successes** for the **Extend
 
 In certain situations like an Extended Check over a course of time, the GM may allow you to continue to roll for the remainder of the time to see how many extra Successes you get above the required to determine any additional benefits/bonuses from the result.
 ## Aid Another
-Aiding another is allowed when at the GM's discretion it makes sense for two skilled players to work together to achieve success on a **non-combat** check.
+At the GM's discretion, one play may aid another to achieve success on a **non-combat** check.
+
 *Note for GMs:  This can become powerful if overused, and trivialize many Normal Success checks.  Make sure it makes reasonable sense to be able to Aid!*
 
 **LIMIT:** Only one person may Aid Another on any **Non-Combat** Skill Roll.
 
-On any Skill Check, you may roll your own Skill to Aid an ally.
+On any Skill Check an ally performs where the GM allows you to Aid Another, you may roll your own Skill to assist that ally:
 1. **If your Aid Roll succeeds the required check** (e.g. needed Major Success, you rolled Major Success): **The check passes - you did it!** The person you were aiding still rolls to see if they apply any roleplaying bonus (faster results, etc.) or critically succeed for additional bonuses.
 2. **If your Aid roll succeeds but doesn't meet the required level** (e.g. needed Hard Success, you rolled Normal Success): You grant **Advantage** to the other player's skill check.
 
@@ -101,21 +102,17 @@ A 5-person party attempts to sneak past guards. The Rogue (80 Thievery) leads wh
 - Barbarian rolls 45 (Failure): -5 to Leader's skill
 - Sorcerer rolls 30 (Normal Success): +5 to Leader's skill
 - Hunter rolls 95 (Critical Failure): Disadvantage to Leader
-**Leader's Modified Roll**: 80 Thievery + 5 + 5 - 5 = 85 Thievery with Disadvantage
-The Rogue rolls with effectively 85 skill but must roll twice and take the lower result due to the Hunter's critical failure.
+**Leader's Modified Roll**: 80 Thievery + 5 + 5 - 5 = 85 Thievery with Disadvantage (The Rogue rolls with effectively 85 skill but must roll twice and take the lower result due to the Hunter's critical failure.)
 ### Notes
 - **Extended Checks**: For longer challenges, the GM **may** call for multiple Group Checks at their discretion (such as every 50 feet of climbing).  This is not a requirement though, and should be left to GM discretion.  In most cases, a single Group Check will work.
 - **Participation**: All party members attempting the task **must** participate in the Group Check - characters cannot opt out to avoid penalizing the group.
 - **Advantage/Disadvantage**: Multiple sources of Advantage or Disadvantage do not stack - the Leader either has it or doesn't.  Advantage and Disadvantage do **cancel** each other though as usual;  If one player crit succeeds and another crit fails, the Leader takes no penalty or bonus to their roll.
+### Failing a Group Check
+What happens when you fail a group check is highly dependent on what the group check is.  In the case of the party sneaking past guards, the failure would of course result in the party being discovered together when the guards are alerted.  Other cases may not be so straightforward:  If the group is climbing a cliff and the Group Check fails, then it may be more up to GM discretion:  maybe the group falls with the failing rolling players pulling down the others, or the successes attempt (and fail) to help the others.  The GM may not may it a clear-cut failure either:  It may result in taking significant time, or using up resources, or putting the players in a difficult position.  
 
 ---
 # Skills Introduction
-In this system there is no separation of Attributes/Characteristics and Skills like you find in other systems.  Your character is defined by a set of 19 different **[[Skills]]** that your character will have various levels of ability in.  Your Skill may have a value of anywhere between 1-100 (_[[#Skill Limits|limits apply]]_). In the vast majority of circumstances, you will be rolling a Skill Check to resolve any situation, and your Skill Level (modified rarely) will represent the **Skill Level** for your Skill Check.
-
-**Examples:**
-- 50 Endurance → +5 Endurance Modifier
-- 33 Agility → +3 Agility Modifier
-- 79 Willpower → +7 Willpower Modifier
+Your character is defined by a set of 19 different **[[Skills]]** that your character will have various levels of ability in.  Your Skill may have a value of anywhere between 1-100 (_[[#Skill Limits|limits apply]]_). In the vast majority of circumstances, you will be rolling a Skill Check to resolve a given situation, and your Skill Level (modified rarely) will represent the **Target Number** for your Skill Check.
 
 For more detailed information about Skills, please refer to the [[Skills]] section of the system
 
@@ -179,7 +176,7 @@ If an ally stabilizes you at any point in this process, you become unconscious a
 ## Death Saves
 While Dying, you have 4 death save rolls (one per round on your turn) that you can attempt before you permanently die.
 
-The Death Save roll is a flat d100 roll with a **Skill Level of 60**.  There are very few, if any, effects or abilities which can modify this Skill Level.
+The Death Save roll is a flat d100 roll with a **Target Number of 60**.  There are very few, if any, effects or abilities which can modify this Target Number.
 
 In order to fend off permanent death, you need **3 successes to stabilize without assistance**. A Critical Success counts as 2 successes for the sake of this tally, but you still only get 1 success even if your roll is a Major Success.
 
