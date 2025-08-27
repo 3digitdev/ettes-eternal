@@ -145,7 +145,7 @@ Note that at no point do characters **roll** their Hit Dice to determine their H
 ### Movement
 **The battle map for combat in the system operates on a ~5 ft (~2 m) hex grid.**
 
-All characters have a default **Move Speed** of 6 hexes per round.   Outside of combat we let the math stay simple and say 4 miles per hour walking, or 8 miles per hour running.  If the players want to achieve greater than these numbers **outside of combat**, the GM may ask for an Athletics Check with appropriate difficulty
+All characters have a default **Move Speed** of 6 hexes per round.   Outside of combat we let the math stay simple and say 4 mph (6.5 kph) walking, or 8 mph (13 kph) running.  If the players want to achieve greater than these numbers **outside of combat**, the GM may ask for an Athletics Check with appropriate difficulty.
 ### Senses
 Unless specified otherwise by Ancestry, characters have standard human senses and sense abilities.
 ## Character Features
@@ -156,19 +156,19 @@ A [[Character Creation#Backgrounds|Background]] represents a baseline for what y
 ### Class
 Common across most RPG systems, your character's [[Character Classes|Class]] is the core of their identity, representing the lion's share of their abilities, and determines how they power-up as they level throughout the campaign.  See the [[Character Classes|Classes]] for more details.
 ### Skills
-See [[#Skills Introduction]] for details on Skills
+See [[#Skills Introduction]] for details on Skills.
 ### Perks
-[[Perks|Perks]] are what other systems may call Feats, or Talents. They represent larger new "abilities" that generally everyone can take (sometimes with pre-requisites). Perks are gained as you level up, and allow you to further customize your character with new abilities to synergize with your Class Abilities. See [[Perks|Perks]] for more details.
+[[Perks Overview|Perks Overview]] are what other systems may call Feats, or Talents. They represent larger new "abilities" that generally everyone can take (sometimes with pre-requisites). Perks are gained as you level up, and allow you to further customize your character with new abilities to synergize with your Class Abilities. See [[Perks Overview|Perks Overview]] for more details.
 
 ---
 # Rest and Downtime 🚧
 ## Rest
-When you take approximately 8h to do no strenuous activity (combat, extreme actions, taking damage, etc), you can take a **Long Rest**, and gain bonuses as stated in various abilities/effects/mechanics such as [[#Natural Healing]]
+When you take approximately 8h to do no strenuous activity (combat, extreme actions, taking damage, etc), you can take a **Long Rest**, and gain bonuses as stated in various abilities/effects/mechanics such as [[#Natural Healing]].
 ## Downtime 🚧
 
 ---
 # Dying
-When you reach 0 or less HP, you are considered **Dying**, and go unconscious with 0 HP remaining (no negative HP) All ongoing effects on your character end immediately (positive **and negative**, such as Persistent Damage!)
+When you reach 0 HP, you are considered **Dying**, and go unconscious with 0 HP remaining (there is no negative HP) All ongoing effects on your character end immediately (positive **and negative**, such as Persistent Damage!)
 
 You must begin doing [[#Death Saves]] every round of combat starting on your next turn (or current turn, if you drop to 0 on your own turn).
 
@@ -176,13 +176,15 @@ If an ally stabilizes you at any point in this process, you become unconscious a
 ## Death Saves
 While Dying, you have 4 death save rolls (one per round on your turn) that you can attempt before you permanently die.
 
-The Death Save roll is a flat d100 roll with a **Target Number of 60**.  There are very few, if any, effects or abilities which can modify this Target Number.
+The Death Save roll is an Endurance Skill Check.  There are very few, if any, effects or abilities which can modify this Target Number.
 
-In order to fend off permanent death, you need **3 successes to stabilize without assistance**. A Critical Success counts as 2 successes for the sake of this tally, but you still only get 1 success even if your roll is a Major Success.
+In order to fend off permanent death, you need **3 successes to stabilize without assistance**. A Critical Success counts as 2 successes for the sake of this tally, but you still only get 1 success even if your roll is a Major Success.  Critical Failures have no additional effect; they are treated as normal failures.
 
 **If you fail to achieve 3 successes within these 4 turns, your character is permanently dead.**
 
 **Important Note:** If your first 3 rolls all fail, you _technically_ have no possible chance to succeed at naturally stabilizing, even if you critically succeed.  However, **you still do not permanently die until the end of your 4th turn Dying**, so that allies have the full 4 rounds to reach you to help Stabilize you before this point.
+### Damage While Dying
+If you take any damage while dying, your death save successes are reduced by 1, but you have an extra round to perform Death Saves; essentially, this simply removes one of your previous successes.  If you have not attempted (or succeeded) at a Death Save yet, then nothing happens.
 
 ---
 # Healing
