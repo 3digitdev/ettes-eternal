@@ -1,3 +1,8 @@
+---
+title: Combat
+description: The basic rules of combat
+---
+
 # Round Resolution Cheat Sheet
 ## Round Structure
 1. **Initiative Order**: Characters act in order determined by Initiative result

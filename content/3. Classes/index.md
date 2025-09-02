@@ -1,3 +1,8 @@
+---
+title: Classes
+description: An overview of how Classes work
+---
+
 You character class is the absolute core of your identity in Ettes Eternal.  It will define the majority of your special abilities, how your character fights, and what role they play in your party.
 # Hit Die
 Each Class has a defined Hit Die that defines how much HP they get per level.  See the [[1. Basics/index#Health|health mechanics]] on how to calculate your HP.  At Level 1, this is simply:

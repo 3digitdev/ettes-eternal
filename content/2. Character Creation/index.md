@@ -1,3 +1,8 @@
+---
+title: Character Creation
+description: The basics of character creation
+---
+
 # Overview
 Here are the high-level steps for creating a new character in Ettes Eternal:
 1. Select a [[3. Classes/index|Character Class]] and pick your [[3. Classes/index#Starting Equipment|Starting Equipment]]

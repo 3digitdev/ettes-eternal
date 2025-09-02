@@ -1,3 +1,8 @@
+---
+title: GM Guidelines
+description: A set of basic guidelines to allow GMs to run the game
+---
+
 # Core GM Philosophy
 Ettes Eternal minimizes GM complexity through consistent mechanics. Your primary job is facilitating heroic fantasy while maintaining meaningful challenges. Focus on narrative flow over mechanical optimization.
 # Balance Guidelines

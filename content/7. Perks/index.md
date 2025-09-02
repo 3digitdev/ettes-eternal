@@ -1,3 +1,8 @@
+---
+title: Perks
+description: An overview of what Perks are
+---
+
 # What Are Perks?
 Perks represent special abilities, training, and talents that set your character apart from each other. 
 

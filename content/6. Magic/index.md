@@ -1,3 +1,8 @@
+---
+title: Magic
+description: The basic rules of the magic system
+---
+
 Many RPG systems use what's called [Vancian Magic](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic), and it involves Spell Slots, Preparing Spells each morning, etc. Ettes Eternal takes a more free-form approach;  Each Spellcaster simply has a list of known Spells, and a **Mana Pool** that they use to cast/modify those spells of various levels/costs.  There is no limit to how many of each Spell Level you can cast per day, provided you have the **Mana** for it, but there's a tradeoff of power versus a wider array of options throughout the day.
 
 There are 5 Spell Tiers in Ettes Eternal (matching directly to [[3. Classes/index#Class Tier System|Class Tiers]]), as well as **Novice Spells**

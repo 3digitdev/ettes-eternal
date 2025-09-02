@@ -1,3 +1,8 @@
+---
+title: Basics
+description: The basic rules of the system
+---
+
 # Dice
 ## Dice Basics
 This system uses a d100-based system in order to easily represent difficulties, power level, and odds of success at a glance.
