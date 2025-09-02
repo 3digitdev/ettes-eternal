@@ -36,7 +36,8 @@ In many situations such as combat, you will find yourself resolving the situatio
 **If the attacker succeeds their check**, have the Defender then make their check, and compare the _**success/failure levels,**_ _NOT the resulting rolls_:
 - If Defender's success level was less than the Attacker's success level, the Attacker wins
 - If the Defender's success level was equal to the Attacker's success level, it's a [[#Resolving Ties|Tie]]
-	- NOTE: [[5. Combat/|Reactions]] in combat handle ties in a specific way!
+	- NOTE: [[5. Combat/#Reactions|Reactions]] in combat handle ties in a specific way!
+	- NOTE: [[Core Rules/5. Combat/index#Reactions|Reactions]] in combat handle ties in a specific way!
 - If the Defender's success level was greater than the Attacker's Success level, the Defender Wins
 #### Opposed Check Example Table
 
