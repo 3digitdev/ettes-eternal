@@ -1,18 +1,18 @@
 # Overview
 Here are the high-level steps for creating a new character in Ettes Eternal:
-1. Select a [[_Character Classes|Character Class]] and pick your [[_Character Classes#Starting Equipment|Starting Equipment]]
+1. Select a [[3. Classes/index|Character Class]] and pick your [[3. Classes/index#Starting Equipment|Starting Equipment]]
 2. Set your [[#Initial Skill Levels]] and set up **Class Skills**
 3. Select an [[#Ancestries|Ancestry]]
 4. Come up with a basic backstory concept, and select a [[#Backgrounds|Background]]
-5. Pick your Level 1 [[_Perks Overview|Perk]]
-6. Calculate your starting [[_Basic Mechanics#Health|Health]]
-7. Pick out your starter [[Armor#Weapons|Weapon]]/[[Armor#Armor|Armor]]
+5. Pick your Level 1 [[7. Perks/index|Perk]]
+6. Calculate your starting [[1. Basics/index#Health|Health]]
+7. Pick out your starter [[Weapons|Weapon]] & [[Armor|Armor]]
 8. Buy any additional [[Gear & Services|Gear]] with your starting gold
 9. Flesh out your character's backstory, physical description, and personality
 
 ---
 # Initial Skill Levels
-All Skills begin the game at **30**.  To begin with, you pick **8 Skills** that you want to define as "**Class Skills**".  If you would prefer help, there is an alternate rule called [[Class Skill Bundles]] to help you decide what to pick for your class.  You then roll **`4d8+10`** for each class skill, and add the result to your total.  This will result in each Class Skill being between 44 and 72 depending on how you roll.  *Note that your roll must be applied to the Skill you rolled it for!*  (**At GM discretion, an alternate rule can allow you to assign the roll results to whatever skills you want.**)
+All Skills begin the game at **30**.  To begin with, you pick **8 Skills** that you want to define as "**Class Skills**".  If you would prefer help, there is an alternate rule called [[Class Skill Bundles|Class Skill Bundles]] to help you decide what to pick for your class.  You then roll **`4d8+10`** eight times (once for each Class Skill) and then add those results to the initial value of 30 for each Class Skill.  You can assign any roll to any Skill.
 
 Once you have your 8 **Class Skills** rolled and assigned, you then can move onto...
 # Ancestries

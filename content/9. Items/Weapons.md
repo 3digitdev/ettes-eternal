@@ -32,7 +32,7 @@ _Not all weapons in each category do all those damages.  Examples: A Club can't 
 |   Sword    |     d6/d10     |    1 hex     |     |  ✓  |  ✓  |
 
 †_2h Polearms have a reach of 2 hexes_
-## Flow Actions for 1h/2h
+## [[Flow System#Flow Actions|Flow Actions]] for 1h/2h Weapons
 ### One-Handed Weapons
 In addition to the Flow Actions for their weapon category, all 1h weapons also receive:
 - **Combat Flow** (2 FP): Gain 1 AP this turn. Declared after a successful non-Reaction Attack once per round.

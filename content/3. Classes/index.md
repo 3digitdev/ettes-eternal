@@ -1,12 +1,12 @@
 You character class is the absolute core of your identity in Ettes Eternal.  It will define the majority of your special abilities, how your character fights, and what role they play in your party.
 # Hit Die
-Each Class has a defined Hit Die that defines how much HP they get per level.  See [[_Basic Mechanics#Health|Health Mechanics]] on how to calculate your HP.  At Level 1, this is simply:
+Each Class has a defined Hit Die that defines how much HP they get per level.  See the [[1. Basics/index#Health|health mechanics]] on how to calculate your HP.  At Level 1, this is simply:
 ```
 Maximum roll of the Hit Die + your Endurance Modifier + 10.
 ```
 So a Barbarian with 65 Endurance would have **`12 + 6 + 10` = 28 HP** at level 1.
 # Weapon Proficiencies
-Most classes will start proficient in at least 1 [[Armor#Weapon Categories|Weapon Category]] (several spellcasters start with none).  In some cases you will be asked to pick from a set of options.  Characters proficient in a weapon are proficient in both 1h and 2h weapons that fall under this category.
+Most classes will start proficient in at least 1 [[Weapons#Weapon Categories|Weapon Category]] (several spellcasters start with none).  In some cases you will be asked to pick from a set of options.  Characters proficient in a weapon are proficient in both 1h and 2h weapons that fall under this category.
 
 Additionally, each player may choose 1 **extra** Weapon Category to start the game proficient in.  This includes classes that have none, like Sorcerer!  This ensures that every class starts with at least 1 Weapon Proficiency, with some player agency to flesh out their character more.
 # Starting Equipment
@@ -71,7 +71,7 @@ They then decide to take **Multiclass Acolyte** as their Level 9 Perk, and gain 
 # Class Tier System
 The Class Tier system represents your growing mastery and power within each of your character classes. Unlike equipment-based scaling, your Class Tier is an **inherent** part of your class progression.  While this is simply an abstraction of your Class Level, this is used to help scale power levels throughout the game for various systems.
 ## Tier Progression
-Each class advances through the five Tiers based on your level in that class, as mentioned in the [[_Basic Mechanics#Tiered Systems|Tier System]] description.  **You automatically gain the next Class Tier upon reaching the minimum level required for it**.  There are no feats, no training.  A heavier roleplay group might want to set up a "training" requirement, or some kind of instructor to help you "tier up", but this is not required by the rules.
+Each class advances through the five Tiers based on your level in that class, as mentioned in the [[1. Basics/index#Tiered Systems|Tier System]] description.  **You automatically gain the next Class Tier upon reaching the minimum level required for it**.  There are no feats, no training.  A heavier roleplay group might want to set up a "training" requirement, or some kind of instructor to help you "tier up", but this is not required by the rules.
 
 | Class Tier | Minimum Level | Description                                       |
 | ---------- | ------------- | ------------------------------------------------- |
@@ -82,7 +82,7 @@ Each class advances through the five Tiers based on your level in that class, as
 | Legendary  | 17            | Transcendent ability approaching mythical status  |
 ## System Applications
 ### Damage Scaling
-Your Class Tier determines the number of damage dice you roll for weapon attacks, and for spells cast from that class.  See the [[_Combat#Bonus Damage Dice|Combat]] page for more information.
+Your Class Tier determines the number of damage dice you roll for weapon attacks, and for spells cast from that class.  See the [[5. Combat/index|Combat]] page for more information.
 ### Weapon Attacks
 All weapon attacks use your **highest martial Class Tier** for damage scaling, regardless of which class originally granted weapon proficiency. A Barbarian 20/Fighter 5attacks with Legendary tier damage dice even when using Fighter class abilities (although the actual _effects_ of the Fighter's abilities will still use the Fighter Class Tier as normal)
 ### Class Abilities

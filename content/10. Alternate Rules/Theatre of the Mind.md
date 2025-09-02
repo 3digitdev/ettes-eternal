@@ -58,12 +58,11 @@ The following mechanics are fundamentally incompatible with range band abstracti
 ### Perks
 - **[[Combat Perks#Charge|Charge]]**: The condition for this Perk's effect for this is now "if you moved from Short or further range into Engaged with an enemy before attacking"
 ### Flow Actions
-- **[[Weapon Categories#Finesse|Blade Dance]]** (Finesse Flow Action): The second attack can target either the same enemy or a different enemy that is Engaged with you, rather than specifically targeting adjacent hexes.
-- **[[_Combat#Deflection|Deflection]]** (Global Flow Action): Redirected damage affects a different target who is Engaged with the original attacker, rather than specifically adjacent targets.
-- **[[Weapon Categories#Shield|Shield Shove]]** (Shield): Pushes the attacker from Engaged to Short Range instead of "back 1 hex."
-- **[[_Combat#Two-Handed Weapons|Cleave/Pierce]]** (2h Weapons): Secondary damage affects enemies Engaged with the primary target (Cleave) or a different enemy at the same range as the primary target (Pierce).
-- **[[Weapon Categories#Polearm|Control Strike]]** (Polearm): Push effects move targets from Engaged to Short Range instead of "back 10 feet."
-- **[[Weapon Categories#Polearm|Defensive Stance]]** (Polearm): This ability is replaced with a new effect:
+- **[[Weapons#Finesse|Blade Dance]]** (Finesse Flow Action): The second attack can target either the same enemy or a different enemy that is Engaged with you, rather than specifically targeting adjacent hexes.
+- **[[Flow System#Deflection|Deflection]]** (Global Flow Action): Redirected damage affects a different target who is Engaged with the original attacker, rather than specifically adjacent targets.
+- **[[Flow System#Global Flow Actions|Cleave/Pierce]]** (2h Weapons): Secondary damage affects enemies Engaged with the primary target (Cleave) or a different enemy at the same range as the primary target (Pierce).
+- **[[Weapons#Polearm|Control]]** (Polearm): Push effects move targets from Engaged to Short Range instead of "back 10 feet."
+- **[[Weapons#Defensive Stance|Defensive Stance]]** (Polearm): This ability is replaced with a new effect:
 	- **Defensive Stance** (3 FP): Grants Reaction Attacks against any enemy who moves **into** Engaged range with you.
 ### Class Abilities
 #### Fighter

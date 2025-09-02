@@ -5,7 +5,7 @@ Every trap is crafted using an abstracted concept of "Trap Materials", which are
 
 Traps generally have a **crafting time** of ~10 minutes per Tier.  There are, like many other parts of Ettes Eternal, five Tiers of traps; Apprentice through Legendary.
 ## Usage
-Placing any trap, whether in combat or not, requires a **Survival Check** to successfully place the trap.  This roll will also set a difficulty for resisting, detecting, or disarming the trap (as an [[_Basic Mechanics#Opposed Checks|Opposed Check]]).
+Placing any trap, whether in combat or not, requires a **Survival Check** to successfully place the trap.  This roll will also set a difficulty for resisting, detecting, or disarming the trap (as an [[1. Basics/index#Opposed Checks|Opposed Check]]).
 
 If you fail your **Survival Check** to place the trap, **the trap is wasted, along with the materials to craft it**.
 ## Activation
@@ -20,7 +20,7 @@ As mentioned earlier, defense comes in three forms against traps:
 1. **Disarming** - A successful Survival or Crafting check lets the creature disarm the device provided they can get close enough to do so
 2. **Detecting** - A successful Perception check lets the creature realize the trap is there, allowing them to circumvent it or avoid setting it off
 3. **Dodging/Resisting** - A successful Agility or Endurance check lets the creature either partially or fully dodge/resist the effects of the trap _after it is set off_.
-In all 3 cases, the check to defend against the trap is an [[_Basic Mechanics#Opposed Checks|Opposed Check]] against the original **Survival Check** the trapper rolled to originally set the set the trap.
+In all 3 cases, the check to defend against the trap is an [[1. Basics/index#Opposed Checks|Opposed Check]] against the original **Survival Check** the trapper rolled to originally set the set the trap.
 
 ---
 # Apprentice Traps

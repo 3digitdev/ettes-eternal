@@ -12,7 +12,7 @@ Melee attacking is relatively straightforward as opposed to most systems, but he
 ## Ranged
 Ranged attacking is basically the same as [[#Melee]], except instead of selecting a target in Threat Range, you instead pick any target within range of your weapon that you have Line of Sight (LoS) on, then you roll a **Ranged Skill Check**.  Beyond this, the attack works exactly the same as melee attacking.
 ## Spellcasting
-See [[Magic (OLD)#Casting Spells|Casting Spells]] for a detailed look at how this works
+See [[6. Magic/index#Casting Spells|Casting Spells]] for a detailed look at how this works
 ## "Automatic" Successes
 Whenever something states that you gain an "automatic" success of a specified level, then for the sake of numbers you should consider your "roll" for that check to be _exactly_ the number you need to achieve that result. 
 **Examples:**
@@ -24,7 +24,7 @@ Whenever something states that you gain an "automatic" success of a specified le
 What you roll for damage is highly variable. However, there are 3 different sources that can modify your damage roll for any given attack or spell.
 ## Bonus Damage Sources
 ### Bonus Damage Dice
-You gain bonus damage dice on all weapon and spell attack damage as a result of your [[_Character Classes#Class Tier System|Class Tier]]. The progression, repeated here:
+You gain bonus damage dice on all weapon and spell attack damage as a result of your [[3. Classes/index#Class Tier System|Class Tier]]]. The progression, repeated here:
 
 | Class Tier | Total Dice |
 | ---------- | ---------- |

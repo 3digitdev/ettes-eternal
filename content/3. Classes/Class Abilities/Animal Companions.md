@@ -50,7 +50,7 @@ At any level from 10 onwards, you may choose to have your Animal Companion incre
 These benefits to stats don't allow the Animal Companion to exceed their 70 maximum for Skills.
 # Rules
 ## Healing & Death
-Animal Companions follow the same rules for [[_Basic Mechanics#Healing|healing]] and [[_Basic Mechanics#Death Saves|dying]] as any player character would
+Animal Companions follow the same rules for [[Core Rules/1. Basics/index#Healing|healing]] and [[Core Rules/1. Basics/index#Dying|dying]] as any player character would
 
 If an Animal Companion dies, the trainer must spend 3 uninterrupted days in wilderness either choosing and bonding with a new companion, or resurrecting their old companion.  Whichever choice they make, the companion remains at the same level as before.  This meditation time does not need to be taken immediately, but until it is done, the trainer does not have an Animal Companion and gains none of the benefits of having one.
 ## Companion Limitations

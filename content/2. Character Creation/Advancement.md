@@ -1,12 +1,12 @@
 As you adventure you gain experience and can advance your character in one of 3 ways: 
 1. [[#Advancing Skills]]
 2. [[#Perk Acquisition]]
-3. [[#Class Level Progression|Leveling Up]]
+3. [[#Class Level Progression|Leveling Up Your Character Class]]
 
 ---
 # Advancing Skills
 ## Session Experience
-At the end of every _[[Core Rules/11. GM Guidelines/index#Session Productivity|productive]] gaming session_, all players gain **5 Experience Points (XP)**
+At the end of every _[[11. GM Guidelines/index#Session Productivity|productive]] gaming session_, all players gain **5 Experience Points (XP)**
 ## XP Spending Restrictions
 - You may not increase any skill more than once per session
 - Each session, you must spend all 5 XP
@@ -22,13 +22,13 @@ _e.g. If you are Advancing a Skill from 65-66, you would pay 3 XP for this, rath
 |      66-80      |       3 XP       |
 |      81-90      |       4 XP       |
 
-See [[Core Rules/4. Skills/index#Skill Limits|Skill Limits]] for details on what limits there are to advancing Skills.
+See [[4. Skills/index#Skill Limits|Skill Limits]] for details on what limits there are to advancing Skills.
 
 ---
 # Class Level Progression
 Although there are many ways to determine how/when players should level up, Ettes Eternal takes an opinionated approach to the problem so as to provide a balanced and consistent progression to the game, allowing GMs not to worry about keeping player levels up or various fiddly numbers and balancing and edge cases.
 ### Recommended Class Level Timeline
-*See [[#System Scaling|Guidelines]] below for information on deviating from this timeline!*
+*See the [[11. GM Guidelines/index#System Scaling|GM Guidelines]] for information on deviating from this timeline!*
 _If you are beginning your campaign at a higher level, or are making a new character at a specific level, use the "Total XP Gained" column to know how much XP you have to spend for a character at that level_
 
 | Level | XP to next level | Total XP Gained |     Campaign Milestone      |

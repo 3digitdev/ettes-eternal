@@ -114,13 +114,13 @@ What happens when you fail a group check is highly dependent on what the group c
 
 ---
 # Skills Introduction
-Your character is defined by a set of 19 different **[[Core Rules/4. Skills/index]]** that your character will have various levels of ability in.  Your Skill may have a value of anywhere between 1-100 (_[[#Skill Limits|limits apply]]_). In the vast majority of circumstances, you will be rolling a Skill Check to resolve a given situation, and your Skill Level (modified rarely) will represent the **Target Number** for your Skill Check.
+Your character is defined by a set of 19 different **[[4. Skills/index|Skills]]** that your character will have various levels of ability in.  Your Skill may have a value of anywhere between 1-100 (_[[4. Skills/index#Skill Limits|limits apply]]_). In the vast majority of circumstances, you will be rolling a Skill Check to resolve a given situation, and your Skill Level (modified rarely) will represent the **Target Number** for your Skill Check.
 
-For more detailed information about Skills, please refer to the [[Core Rules/4. Skills/index]] section of the system
+For more detailed information about Skills, please refer to the [[4. Skills/index|Skills]] section of the system
 
 ---
 # Flow System
-In certain situations (primarily [[_Combat|_Combat]]), you can gain **Flow Points** to use to achieve interesting effects or perform special actions.  **Flow Points** are separate from the normal **Action/Reaction Points** used in Combat, and the rules for gaining/losing them depend on the situation.  See the individual sections for more information on how the Flow System works for that section.
+In certain situations (primarily [[5. Combat/index|Combat]]), you can gain **Flow Points** to use to achieve interesting effects or perform special actions.  **Flow Points** are separate from the normal **Action/Reaction Points** used in Combat, and the rules for gaining/losing them depend on the situation.  See the individual sections for more information on how the Flow System works for that section.
 
 ---
 # Characters
@@ -132,14 +132,14 @@ If you choose to **Multiclass** your character, your **Level** for the purposes 
 ### Health
 Each class has a Hit Die (HD) value for their class, representing the scaling of their health.
 
-All characters have hitpoints (HP) that are calculated by the following:
-> 10 + ((HD Maximum + Endurance [[#Modifiers|Modifier]]) × Level)
+All characters have Hitpoints (HP) that are calculated by the following:
+> 10 + ((HD Maximum + Endurance [[4. Skills/index#Skill Modifiers|Modifier]]) × Level)
 
 **Example:**
 A Level 5 Barbarian (d12 HD and 65 Endurance (+6 Modifier) would have
 `10 + (12 (HD maximum) + 6) x 5)` →  `10 + (18 x 5)` = **100 HP**
 #### Changes to Endurance
-Any **permanent** change to your Endurance (including leveling up, [[Mythic Perks|Mythic Perks]], or even bonuses from worn items) will cause you to re-calculate your full health total retroactively to level 1.  The easiest way to do this is to just multiply the _change_ in your Endurance [[Core Rules/4. Skills/index#Skill Modifiers|Modifier]] by your current **Level**.  So a Level 15 character that has their Endurance go from 45 to 55 would gain an additional 15 health **immediately**.
+Any **permanent** change to your Endurance (including leveling up, [[Mythic Perks|Mythic Perks]], or even bonuses from worn items) will cause you to re-calculate your full health total retroactively to level 1.  The easiest way to do this is to just multiply the _change_ in your Endurance [[4. Skills/index#Skill Modifiers|Modifier]] by your current **Level**.  So a Level 15 character that has their Endurance go from 45 to 55 would gain an additional 15 health **immediately**.
 
 _Note: Because this applies to **worn items** too, there is potential for confusion if the player is constantly donning and doffing the item.  For the sake of simplicity, we leave it to the GM and players to determine how to handle this, so that magic items can continue to provide interesting benefits_
 #### A note on rolling HP
@@ -152,15 +152,15 @@ All characters have a default **Move Speed** of 6 hexes per round.   Outside of 
 Unless specified otherwise by Ancestry, characters have standard human senses and sense abilities.
 ## Character Features
 ### Ancestry
-Every character has an [[Core Rules/2. Character Creation/index#Ancestries|Ancestry]] (commonly called a Race in other systems) which represents your bloodline/lineage.  These Ancestries will grant you certain benefits including a Skill Bonus and an Ancestral Trait.  The idea behind these is to simply provide some small flavor and abilities, rather than becoming the "correct" choice for any given class like other systems might be.  See the [[Core Rules/2. Character Creation/index#Ancestries|Ancestries]] for more details
+Every character has an [[2. Character Creation#Ancestries|Ancestry]] (commonly called a Race in other systems) which represents your bloodline/lineage.  These Ancestries will grant you certain benefits including a Skill Bonus and an Ancestral Trait.  The idea behind these is to simply provide some small flavor and abilities, rather than becoming the "correct" choice for any given class like other systems might be.  See the [[2. Character Creation#Ancestries|Ancestries]] for more details
 ### Background
-A [[Core Rules/2. Character Creation/index#Backgrounds|Background]] represents a baseline for what your character used to do before beginning their adventures.  Each Background grants an additional Skill Bonus based on the choice, as well as a set of useful and interesting Roleplaying Bonuses unique to each Background to help give players a leg-up at the beginning of a campaign.  Backgrounds provide very little _mechanical_ benefit;  They are intended to either be a capstone or a jumping-off point for you to define your character's backstory!  See the [[Core Rules/2. Character Creation/index#Backgrounds|Backgrounds]] for more details.
+A [[2. Character Creation#Backgrounds|Background]] represents a baseline for what your character used to do before beginning their adventures.  Each Background grants an additional Skill Bonus based on the choice, as well as a set of useful and interesting Roleplaying Bonuses unique to each Background to help give players a leg-up at the beginning of a campaign.  Backgrounds provide very little _mechanical_ benefit;  They are intended to either be a capstone or a jumping-off point for you to define your character's backstory!  See the [[2. Character Creation#Backgrounds|Backgrounds]] for more details.
 ### Class
-Common across most RPG systems, your character's [[_Character Classes|Class]] is the core of their identity, representing the lion's share of their abilities, and determines how they power-up as they level throughout the campaign.  See the [[_Character Classes|Classes]] for more details.
+Common across most RPG systems, your character's [[3. Classes/index|Class]] is the core of their identity, representing the lion's share of their abilities, and determines how they power-up as they level throughout the campaign.  See the [[3. Classes/index|Classes]] for more details.
 ### Skills
-See [[#Skills Introduction]] for details on Skills.
+See [[4. Skills/index|Skills]] for details on Skills.
 ### Perks
-[[_Perks Overview|_Perks Overview]] are what other systems may call Feats, or Talents. They represent larger new "abilities" that generally everyone can take (sometimes with pre-requisites). Perks are gained as you level up, and allow you to further customize your character with new abilities to synergize with your Class Abilities. See [[_Perks Overview|_Perks Overview]] for more details.
+[[7. Perks/index|Perks]] are what other systems may call Feats, or Talents. They represent larger new "abilities" that generally everyone can take (sometimes with pre-requisites). Perks are gained as you level up, and allow you to further customize your character with new abilities to synergize with your Class Abilities. See [[7. Perks/index|Perks]] for more details.
 
 ---
 # Rest and Downtime 🚧
@@ -202,7 +202,7 @@ You may roll a number of your hit dice equal to your Level÷2 (round up), and re
 ## Natural Healing
 Every time a character takes a [[#Rest|Long Rest]], they may attempt 1 Recovery Roll
 ## Applied Healing
-**Once per day**, a player may have non-magical healing applied to them (usually through the Medicine Skill), which allows them to take one extra Recovery Roll for that day.  **Note: Better rolls from the healer rolling the Medicine skill may increase the Recovery amount!  See the [[Core Rules/4. Skills/index#Medicine|Medicine Skill]] for more details.**
+**Once per day**, a player may have non-magical healing applied to them (usually through the Medicine Skill), which allows them to take one extra Recovery Roll for that day.  **Note: Better rolls from the healer rolling the Medicine skill may increase the Recovery amount!  See the [[4. Skills/index#Medicine|Medicine Skill]] for more details.**
 
 This means that, outside of magical healing, **a player may not roll more than 2 Recovery Rolls per day.**
 # Tiered Systems
@@ -218,4 +218,4 @@ This convention was chosen to easily track progress and match up when new system
 
 ---
 # Getting Started
-Now that you have a basic idea of how the system works, you can either check out the various linked pages (we recommend starting in [[Core Rules/4. Skills/index]]), or you can head right over to [[Core Rules/2. Character Creation/index]] and start making your first adventurer!
+Now that you have a basic idea of how the system works, you can either check out the various linked pages, or you can head right over to [[2. Character Creation|Character Creation]] and start making your first adventurer!

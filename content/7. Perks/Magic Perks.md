@@ -58,7 +58,7 @@
 ## Journeyman Tier
 ### Basic Metamagic
 **Prerequisites:** Spellcasting 60+
-**Effect:** Choose one [[Magic (OLD)#Metamagic|Basic Metamagic]] option (Extend, Split, Still, Rebound, Surge, or Widen). You can apply it to your spells. Each time you take this perk, choose a different Basic Metamagic option.
+**Effect:** Choose one [[6. Magic/index#Metamagic|Basic Metamagic]] option (Extend, Split, Still, Rebound, Surge, or Widen). You can apply it to your spells. Each time you take this perk, choose a different Basic Metamagic option.
 ### Counterspell Expert
 **Prerequisites:** Spellcasting 60+
 **Effect:** You can attempt to disrupt enemy spellcasting. When an enemy within 8 hexes begins casting a spell, you may spend 2 AP and make an opposed Spellcasting check. If you succeed, their spell fails and they lose the mana cost. You can use this ability a number of times per day equal to your Spellcasting Modifier.
@@ -83,7 +83,7 @@
 **Effect:** You can cast spells while wielding weapons and shields without penalty. When you take damage while sustaining a spell, you have Advantage on the opposed roll to maintain it. Additionally, you can use spells for Reaction Attacks instead of weapon attacks.
 ### Advanced Metamagic
 **Prerequisites:** [[#Basic Metamagic]], Spellcasting 70+
-**Effect:** Choose one [[Magic (OLD)#Metamagic|Advanced Metamagic]] option. You can apply it to your spells. Each time you take this perk, choose a different Advanced Metamagic option.
+**Effect:** Choose one [[6. Magic/index#Metamagic|Advanced Metamagic]] option. You can apply it to your spells. Each time you take this perk, choose a different Advanced Metamagic option.
 ### Devout Practitioner
 **Prerequisites:** Religion 80+, [[#Divine Practitioner]]
 **Effect:** You gain +1 additional Favor from adhering to your Values, and only lose 5 Favor (instead of 10) when acting against your deity's values.

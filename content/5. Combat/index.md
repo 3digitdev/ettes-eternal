@@ -41,8 +41,8 @@ Every player starts each round of combat with **5 AP**.  Any unused AP at the en
 
 **Common Actions and their costs:**
 _(this is not an exhaustive list!)_
-- Movement: 1 AP to move full [[_Basic Mechanics#Movement|Move Speed]]
-- [[Attack & Damage|Attacking]]/[[_Magic#Casting Spells|Casting a Spell]]: 2 AP
+- Movement: 1 AP to move full [[1. Basics/index#Movement|Move Speed]]
+- [[Attack & Damage|Attacking]]/[[6. Magic/index#Casting Spells|Casting a Spell]]: 2 AP
 - Drawing/Sheathing an item: 1 AP each _(thus, 2 AP to switch weapons)_
 - Drinking a potion from your bag: 2 AP _(1 AP to draw potion, 1 AP to drink)_
 - Using a Magic Item: 1-2 AP _(specific to each item)_
@@ -67,7 +67,7 @@ For the sake certain abilities, **Reaction Attacks** are a special type of attac
 #### Reaction Chains
 When a Reaction attack is performed, the defending player still has the ability to react to that attack as normal.  In this situation, if the defending player still has RP left, **you can still Dodge/Parry/Block** as normal, but you **cannot** perform any advanced Reactions; that is, you cannot Riposte or similar.  **Reaction Attacks cannot trigger new attacks in response.**
 ### Dodge/Parry
-When an attack of the right type would succeed against you, you may spend 1 RP to attempt any of these abilities in order to avoid taking damage from the attack.  Each is either an **Agility** (Dodge) or **Melee** (Parry) Skill Check.  Treat this check as an [[_Basic Mechanics#Opposed Checks|Opposed Check]] against the attacker's attack Skill Check, and resolve as normal.  **If you win the Opposed Check, then the attack does no damage to you**, unless another rule would state otherwise.
+When an attack of the right type would succeed against you, you may spend 1 RP to attempt any of these abilities in order to avoid taking damage from the attack.  Each is either an **Agility** (Dodge) or **Melee** (Parry) Skill Check.  Treat this check as an [[1. Basics/index#Opposed Checks|Opposed Check]] against the attacker's attack Skill Check, and resolve as normal.  **If you win the Opposed Check, then the attack does no damage to you**, unless another rule would state otherwise.
 #### Critical Results
 If you **critically succeed** at your Dodge/Parry roll, as long as the enemy attack was not also a critical success, **you regain the 1 RP you spent on the Reaction**.
 
@@ -79,7 +79,7 @@ This is a one-two combo of a **Parry** (Riposte) followed by a **Reaction Attack
 ### Intercept
 This is a special reaction that can allow you to take a physical attack from an enemy in place of a nearby ally.  If it is a melee attack, you first must be within **3 hexes** of your ally **and** the attacker. Put simply: if you cannot move to be adjacent to BOTH of them with 3 hexes of movement, **you may not perform Intercept**.  For ranged attacks, you must be able to stand **directly between your ally and the attacking enemy** within 3 hexes.  If you can not do this using 3 hexes of movement, **you may not perform Intercept**.
 
-Once you have moved to **Intercept**, you must make an **Agility** Check against their attack as an [[_Basic Mechanics#Opposed Checks|Opposed Check]], and resolve as normal.  **If you win the Opposed Check**, you take the **full damage** of the attack from the enemy, and your ally takes no damage.  No other reactions may be used as a result of this, and normal damage rules still apply.
+Once you have moved to **Intercept**, you must make an **Agility** Check against their attack as an [[1. Basics/index#Opposed Checks|Opposed Check]], and resolve as normal.  **If you win the Opposed Check**, you take the **full damage** of the attack from the enemy, and your ally takes no damage.  No other reactions may be used as a result of this, and normal damage rules still apply.
 
 **Additionally**, you may optionally choose to move your ally 1 hex away from your movement direction, and take their place (even if this extra hex of movement is above the 3 hexes from your Intercept)
 ## Special Actions
@@ -168,9 +168,9 @@ _(this list is not exhaustive!)
 
 ---
 # Initiative
-1. Everyone rolls 1d10 + Agility [[_Basic Mechanics#Modifiers|Modifier]]
+1. Everyone rolls 1d10 + Agility [[4. Skills/index#Skill Modifiers|Modifier]]
 2. Initiative proceeds from highest to lowest roll
-3. Ties are resolved [[_Basic Mechanics#Resolving Ties|as normal]]
+3. Ties are resolved [[1. Basics/index#Resolving Ties|as normal]]
 ## Surprise Attacks
 Surprise Attacks happen when one side of a potential combat gets the drop on the other.  This can happen through a variety of ways, but is primarily done when one party is unaware of the other.
 

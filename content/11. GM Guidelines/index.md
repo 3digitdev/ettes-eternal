@@ -23,7 +23,7 @@ As characters advance, they should feel increasingly competent at their specialt
 
 Don't make routine tasks require higher success levels just because the party has grown more capable. Let experts feel expert.
 # Social Challenges
-Reserve the [[Social Challenges]] system for **significant** social encounters where:
+Reserve the [[Social Challenges|Social Challenges]] system for **significant** social encounters where:
 
 - The NPC has strong reasons to refuse (fear, loyalty, conflicting interests)
 - The stakes matter to the story or character advancement

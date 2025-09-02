@@ -1,5 +1,5 @@
 # Setup
-Chases operate like [[Social Challenges]] where participants attempt to reduce their quarry's **Distance** to 0.
+Chases operate like [[Social Challenges|Social Challenges]] where participants attempt to reduce their quarry's **Distance** to 0.
 
 **Distance**: Equal to the quarry's highest Physical Skill Modifier (Athletics, Agility, or Endurance).
 

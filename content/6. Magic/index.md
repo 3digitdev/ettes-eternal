@@ -1,6 +1,6 @@
 Many RPG systems use what's called [Vancian Magic](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic), and it involves Spell Slots, Preparing Spells each morning, etc. Ettes Eternal takes a more free-form approach;  Each Spellcaster simply has a list of known Spells, and a **Mana Pool** that they use to cast/modify those spells of various levels/costs.  There is no limit to how many of each Spell Level you can cast per day, provided you have the **Mana** for it, but there's a tradeoff of power versus a wider array of options throughout the day.
 
-There are 5 Spell Tiers in Ettes Eternal (matching directly to [[_Character Classes#Class Tier System|Class Tiers]]), as well as **Novice Spells**
+There are 5 Spell Tiers in Ettes Eternal (matching directly to [[3. Classes/index#Class Tier System|Class Tiers]]), as well as **Novice Spells**
 ## Novice Spells
 Novice Spells are a special type of "innate" spell that are significantly weaker or simple utility spells.  **For all purposes where Spell Tier counts, Novice Spells are 1 step below Apprentice Spells.**
 ### Novice Spell Scaling
@@ -8,16 +8,14 @@ Unlike other spells, Novice Spells scale with your **Adventurer Tier** (based on
 
 ---
 # Mana Pool
-Mana is a common concept in fantasy referring to your innate capacity to cast spells.  Every spellcasting Class in Ettes Eternal will have a Mana Pool that is calculated by various values.  This Mana Pool **refreshes after a [[_Basic Mechanics#Rest|Long Rest]]**.
+Mana is a common concept in fantasy referring to your innate capacity to cast spells.  Every spellcasting Class in Ettes Eternal will have a Mana Pool that is calculated by various values.  This Mana Pool **refreshes after a [[1. Basics/index#Rest|Long Rest]]**.
 ## Calculating Mana Pool
-Your Mana Pool will be a combination of a Base Mana value for your Class Level, combined with your **Spellcasting [[Core Rules/4. Skills/index#Skill Modifiers|Modifier]]**.  See the [[#Spellcasting Advancement Table]] for more details.
+Your Mana Pool will be a combination of a Base Mana value for your Class Level, combined with your **Spellcasting [[4. Skills/index#Skill Modifiers|Modifier]]**.  See the [[#Spellcasting Advancement Table]] for more details.
 
 ---
 # Casting Spells
 ## Casting Costs
-Every Spell has 2 costs associated with it:  **Action Points (AP)** to actually perform the incantation, and **Mana** to expend to cast and modify the spell.  
-
-AP cost is a static *escalating* amount; See [[_Combat#Actions|Combat Actions]] to see more how this works.
+Every Spell has 2 costs associated with it:  **2 Action Points (2 AP)** to actually perform the incantation, and **Mana** to expend to cast and modify the spell.  
 
 Mana Cost is based on Spell Tier:
 - **Novice:** 0 mana
@@ -53,7 +51,7 @@ When you choose a Spell to cast, and BEFORE rolling the Spellcasting Check, you 
 ### Spellcasting Roll
 This is almost always standard **Spellcasting Skill Check**, unless a Spell's effect states otherwise.  If you **fail** the Spellcasting Roll, your spell fizzles and you lost all associated costs for the spell.  If you _critically fail_ the Spellcasting Roll, you may have additional complications as decided by the GM.
 
-If you succeed the Spellcasting Roll, you may apply the effects of the Spell.  This may involve enemies making additional [[_Basic Mechanics#Opposed Checks|Opposed Checks]].  Spells may also have additional bonuses associated with Hard/Major Successes, or even custom Critical Success effects.  If a spell does not have a defined Critical Effect on its description, then the spell will simply do **double damage or healing** as normal  (All non-damaging/healing spells **will** have a Critical Effect defined).
+If you succeed the Spellcasting Roll, you may apply the effects of the Spell.  This may involve enemies making additional [[1. Basics/index#Opposed Checks|Opposed Checks]].  Spells may also have additional bonuses associated with Hard/Major Successes, or even custom Critical Success effects.  If a spell does not have a defined Critical Effect on its description, then the spell will simply do **double damage or healing** as normal  (All non-damaging/healing spells **will** have a Critical Effect defined).
 ## Sustained Spells
 Some spells have a duration of "**Sustained**", meaning they continue as long as you can maintain concentration on them.
 
@@ -61,7 +59,7 @@ Sustaining a Spell costs **no mana or AP**, but you can only sustain **a single 
 
 **You can still cast other Spells while sustaining a Spell.**
 
-When you take damage while sustaining a Spell, you must make an **[[_Basic Mechanics#Opposed Checks|Opposed Spellcasting Check]]** against the original attack roll that dealt the damage. If you lose the opposed check, your sustained Spell ends immediately.  This is not a Reaction and costs nothing to perform.
+When you take damage while sustaining a Spell, you must make an **[[1. Basics/index#Opposed Checks|Opposed Spellcasting Check]]** against the original attack roll that dealt the damage. If you lose the opposed check, your sustained Spell ends immediately.  This is not a Reaction and costs nothing to perform.
 
 ---
 # Learning Spells
@@ -107,7 +105,7 @@ The following table demonstrates the scaling of your Base Mana (not linear per l
 
 **You can only apply a single Metamagic Effect to a Spell when it is cast**.  There may be abilities that provide a limited exception to this, but they are very rare.
 
-Initially, no Spellcaster has access to Metamagic.  You gain access via a set of two [[_Perks Overview|_Perks Overview]]:
+Initially, no Spellcaster has access to Metamagic.  You gain access via a set of two [[7. Perks/index|Perks]]:
 - [[Magic Perks#Basic Metamagic|Basic Metamagic]] grants you access to **ALL** Basic Metamagic effects.
 - [[Magic Perks#Advanced Metamagic|Advanced Metamagic]] grants you access to **ONE** Advanced Metamagic effect that you select when you take each stack of the Perk.
 ## Metamagic List

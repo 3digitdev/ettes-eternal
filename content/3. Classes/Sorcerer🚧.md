@@ -8,7 +8,7 @@ _Pick one at character creation_
 - **Apprentice Wand** 2 AP: cast chosen Apprentice for 0 Mana, 3/day. Must be wielding the wand.
 - **Elemental charm**: change damage type of spell, 1/day
 - **Spell echo ring**: repeat last Novice spell cast as free action, 1/day
-- **Silent casting tattoo**: cast one specific Novice spell you know, with Silent [[Magic (OLD)#Metamagic|Metamagic]]. Choose the spell at character creation from the Novice Spells you know at level 1.
+- **Silent casting tattoo**: cast one specific Novice spell you know, with Silent [[6. Magic/index#Metamagic|Metamagic]]. Choose the spell at character creation from the Novice Spells you know at level 1.
 # Core Features
 
 | Level | Feature             | Description                                |
@@ -37,7 +37,7 @@ _Example: at Level 9, when you learn Level 5 Spells, you may pick any one spell 
 ### Arcane Assistance
 **Cost:** 3 Mana  
 **Frequency:** Once per day  
-**Effect:** You may use your Spellcasting skill instead of any other skill to help you [[_Basic Mechanics#Aid Another|Aid Another]] in a Skill Check.. You must describe how you're using magic to accomplish the task. This does not need to replicate an effect one of your spells provides.  Just like Aid Another, **this cannot be used with Combat Skills.**
+**Effect:** You may use your Spellcasting skill instead of any other skill to help you [[1. Basics/index#Aid Another|Aid Another]] in a Skill Check.. You must describe how you're using magic to accomplish the task. This does not need to replicate an effect one of your spells provides.  Just like Aid Another, **this cannot be used with Combat Skills.**
 
 _Examples: Using Spellcasting instead of Athletics to use a levitate effect to help someone jump over a chasm, or instead of Perception to magically help someone sense hidden people._
 ### Magical Conduit

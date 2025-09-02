@@ -8,7 +8,7 @@ This system wasn't designed for every tiny little secret out there.  Many "inves
 # Core Mechanics
 The core mechanics of an Investigation will be very similar to those in [[Social Challenges]].  This is intentional so that there aren't any new mechanics introduced simply for this sub-system.  Additionally, for extra realistic investigations, one could transition directly into a Social Challenge when doing something like interrogating a suspect or witness to a murder, or other such ideas!  Although the system described below uses simple Skill Check resolution mechanics, nothing is stopping you from mixing and matching the systems in Ettes Eternal however you prefer!
 ## Using Skills
-A large majority of the [[Core Rules/4. Skills/index]] already defined can be quite useful in Investigations;
+A large majority of the [[Core Rules/4. Skills/index|Skills]] already defined can be quite useful in Investigations;
 - **Perception** - Physical evidence, crime scenes, noticing details
 - **Insight** - Reading people, detecting deception, understanding motivations
 - **Academia** - Research, historical records, scholarly analysis
@@ -16,7 +16,7 @@ A large majority of the [[Core Rules/4. Skills/index]] already defined can be qu
 - **Arcana/Religion/Nature** - Specialized knowledge for supernatural or technical mysteries
 - **Thievery** - Covert investigation, accessing restricted areas
 - **Medicine** - Autopsy results, understanding injuries or symptoms
-- **Athletics** - Chasing down suspects ([[Chase Rules]] anyone?)
+- **Athletics** - [[Chase Rules|Chasing]] down suspects
 - **Agility** - Squeezing into hiding spots to eavesdrop
 
 Some skills, like Combat Skills, Endurance/Willpower, or Survival/Crafting, will have very limited application directly to Investigations.  Campaigns focused on investigations may end up with these remaining at base values for the most part, and that's okay!

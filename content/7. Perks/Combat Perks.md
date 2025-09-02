@@ -43,7 +43,7 @@
 **Effect:** When you move at least 4 hexes before making an attack, deal +{Level÷2} additional damage with that attack.
 ### Combat Awareness
 **Prerequisites:** Perception 40+
-**Effect:** You can use defensive reactions (Dodge, Parry, Block) normally while Blinded, suffering no penalties from the condition.
+**Effect:** You can use defensive reactions (Dodge, Parry) normally while Blinded, suffering no penalties from the condition.
 ### Counter Attacker
 **Prerequisites:** None
 **Effect:** Your reaction attacks deal +2 additional damage.
@@ -142,11 +142,11 @@
 **Effect:** When using a shield, gain +1 DR in addition to the shield's normal benefits.
 ### Titanfall
 **Prerequisites:** Athletics 50+
-**Effect:** You may now [[_Combat#Shove|Shove]] or [[_Combat#Disarm|Disarm]] enemies 1 size category larger than you.
+**Effect:** You may now [[5. Combat/index#Shove|Shove]] or [[5. Combat/index#Disarm|Disarm]] enemies 1 size category larger than you.
 ## Expert Tier
 ### Basically A Weapon
 **Prerequisites:** [[#Seasoned Brawler]], Athletics 60+
-**Effect:** You may now wield an adjacent creature your size category or lower as if they were an Improvised Weapon.  First, you must already be Grappling them.  You may make attacks with them at a **-10 penalty** (instead of Disadvantage, as described in [[_Combat#Grapple|Grapple]] rules) as if they were a 2h Improvised **Melee** Weapon.  Any attack you hit with also does 1d4 bludgeoning damage to the creature you are wielding (reduced by their DR).  Enemies you wield as such can still attempt to break free as a normal Grapple each round.  **You may not use any Flow Actions while doing this, and the "weapon breaking" rules do NOT apply._**
+**Effect:** You may now wield an adjacent creature your size category or lower as if they were an Improvised Weapon.  First, you must already be Grappling them.  You may make attacks with them at a **-10 penalty** (instead of Disadvantage, as described in [[5. Combat/index#Grapple|Grapple]] rules) as if they were a 2h Improvised **Melee** Weapon.  Any attack you hit with also does 1d4 bludgeoning damage to the creature you are wielding (reduced by their DR).  Enemies you wield as such can still attempt to break free as a normal Grapple each round.  **You may not use any Flow Actions while doing this, and the "weapon breaking" rules do NOT apply._**
 ### Two-Weapon Master
 **Prerequisites:** [[#Two-Weapon Fighter]]
 **Effect:** Remove the -10 penalty from your Two-Weapon Fighter attacks. Your off-hand attacks now use your normal attack bonus.

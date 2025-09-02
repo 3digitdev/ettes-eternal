@@ -3,7 +3,7 @@ The **Flow System** is intended to make Melee and Ranged combatants have more in
 ## Flow Points
 **Flow Points** are a separate pool of action points given to martial combatants as reward for certain actions, and represent a martial character getting into the "flow of combat", and being able to achieve interesting results the more/longer they fight.  **Flow Points** are gained in a variety of ways, and **can be banked between turns**.  You are not required to have 0 FP at the end of your turn or risk losing it.  There is a [[#Flow Decay]] mechanic that will sap some FP each turn, and many abilities that may sap FP in their effect.
 ### Maximum FP
-As a default, **no character may exceed the _higher_ of their Melee or Ranged [[Core Rules/4. Skills/index#Skill Modifiers|Modifier]] in total FP**.  So a character with 72 **Ranged Skill** could bank a total of **7 FP** during combat.  Any FP gained while at maximum are lost.
+As a default, **no character may exceed the _higher_ of their Melee or Ranged [[4. Skills/index#Skill Modifiers|Modifier]] in total FP**.  So a character with 72 **Ranged Skill** could bank a total of **7 FP** during combat.  Any FP gained while at maximum are lost.
 ### Initial Flow Points
 At the start of every combat, **all combatants begin with 2 FP**; this represents the adrenaline spike from entering combat as everyone plans their first moves.
 ### Flow Decay
@@ -19,7 +19,7 @@ At a basic level, you gain FP by succeeding on attacks in combat.
 ### Summary + Example
 This means that, in an _incredibly lucky situation_, if you manage to attack 2 times, crit both, then perform a Dodge, you will have gained 3+3+1 = **7 Flow Points** in a single round (although you would Decay 1 FP at the end of your turn as usual).  On average though a melee combatant cutting their way through a battle is likely to earn around 2-3 FP in a round barring any special abilities/effects. (2 successful attacks + 1 successful reaction)
 ## Flow Actions
-There are MANY different Flow Actions that you can perform.  [[#Global Flow Actions|Some]] are available to everyone, [[#Flow Actions by Weapon Category|others]] are dependent on what type of weapon you wield.  Some will even be granted by various [[_Perks Overview|Perks]] or Class Abilities.
+There are MANY different Flow Actions that you can perform.  [[#Global Flow Actions|Some]] are available to everyone, [[#Flow Actions by Weapon Category|others]] are dependent on what type of weapon you wield.  Some will even be granted by various [[7. Perks/index|Perks]] or Class Abilities.
 ### Global Flow Actions
 All characters have access to a small number of Flow Actions available regardless of your weapon category or any other feature.
 #### Power Strike
@@ -39,4 +39,4 @@ All characters have access to a small number of Flow Actions available regardles
 **Declaration:** After a successful Parry attempt
 **Effect**: Redirect the damage of an attack you just Parried onto a target adjacent to the attack, other than the attacker themselves.
 ### Flow Actions by Weapon Category
-Refer to the [[Weapon Categories]] page for a detailed look.
+Refer to the [[Weapons#Weapon Categories|Weapon Categories]] page for a detailed look.

@@ -1,6 +1,6 @@
 Plant Companions are the flora-based equivalent of Animal Companions, available to Flora Path Druids. They follow the same advancement rules as Animal Companions but possess plant-based abilities and characteristics.
 # Plant Companion Rules
-- Follow all standard [[Animal Companions]] rules for commands, healing, death, and limitations
+- Follow all standard [[Animal Companions|Animal Companion]] rules for commands, healing, death, and limitations
 - **Advancement:** Same as Animal Companions - +5 to any skill each level, damage/DR upgrades at levels 7/12/17
 - **Intelligence:** Plant-level intelligence - can understand complex commands but lack animal instincts
 - **Special Traits:** Immune to poison and disease, don't require food (photosynthesize in sunlight)

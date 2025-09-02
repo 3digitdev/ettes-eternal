@@ -115,7 +115,7 @@ Assess the workmanship, materials, and value of crafted items.
 Your knowledge of healing, anatomy, and treatment of injuries and diseases. This skill encompasses both magical and mundane healing techniques as well as understanding of the body.
 #### Example Actions
 ##### Administer Healing
-Outside of combat, you may take 2 hours to Administer Healing to another character. You roll your Medicine Skill, and on success the character may immediately make one [[_Basic Mechanics#Recovery Roll|Recovery Roll]]. Higher successes yield better results:
+Outside of combat, you may take 2 hours to Administer Healing to another character. You roll your Medicine Skill, and on success the character may immediately make one [[Core Rules/1. Basics/index#Recovery Roll|Recovery Roll]]. Higher successes yield better results:
 
 |     Success      | Safe % Bonus | Total Safe % | Bonus Dice |   Total Dice    |
 | :--------------: | :----------: | :----------: | :--------: | :-------------: |

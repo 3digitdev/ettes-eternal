@@ -21,7 +21,7 @@ _Pick one at character creation_
 ### Primal Choice
 Choose one of the following
 #### Primal Choice: Animal Companion
-Gain an animal companion from the [[Animal Companions]] list, with all the standard rules and mechanics
+Gain an animal companion from the [[Animal Companions|Animal Companions]] list, with all the standard rules and mechanics
 #### Primal Choice: Wild Shape
 Choose a single medium-sized land (walking) animal you've encountered before.  You may now use **Wild Shape** to turn into that creature.  If you or the GM are uncertain whether you've encountered a specific non-standard creature in the course of your backstory, make a Nature check (Hard Success required).
 ##### Wild Shape
@@ -72,7 +72,7 @@ Your Primal Choice ability transforms into a plant-based version:
 ### Seed Pouch
 You gain the ability to rapidly grow useful plants by planting magical seeds. You have **2 seeds per day** at Level 6.  Use of these seeds does not require dirt;  they will grow magically even when used on man-made or processed materials like in towns or on boats.
 
-See [[Druid - Seed List]] for available seed effects. You start with access to 1-point seeds only.
+See the [[Druid - Seed List|Druid's Seed List]] for available seed effects. You start with access to 1-point seeds only.
 ### Rooted Casting
 If you forgo all movement and **relinquish all RP** until the start of your next turn, **all spells** you cast this round cost 1 less AP (minimum 1).  You must not have moved or taken a Reaction this round in order to use this ability.  
 _**Exception:** If you have an ability that lets you cast a spell as a Reaction, you may still use this at normal cost;  It does not gain a cost reduction.  For the sake of this exception, assume you have a normal amount of RP._
