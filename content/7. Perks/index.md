@@ -1,5 +1,5 @@
 ---
-title: Perks
+title: 7. Perks
 description: An overview of what Perks are
 ---
 

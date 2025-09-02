@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: 1. Basics
 description: The basic rules of the system
 ---
 

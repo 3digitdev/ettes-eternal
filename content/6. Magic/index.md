@@ -1,5 +1,5 @@
 ---
-title: Magic
+title: 6. Magic
 description: The basic rules of the magic system
 ---
 

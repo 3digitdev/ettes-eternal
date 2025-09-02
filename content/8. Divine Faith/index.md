@@ -1,5 +1,5 @@
 ---
-title: Divine Faith
+title: 8. Divine Faith
 description: An overview of how Diving Faith and Religion works
 ---
 Many systems have different ways of handling "Divine" sources of magic.  A most common example is having one or more Classes (commonly Cleric or Paladin) that channel the divine to cast their own spells; similar to Arcane or Natural Magic, but with a slightly different flavor.

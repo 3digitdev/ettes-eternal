@@ -1,5 +1,5 @@
 ---
-title: Classes
+title: 3. Classes
 description: An overview of how Classes work
 ---
 

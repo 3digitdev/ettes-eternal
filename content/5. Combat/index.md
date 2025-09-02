@@ -1,5 +1,5 @@
 ---
-title: Combat
+title: 5. Combat
 description: The basic rules of combat
 ---
 

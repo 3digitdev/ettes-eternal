@@ -1,5 +1,5 @@
 ---
-title: GM Guidelines
+title: 11. GM Guidelines
 description: A set of basic guidelines to allow GMs to run the game
 ---
 

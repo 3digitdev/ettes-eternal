@@ -1,7 +1,6 @@
 ---
-title: Glossary
+title: 13. Glossary
 ---
-
 ## Action Point (AP)
 The primary action currency in [[5. Combat/index|Combat]]. Characters start each round with 6 AP and spend them on attacks, spells, movement, and other actions. First attacks cost 2 AP, with escalating costs for additional actions.
 ## Advantage/Disadvantage

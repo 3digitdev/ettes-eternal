@@ -1,5 +1,5 @@
 ---
-title: Character Creation
+title: 2. Character Creation
 description: The basics of character creation
 ---
 
