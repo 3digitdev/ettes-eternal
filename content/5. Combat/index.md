@@ -1,222 +1,225 @@
-# Dice
-## Dice Basics
-This system uses a d100-based system in order to easily represent difficulties, power level, and odds of success at a glance.
-
-For any non-damage roll that you attempt, you will have a **Target Number** that you need to achieve.  You roll a d100, and simply compare the result of your roll against the **Target Number**.  If your roll is **less than or equal to the Target Number** (commonly but not always your Skill Level), you have succeeded on the check.  If your roll is **greater than the Target Number**, you have failed the check.
-## Success & Failure
-### Success/Failure Levels
-There are 4 **Success Levels** and 2 **Failure Levels** when performing a roll:
-- **Critical Failure**: Your roll was ≥95.
-	- Even if your **Target Number** was >95 (extremely rare but technically possible), this roll is considered an abject failure, and the GM will assign consequences to the roll appropriate for the situation.
--  **Failure**: Your roll was > **Target Number**
-	- You failed to achieve the result you wanted, but no other consequences occur.
--  **Normal Success**: Your roll was ≤ **Target Number**
-	- You succeed at the task exactly as you describe, with no extra benefits
-- **Hard Success**: Your roll was ≤ ½ **Target Number**
-	- You succeeded on the roll in an impressive way, or succeeded at a particularly hard task
-- **Major Success**: Your roll was ≤ ¼ **Target Number**
-	- You succeeded on the roll in an incredible way, or succeeded on an extremely difficult task
-- **Critical Success**: Your roll was ≤ 05
-	- You have succeeded in spectacular fashion.  The GM will assign an incredible result along with your expected result, appropriate for the situation.
-#### Rounding
-When dividing some number for a result (such as ½ **Target Number**):  **ALWAYS ROUND ALL FRACTIONS UP TO NEXT WHOLE NUMBER.**  
-e.g. `25.5` becomes `26`, `33.25` becomes `34`, etc.
-## Difficulty Levels & Target Numbers
-All difficulty modifiers to determining the success of the check will be handled as modifications to either the **Difficulty Level** (making the check require a Hard/Major Success) or the **Target Number** (such as increasing/lowering your skill for the roll by +/- 10), rather than placing bonuses/negatives on the roll result itself.
-### Difficulty Levels
-As a default any given roll should only require a **Normal Success** in order to succeed at the task.  However, in many circumstances like performing an especially hard task, the GM may require that you achieve a **Hard** or **Major Success** in order to succeed at the check.  In these situations, a **Success Level** lower than that (like a **Normal Success**) will be considered a **Failure**.
-### Target Number Modifications
-Very rarely, an ability or circumstance may temporarily modify your normal **Target Number** for a roll by ±5, ±10, etc.  These should be straightforward, and are applied only to the **Target Number**, with negatives making the roll harder, and positives making the roll easier.
-## Advantage & Disadvantage
-An ability or circumstance may grant you **Advantage** or **Disadvantage** on your roll.  In these situations, your **Target Number** remains the same, but you get to roll your dice **2 times**
-and take the higher result (**Advantage**) or lower result (**Disadvantage**)
-## Opposed Checks
-In many situations such as combat, you will find yourself resolving the situation as an **Opposed Check**. In this situation, there's someone on "offense" (the "**Attacker**"), and someone opposing them (the "**Defender**").
-
-**If the attacker succeeds their check**, have the Defender then make their check, and compare the _**success/failure levels,**_ _NOT the resulting rolls_:
-- If Defender's success level was less than the Attacker's success level, the Attacker wins
-- If the Defender's success level was equal to the Attacker's success level, it's a [[#Resolving Ties|Tie]]
-	- NOTE: [[5. Combat/#Reactions|Reactions]] in combat handle ties in a specific way!
-	- NOTE: [[Core Rules/5. Combat/index#Reactions|Reactions]] in combat handle ties in a specific way!
-- If the Defender's success level was greater than the Attacker's Success level, the Defender Wins
-#### Opposed Check Example Table
-
-| Attacker       | Defender       | Winner   |
-| -------------- | -------------- | -------- |
-| Normal Success | Failure        | Attacker |
-| Normal Success | Normal Success | Tie      |
-| Normal Success | Hard Success   | Defender |
-| Hard Success   | Major Success  | Defender |
-### Resolving Ties
-When 2 people tie a roll, default to the underlying Skill being rolled;  The person with the higher Skill should win the tie.
-
-In the rare case that there is a **complete** tie (identical Skill levels), then resolve in favor of the **players**. If it's two players who tied, then the players flip a coin.
-### Increasing Success Level
-If an ability would allow you to increase your success level on an Opposed Check, and you already rolled a Critical Success, then you automatically win the Opposed Check
-## Extended Checks
-In some situations the GM will request that you do an **Extended Check**.  These represent efforts over an extended period of time, such as crafting an item.
-
-The GM will determine a **number of Successes** that you need to complete the check, and will determine how often you can make the roll.  In certain circumstances, you may need to achieve the desired number of successes within a maximum number of attempts (_example: You need 5 successes in the next week, but can only roll a Check once per day_).
-
-Each time you perform the check, you get a number of successes easily mapped to the **[[#Success/Failure Levels|Success Levels]]**:
-- Critical Failure: -2
-- Failure: -1
-- Normal Success: +1
-- Hard Success: +2
-- Major Success: +3
-- Critical Success: +4
-
-When you have achieved ≥ the number of required **Successes** for the **Extended Check**, you have succeeded, and resolve as normal.
-
-In certain situations like an Extended Check over a course of time, the GM may allow you to continue to roll for the remainder of the time to see how many extra Successes you get above the required to determine any additional benefits/bonuses from the result.
-## Aid Another
-At the GM's discretion, one play may aid another to achieve success on a **non-combat** check.
-
-*Note for GMs:  This can become powerful if overused, and trivialize many Normal Success checks.  Make sure it makes reasonable sense to be able to Aid!*
-
-**LIMIT:** Only one person may Aid Another on any **Non-Combat** Skill Roll.
-
-On any Skill Check an ally performs where the GM allows you to Aid Another, you may roll your own Skill to assist that ally:
-1. **If your Aid Roll succeeds the required check** (e.g. needed Major Success, you rolled Major Success): **The check passes - you did it!** The person you were aiding still rolls to see if they apply any roleplaying bonus (faster results, etc.) or critically succeed for additional bonuses.
-2. **If your Aid roll succeeds but doesn't meet the required level** (e.g. needed Hard Success, you rolled Normal Success): You grant **Advantage** to the other player's skill check.
-
-_Note: For Normal Success checks, this effectively allows 2 players to attempt success, which is intended. You can still only have 2 players maximum attempt a check at a time, unless the GM specifies otherwise._
-## Group Checks
-In certain situations the GM will determine that an **entire group must work together** to achieve success at a task. This might include the entire party attempting to sneak past a guard, everyone climbing up a dangerous cliff face, or the group working together to navigate treacherous terrain.
-
-**Group Checks cannot be used for situations where only one person needs to succeed**, such as Knowledge checks where one person knowing the answer is sufficient for the group. Use [[#Aid Another]] for those situations instead.
-### Group Check Process
-1. **Designate Leader**: The group chooses a Leader for the check
-	- _this is usually the person with the highest relevant skill, but if someone else is 10 lower but has Advantage, it may be best to use them!_
-2. **Supporting Rolls**: All other participating party members roll their relevant skill:
-    - **Success**: Grant the Leader a bonus to their skill based on success level:
-        - Normal Success: +5 to Leader's skill
-        - Hard Success: +10 to Leader's skill
-        - Major Success: +15 to Leader's skill
-    - **Failure**: -5 penalty to Leader's skill
-    - **Critical Results**:
-        - Critical Success: Leader gains Advantage (non-stacking)
-        - Critical Failure: Leader gains Disadvantage (non-stacking)
-3. **Leader's Roll**: The Leader makes their skill check with all accumulated modifiers to determine the group's overall success or failure.
-### Example
-A 5-person party attempts to sneak past guards. The Rogue (80 Thievery) leads while the Fighter (25 Stealth), Barbarian (30 Thievery), Sorcerer (35 Thievery), and Hunter (20 Thievery) provide support.
-**Supporting Rolls**:
-- Fighter rolls 15 (Normal Success): +5 to Leader's skill
-- Barbarian rolls 45 (Failure): -5 to Leader's skill
-- Sorcerer rolls 30 (Normal Success): +5 to Leader's skill
-- Hunter rolls 95 (Critical Failure): Disadvantage to Leader
-**Leader's Modified Roll**: 80 Thievery + 5 + 5 - 5 = 85 Thievery with Disadvantage (The Rogue rolls with effectively 85 skill but must roll twice and take the lower result due to the Hunter's critical failure.)
-### Notes
-- **Extended Checks**: For longer challenges, the GM **may** call for multiple Group Checks at their discretion (such as every 50 feet of climbing).  This is not a requirement though, and should be left to GM discretion.  In most cases, a single Group Check will work.
-- **Participation**: All party members attempting the task **must** participate in the Group Check - characters cannot opt out to avoid penalizing the group.
-- **Advantage/Disadvantage**: Multiple sources of Advantage or Disadvantage do not stack - the Leader either has it or doesn't.  Advantage and Disadvantage do **cancel** each other though as usual;  If one player crit succeeds and another crit fails, the Leader takes no penalty or bonus to their roll.
-### Failing a Group Check
-What happens when you fail a group check is highly dependent on what the group check is.  In the case of the party sneaking past guards, the failure would of course result in the party being discovered together when the guards are alerted.  Other cases may not be so straightforward:  If the group is climbing a cliff and the Group Check fails, then it may be more up to GM discretion:  maybe the group falls with the failing rolling players pulling down the others, or the successes attempt (and fail) to help the others.  The GM may not may it a clear-cut failure either:  It may result in taking significant time, or using up resources, or putting the players in a difficult position.  
+# Round Resolution Cheat Sheet
+## Round Structure
+1. **Initiative Order**: Characters act in order determined by Initiative result
+2. **Sequential Actions**: Each character declares one action, resolves it, then decides next action
+3. **Reaction Interruptions**: Reactions can interrupt the active character's turn when triggered
+4. **Round End**: "End of round" effects resolve, and new round begins; *same initiative order*
+## Individual Turn Sequence
+1. **Declare action** and spend AP
+2. **Resolve action** (including any triggered reactions)
+3. **Repeat** until AP exhausted or player chooses to end turn
+4. **Ongoing effects resolve** (bleeding, poison, etc.)
+5. **FP decay**: Lose 1 FP (unless Flow State was used)
+6. **Next character's turn**
 
 ---
-# Skills Introduction
-Your character is defined by a set of 19 different **[[Core Rules/4. Skills/index]]** that your character will have various levels of ability in.  Your Skill may have a value of anywhere between 1-100 (_[[#Skill Limits|limits apply]]_). In the vast majority of circumstances, you will be rolling a Skill Check to resolve a given situation, and your Skill Level (modified rarely) will represent the **Target Number** for your Skill Check.
-
-For more detailed information about Skills, please refer to the [[Core Rules/4. Skills/index]] section of the system
+# Actions/Turn Cheat Sheet
+- 5 AP per round
+	- 2 AP for attacks/spells; +1 AP escalation
+	- 1 AP per Move Speed; maximum 2 AP/turn
+	- 1-2 AP for various actions
+- 2 RP per round
+	- Dodge/Parry/Block/Reaction Attack for 1 RP each
+	- Riposte/Intercept for 2 RP each
+- 2 FP at start of combat
+	- Gain 2 FP from attacks that hit, 3 FP from crits
+	- Gain 1 FP from a successful reaction (once per round)
+	- Gain 1 FP from a killing blow on an enemy combatant
+	- Lose 1 FP per round at end of turn
 
 ---
-# Flow System
-In certain situations (primarily [[_Combat|_Combat]]), you can gain **Flow Points** to use to achieve interesting effects or perform special actions.  **Flow Points** are separate from the normal **Action/Reaction Points** used in Combat, and the rules for gaining/losing them depend on the situation.  See the individual sections for more information on how the Flow System works for that section.
+# Action Economy
+The combat system is based on an Action Economy, with various actions taking certain types of action Points _(described further below)_:
+- **[[#Actions|Action Points (AP)]]** - used for most normal actions such as attacking, casting spells, etc.
+- **[[_Combat#Reactions|Reaction Points (RP)]]** - used for acting on another creature's turn to react to something, such as dodging an incoming attack, etc.
+- **[[Flow System|Flow Points (FP)]]** - used for special types of combat abilities that vary depending on character, weapon, etc.
+You character will start each round/combat with a number of each of these, and gain/lose them by performing actions.
+## Actions
+Your primary action type are just "Actions".  These are things you do in combat that will cost **Action Points (AP)**.  
+
+Every player starts each round of combat with **5 AP**.  Any unused AP at the end of your turn is forfeited; there is no banking or saving up of AP.  Various abilities will cost AP.  It is possible to start a round with more than 5, or to gain additional AP throughout your turn/round thanks to various abilities.  There is not currently a limit to AP you can spend in a single round, provided you have the abilities to justify it.
+
+**Common Actions and their costs:**
+_(this is not an exhaustive list!)_
+- Movement: 1 AP to move full [[_Basic Mechanics#Movement|Move Speed]]
+- [[Attack & Damage|Attacking]]/[[_Magic#Casting Spells|Casting a Spell]]: 2 AP
+- Drawing/Sheathing an item: 1 AP each _(thus, 2 AP to switch weapons)_
+- Drinking a potion from your bag: 2 AP _(1 AP to draw potion, 1 AP to drink)_
+- Using a Magic Item: 1-2 AP _(specific to each item)_
+## Reactions
+Reactions are used for what they sound like; **reacting** to actions that don't happen on your turn.  Examples might include dodging an attack, or quickly attacking someone as they cast a spell/run away
+
+Every player starts combat with **Full RP** (usually 2, unless abilities grant more).  Players regain their RP **at the start of their turn** after combat is underway. It is possible to gain more starting RP through various abilities/spell effects, or to gain RP temporarily for a round via similar effects.  There is not currently a limit to RP you can spend in a single round, provided you have the abilities to justify it.
+
+**You may not perform multiple Reactions against a single attack, unless performing a [[#Riposte|Riposte]]**
+### Basic Reactions & costs
+_(there are more abilities that work as Reactions, with their own costs, but the following list is available to all characters from Level 1, regardless of build)_
+- **Dodge**: 1 RP to roll Agility to avoid a melee or ranged attack
+- **Parry**: 1 RP to roll Melee to deflect another melee attack
+- **Block:** 1 RP to roll Endurance to block a melee or ranged attack; _requires a shield_
+- **Reaction Attack**: 1 RP to roll a single unmodified attack against an enemy who performs a triggering action within range; _many abilities refer to Reaction Attacks in their effects; this is what they refer to._
+- **Riposte**: 2 RP to Parry and immediately counterattack on success
+- **Intercept**: 2 RP to move up to 3 Hexes and roll Agility to take an attack for an ally; _does not require a shield_
+### Reaction Attacks
+Reaction Attacks are a special attack that can be used to disrupt or punish enemies for taking an action that distracts them from your fight.  These can include things like moving out of a hex, spellcasting, standing up from prone, or other actions.  These actions only provoke **Reaction Attacks** if they happen within your [[#Threat Range|Threat Range]].
+
+For the sake certain abilities, **Reaction Attacks** are a special type of attack.  Many abilities may explicitly single out or _exclude_ Reaction Attacks from their effects.  Refer to the text of each ability for that.  **If not overtly excluded, you may assume that Reaction Attacks are included in the effect if it talks about "attacks"**
+#### Reaction Chains
+When a Reaction attack is performed, the defending player still has the ability to react to that attack as normal.  In this situation, if the defending player still has RP left, **you can still Dodge/Parry/Block** as normal, but you **cannot** perform any advanced Reactions; that is, you cannot Riposte or similar.  **Reaction Attacks cannot trigger new attacks in response.**
+### Dodge/Parry
+When an attack of the right type would succeed against you, you may spend 1 RP to attempt any of these abilities in order to avoid taking damage from the attack.  Each is either an **Agility** (Dodge) or **Melee** (Parry) Skill Check.  Treat this check as an [[_Basic Mechanics#Opposed Checks|Opposed Check]] against the attacker's attack Skill Check, and resolve as normal.  **If you win the Opposed Check, then the attack does no damage to you**, unless another rule would state otherwise.
+#### Critical Results
+If you **critically succeed** at your Dodge/Parry roll, as long as the enemy attack was not also a critical success, **you regain the 1 RP you spent on the Reaction**.
+
+Additionally, in the very rare case where a critical hit happens and a Dodge/Parry then **critically fails**, this is an extreme result that actually amplifies the damage taken.  Instead of just dealing 2x damage,  The critical hit will instead deal **3x damage**.
+#### Parrying Large Creatures
+When a large creature attacks a smaller one (Huge > Large > Medium > Small), the larger attacker is considered to be 1 success level higher for the sake of resolving the Opposed Check between the attack and the Parry.  **You cannot parry an enemy more than 1 size category larger than you**. Example:  A Large creature rolls a Normal Success attacking a Medium creature, who rolls a Normal Success on the Parry.  The Large creature is considered to be a Hard Success for the sake of resolving the Opposed Check, and so the Large creature's attack hits, but deals damage as a Normal Success.
+### Riposte
+This is a one-two combo of a **Parry** (Riposte) followed by a **Reaction Attack** with your melee weapon.  Resolve the action as a combination of these two, with the Reaction Attack being possible only if the Parry succeeds first.  **If an ability would affect Reaction Attacks, it also affects Riposte.**  This ability is special in that it lets you effectively do 2 reactions against a single attack.
+### Intercept
+This is a special reaction that can allow you to take a physical attack from an enemy in place of a nearby ally.  If it is a melee attack, you first must be within **3 hexes** of your ally **and** the attacker. Put simply: if you cannot move to be adjacent to BOTH of them with 3 hexes of movement, **you may not perform Intercept**.  For ranged attacks, you must be able to stand **directly between your ally and the attacking enemy** within 3 hexes.  If you can not do this using 3 hexes of movement, **you may not perform Intercept**.
+
+Once you have moved to **Intercept**, you must make an **Agility** Check against their attack as an [[_Basic Mechanics#Opposed Checks|Opposed Check]], and resolve as normal.  **If you win the Opposed Check**, you take the **full damage** of the attack from the enemy, and your ally takes no damage.  No other reactions may be used as a result of this, and normal damage rules still apply.
+
+**Additionally**, you may optionally choose to move your ally 1 hex away from your movement direction, and take their place (even if this extra hex of movement is above the 3 hexes from your Intercept)
+## Special Actions
+
+| Action         | Cost | Effect                                                          |
+| -------------- | ---- | --------------------------------------------------------------- |
+| Disarm         | 2 AP | Force an opponent to drop an item nearby                        |
+| Draw/Sheathe   | 1 AP | Draw or stow a weapon or item                                   |
+| Feint          | 1 AP | Fake an attack to gain Advantage                                |
+| Flow State     | 1 AP | Retain all FP at the end of your turn; no FP decay              |
+| Grapple        | 2 AP | Wrestle to restrain an opponent                                 |
+| Ready Action   | ---- | Define a trigger for when you'll take a specified future action |
+| Shove          | 1 AP | Knock an opponent backwards or to the floor                     |
+| Take a Step    | 1 AP | Move 1 Hex without provoking Reaction Attacks                   |
+| Total Defense  | 3 AP | Ends turn; +1 RP and Advantage on Reactions                     |
+| Tumble Through | 1 AP | Move through an enemy's hex without triggering Reactions        |
+### Disarm
+**Cost:** 2 AP  
+**Mechanic:** Make a normal attack roll at Disadvantage. No damage is dealt on success.  
+**Restrictions:**  You can only Disarm targets that are your size category or smaller
+**Effect:** Target drops one held item.
+**Success Results:**
+- **Normal Success:** Item lands in adjacent hex (target's choice)
+- **Hard Success:** Either take the item (if you have free hand) OR choose any open hex within 2 hexes
+- **Major Success:** Either take the item OR choose any open hex within 3 hexes
+- **Critical Success:** Either take the item OR choose any open hex within 4 hexes
+### Draw/Sheathe Weapon
+**Cost:** 1 AP  
+**Effect:** Draw a or stow a weapon/shield
+### Feint
+**Cost:** 1 AP
+**Mechanic:** Make an opposed Melee or Deception roll vs target's Melee or Agility (target's choice).
+**Restriction:** Usable once per round.
+**Effect:** On success, your next attack against that target gains Advantage.
+### Flow State
+**Cost:** 1 AP
+**Effect**: Retain all [[#Flow Points]] at the end of your turn, skipping the normal FP decay.  This is essentially just trading 1 AP for that 1 FP next round.
+_NOTE: This is a great choice if you have 1 AP left on your turn and nothing else to do!_
+### Grapple
+**Cost:** 2 AP  
+**Mechanic:** Opposed Athletics roll vs target.  
+**Restrictions:**  You can only Grapple targets that are your size category or smaller
+**Effect:** On success, both characters are grappled.
+**Effects While Grappled:**
+- **Attacker:** Must spend 2 AP per round to maintain the Grapple; can make reasonable actions (GM discretion) at Disadvantage
+- **Defender:** Cannot take actions except one Opposed Athletics check per round to break free
+- **Movement:** Neither can move independently
+- **Duration:** Until defender wins Athletics contest or the effect is broken or ended
+### Ready Action
+**Cost:** N/A
+**Effect:** Define a specific trigger condition and choose an action to take when that trigger occurs. When the trigger happens, you act immediately at that point in the initiative order. Your initiative position moves to that point for subsequent rounds.  If a trigger does not happen before the end of the round, then you may choose to either continue waiting or cancel the Readied Action at no cost.
+
+***Example Triggers:** "When an enemy enters my reach," "When the wizard starts casting," "When the door opens"*
+### Shove
+**Cost:** 1 AP
+**Mechanic:** Opposed Athletics roll vs target.
+**Restrictions:**  You can only Shove targets that are your size category or smaller.  Usable once per round.
+**Before Rolling:** Choose either Push Back OR Knock Prone.
+**Success Results:**
+- **Normal Success:** Achieve chosen effect (push back 1 hex OR knock prone)
+- **Hard Success+:** Can choose to do both effects (push back 1 hex AND knock prone)
+### Take a Step
+**Cost**: 1 AP
+**Restriction:** Usable once per round
+**Effect**: You move 1 Hex of movement, without triggering any Reaction Attacks or other abilities triggered by movement.  This does not count against your movement maximums for the round (you may still spend 2 further AP to move twice).
+### Total Defense
+**Cost:** 3 AP (ends turn immediately)
+**Effect:** Gain +1 RP and Advantage on all Reactions until the beginning of your next turn.
+### Tumble Through
+**Cost**: 1 AP
+**Requirement**: Adjacent to an enemy
+**Effect** You make an **Agility Check**.  If you succeed, you can move directly through the enemy's Hex to the other side of them without provoking **Reaction Attacks** from any enemy.  If you **fail** your **Agility Check**, you must stay where you are, and this attempted action will provoke **Reaction Attacks** from _only the enemy you attempted this on_, and not any other adjacent enemies.
+**Notes:**
+- You can attempt this in the MIDDLE of Move Action.  The extra hexes do not count toward your movement for that Action.
+- **Tumble Through** can NOT be used against enemies larger than Medium size, as it only provides you with a single Hex of reaction-free movement.
+## Free Actions
+Free actions are things you can perform without spending any type of action point.  These are considered quick or trivial actions not worth keeping track of.  **Please keep Free Action use in combat to a reasonable amount; Talking is a Free Action, but you still only have ~6 seconds per round**.  We leave it up to GMs and players to decide what is a reasonable limit.
+
+**Example Free Actions**:
+_(this list is not exhaustive!)
+- Making a Knowledge Skill Check
+- Speaking/yelling something
+- Dropping something to the ground
+- Operating a small object
+- Opening a door
 
 ---
-# Characters
-## By The Numbers
-### Level
-Every character has a **Level**.  Many different abilities will use this to determine an effect, such as "You deal {Level÷2} damage".  As always, round up when making this calculation.
+# Initiative
+1. Everyone rolls 1d10 + Agility [[_Basic Mechanics#Modifiers|Modifier]]
+2. Initiative proceeds from highest to lowest roll
+3. Ties are resolved [[_Basic Mechanics#Resolving Ties|as normal]]
+## Surprise Attacks
+Surprise Attacks happen when one side of a potential combat gets the drop on the other.  This can happen through a variety of ways, but is primarily done when one party is unaware of the other.
 
-If you choose to **Multiclass** your character, your **Level** for the purposes of any effects will still be your standard Level for your initial Class choice.  In situations where there may be confusion, the system will refer to these as your **Primary Class Level** and **Secondary Class Level**.  To be perfectly clear, if an ability states "{Level} or {Level÷2}", it is referring to your **Primary Class Level**.
-### Health
-Each class has a Hit Die (HD) value for their class, representing the scaling of their health.
+Surprise attacks are simply 1 round of combat resolved normally, but only the surprising party may act in that round.
 
-All characters have hitpoints (HP) that are calculated by the following:
-> 10 + ((HD Maximum + Endurance [[#Modifiers|Modifier]]) × Level)
+First, roll initiative for everyone (even the surprised party).  The _surprising_ party gets their free 2 FP at the start of combat in this Surprise Round.  **The surprised party starts the Surprise round with 0 AP, 0 RP, and 0 FP** (they get their 2 free FP at the start of the first normal round of combat)
 
-**Example:**
-A Level 5 Barbarian (d12 HD and 65 Endurance (+6 Modifier) would have
-`10 + (12 (HD maximum) + 6) x 5)` →  `10 + (18 x 5)` = **100 HP**
-#### Changes to Endurance
-Any **permanent** change to your Endurance (including leveling up, [[Mythic Perks|Mythic Perks]], or even bonuses from worn items) will cause you to re-calculate your full health total retroactively to level 1.  The easiest way to do this is to just multiply the _change_ in your Endurance [[Core Rules/4. Skills/index#Skill Modifiers|Modifier]] by your current **Level**.  So a Level 15 character that has their Endurance go from 45 to 55 would gain an additional 15 health **immediately**.
+Resolve the Surprise Round as a normal round of combat other than these rule exceptions above.  Once the surprising party has all taken a turn, then combat proceeds as normal following initiative order.  _This can mean that high-rolling surprisers will get multiple turns before the enemy gets one!_
 
-_Note: Because this applies to **worn items** too, there is potential for confusion if the player is constantly donning and doffing the item.  For the sake of simplicity, we leave it to the GM and players to determine how to handle this, so that magic items can continue to provide interesting benefits_
-#### A note on rolling HP
-Note that at no point do characters **roll** their Hit Dice to determine their HP.  This is because there can be far too much variance in health totals due to that, and thus make the game feel unfair.  Groups are allowed to choose to roll their Hit Dice if they prefer to have that variance, but please note that **the system is balanced around an expectation of maximum rolls on Hit Dice**, and so beware when making this choice that the system may feel unbalanced as a result.
-### Movement
+---
+# Movement 
+## Movement In Combat
 **The battle map for combat in the system operates on a ~5 ft (~2 m) hex grid.**
 
-All characters have a default **Move Speed** of 6 hexes per round.   Outside of combat we let the math stay simple and say 4 mph (6.5 kph) walking, or 8 mph (13 kph) running.  If the players want to achieve greater than these numbers **outside of combat**, the GM may ask for an Athletics Check with appropriate difficulty.
-### Senses
-Unless specified otherwise by Ancestry, characters have standard human senses and sense abilities.
-## Character Features
-### Ancestry
-Every character has an [[Core Rules/2. Character Creation/index#Ancestries|Ancestry]] (commonly called a Race in other systems) which represents your bloodline/lineage.  These Ancestries will grant you certain benefits including a Skill Bonus and an Ancestral Trait.  The idea behind these is to simply provide some small flavor and abilities, rather than becoming the "correct" choice for any given class like other systems might be.  See the [[Core Rules/2. Character Creation/index#Ancestries|Ancestries]] for more details
-### Background
-A [[Core Rules/2. Character Creation/index#Backgrounds|Background]] represents a baseline for what your character used to do before beginning their adventures.  Each Background grants an additional Skill Bonus based on the choice, as well as a set of useful and interesting Roleplaying Bonuses unique to each Background to help give players a leg-up at the beginning of a campaign.  Backgrounds provide very little _mechanical_ benefit;  They are intended to either be a capstone or a jumping-off point for you to define your character's backstory!  See the [[Core Rules/2. Character Creation/index#Backgrounds|Backgrounds]] for more details.
-### Class
-Common across most RPG systems, your character's [[_Character Classes|Class]] is the core of their identity, representing the lion's share of their abilities, and determines how they power-up as they level throughout the campaign.  See the [[_Character Classes|Classes]] for more details.
-### Skills
-See [[#Skills Introduction]] for details on Skills.
-### Perks
-[[_Perks Overview|_Perks Overview]] are what other systems may call Feats, or Talents. They represent larger new "abilities" that generally everyone can take (sometimes with pre-requisites). Perks are gained as you level up, and allow you to further customize your character with new abilities to synergize with your Class Abilities. See [[_Perks Overview|_Perks Overview]] for more details.
+Unless stated otherwise, all player characters start with **6 hexes** of movement per [[#Actions|Action Point]] spent.  The most a player can move per round is 2 AP worth of movement (~12 hexes), plus an additional Hex of movement from **Take a Step** for a total of 13 hexes.
+
+As a round of combat is normally about 6 seconds, this translates to roughly 7 mph (3 m/s) which is running speed for an average human.
+
+You can move through allies' hexes for free with no penalties, but you cannot move through an enemy hex unless you attempt to [[#Tumble Through]].  You may not end your movement in the same square as any other enemy or ally.
+### Taking a Step
+A Special Action that can be taken **once per round**, "**Taking a Step**" is the ability to move 1 hex in any direction without provoking Reaction Attacks from adjacent enemies who [[#Threat Range|threaten]] you.  This does not count towards your Move Speed for the sake of Move Actions.
+## Movement Outside Combat
+Outside of combat, movement obviously does not cost anything like AP.  For the sake of speeds, assume a normal walking speed is 2-4 mph (~1-2 m/s), jogging speed is 4-6 mph (~2-3 m/s), and running speed is 6-10 mph (3-5 m/s).  If the players would like to attempt to exceed 10mph running speed, they should attempt an Athletics Check at the discretion of the GM based on the situation/duration.
 
 ---
-# Rest and Downtime 🚧
-## Rest
-When you take approximately 8h to do no strenuous activity (combat, extreme actions, taking damage, etc), you can take a **Long Rest**, and gain bonuses as stated in various abilities/effects/mechanics such as [[#Natural Healing]].
-## Downtime 🚧
+# Reach
+"Reach" is how far away you can reasonably perform a melee attack against an opponent, and is denoted with "Reach #", with the # representing your Reach value.
+
+Reach is generally defined by your Size, which is Medium of Small for all player characters by default. Medium and Small creatures have **Reach 1**, which means they [[#threat Range|Threaten]] enemies within 1 hex, which is all _adjacent_ hexes to the creature. For each size category above Medium, increase **Reach** by +1.  So a Large enemy would have **Reach 2**, and they [[#Threat Range|threaten]] enemies within 2 hexes, so all adjacent hexes + all hexes adjacent to those (total of 18 hexes of threat).  Huge Enemies have **Reach 3**, etc.
+
+Reach can also be modified by weapon type;  for example, 2h Polearm weapons often have a Reach 2, which means that they threaten the 18 surrounding hexes around the wielder.  **Reach values do not stack; you take the highest Reach value you have as your total Reach.**
+## Threat Range
+**Threat**, as stated before, is defined by your **Reach**; it is any square you can reasonably reach with a melee attack.  Many different effects will refer to "threat", "threatening" or "threatened", and this is what they refer to.
+
+If an opponent takes certain "triggering" actions within your **Threat Range**, or moves OUT of any hex you **threaten**, then you may use 1 RP to perform a [[#Reaction Attacks|Reaction Attack]] against that enemy provided you have the RP to do so.
+
+_Note: if an enemy moves between hexes you threaten, they have technically moved "out" of the hex they occupied when they started, and thus trigger a Reaction Attack, **unless they [[#Taking a Step|Took a Step]]**.  The wording of "moves OUT" above was chosen specifically to avoid ambiguity._
+## Range Penalties
+When firing a ranged weapon, your weapon will have a Range value (such as Range 6 for the Shortbow).  This represents the furthest you can fire the weapon to attack with no penalties.
+
+Ranged attacks from outside your weapon's range incur a `-10` penalty to your **Ranged Skill Check** per "range increment"; so a Shortbow (Range 6) gets a `-10` for 7-12 hexes, `-20` for 13-18 hexes, etc.
 
 ---
-# Dying
-When you reach 0 HP, you are considered **Dying**, and go unconscious with 0 HP remaining (there is no negative HP) All ongoing effects on your character end immediately (positive **and negative**, such as Persistent Damage!)
-
-You must begin doing [[#Death Saves]] every round of combat starting on your next turn (or current turn, if you drop to 0 on your own turn).
-
-If an ally stabilizes you at any point in this process, you become unconscious at 0 HP and are free from death saves. If you take any damage while stabilized, you must start Death Saves over again.  Successful Death Saves will not roll over into a subsequent "Dying" state.
-## Death Saves
-While Dying, you have 4 death save rolls (one per round on your turn) that you can attempt before you permanently die.
-
-The Death Save roll is an Endurance Skill Check.  There are very few, if any, effects or abilities which can modify this Target Number.
-
-In order to fend off permanent death, you need **3 successes to stabilize without assistance**. A Critical Success counts as 2 successes for the sake of this tally, but you still only get 1 success even if your roll is a Major Success.  Critical Failures have no additional effect; they are treated as normal failures.
-
-**If you fail to achieve 3 successes within these 4 turns, your character is permanently dead.**
-
-**Important Note:** If your first 3 rolls all fail, you _technically_ have no possible chance to succeed at naturally stabilizing, even if you critically succeed.  However, **you still do not permanently die until the end of your 4th turn Dying**, so that allies have the full 4 rounds to reach you to help Stabilize you before this point.
-### Damage While Dying
-If you take any damage while dying, your death save successes are reduced by 1, but you have an extra round to perform Death Saves; essentially, this simply removes one of your previous successes.  If you have not attempted (or succeeded) at a Death Save yet, then nothing happens.
-
----
-# Healing
-## Recovery Roll
-In certain situations or as a result from certain spell or ability effects, you may be asked to make a **Recovery Roll**.  This represents a natural healing ability of your character, which can be triggered by these effects.
-
-When you make a Recovery Roll, you can choose each time between a "Safe" Recovery Roll to regain a reasonable static amount of HP, or you can choose a "Luck" Recovery Roll to _actually roll_ for your Recovery, and potentially get significantly more (or less!) HP as a result.
-#### Safe Option
-You regain 10% of your max HP (round up)
-#### Luck Option
-You may roll a number of your hit dice equal to your Level÷2 (round up), and regain that many hit points
-- *MATH NOTE: Assuming absolute average rolls/stats, a player usually will recover slightly more HP than 10% from this, but potentially much more (or less)!*
-## Natural Healing
-Every time a character takes a [[#Rest|Long Rest]], they may attempt 1 Recovery Roll
-## Applied Healing
-**Once per day**, a player may have non-magical healing applied to them (usually through the Medicine Skill), which allows them to take one extra Recovery Roll for that day.  **Note: Better rolls from the healer rolling the Medicine skill may increase the Recovery amount!  See the [[Core Rules/4. Skills/index#Medicine|Medicine Skill]] for more details.**
-
-This means that, outside of magical healing, **a player may not roll more than 2 Recovery Rolls per day.**
-# Tiered Systems
-Ettes Eternal, in many of its mechanics and systems, uses the concept of "Tiers" of play.  This represents how the game is progressing.  In basically any situation you will have 5 Tiers:
-1. Apprentice
-2. Journeyman
-3. Expert
-4. Master
-5. Legendary
-The abilities, effects, and other mechanics for each Tiered System in Ettes Eternal scales as you increase in Tiers, with Legendary Tier producing effects worthy of its namesake.
-
-This convention was chosen to easily track progress and match up when new systems/tiers unlock across all of Ettes Eternal.  You can see when these Tiers are achieved in the [[Advancement#Class Level Progression|Class Level Progression]] table.  **Without exception**, each new Tier of effects for a subsystem is unlocked at the same time for all subsystems.  You will get access to Expert Tier Perks at the same time as Expert Tier Traps, and Expert Tier Spells, etc.
-
----
-# Getting Started
-Now that you have a basic idea of how the system works, you can either check out the various linked pages (we recommend starting in [[Core Rules/4. Skills/index]]), or you can head right over to [[Core Rules/2. Character Creation/index]] and start making your first adventurer!
+# Combat Mechanics
+## Gang-up
+When 2 or more allies are threatening the same enemy, they are ganging up and gain a +10 Melee bonus to attacking that enemy.
+## Firing into Melee
+You're all competent adventurers. Firing into melee does not incur penalties, but critical fumbles might get interesting...
+## Two-Weapon Fighting
+In general, attacking with your non-dominant hand will yield a -10 to your Melee skill on attack.  **Finesse and Brawl weapons do not have this penalty**.  There is a [[Combat Perks#Dual Wield|Perk]] to remove this detriment entirely.
+#### A Note on TWF
+_Yes, you're correct in realizing there's absolutely no base mechanical benefit to dual-wielding the same weapon category (dual daggers).  That's because **it's BORING to do that**.  Get **creative** if you want to dual-wield!  Wielding 2 weapon categories means more options for Flow Actions!  Sword/Fist; Dagger/Sap (Mace); Axe/Hand Crossbow! Get CRAZY!_
