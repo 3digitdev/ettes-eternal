@@ -1,9 +1,9 @@
 # Stats
 - **Hit Dice:** d8
-- **Weapon Proficiencies**: Finesse OR Bow (pick one)
+- **Weapon Proficiencies**: Finesse OR Bow (pick one), plus 1 of your choice
 - **Armor Proficiencies:** Light
 # Class Equipment
-_Pick one at character creation_
+_Pick two at character creation_
 - **Lockpick set with seeking enchantment**: advantage on check for a lock/trap, 1/day
 - **Boots of silent steps**: advantage on stealth when moving at half speed
 - **Glass Cutter Set**: cut through standard windows silently, creating openings large enough to climb through
@@ -82,5 +82,5 @@ When you successfully hit with a melee attack, you may spend 1 AP to inflict one
 You can attempt to confuse or misdirect someone, forcing them to lose 1 Resolve without requiring a roll.
 ### Skill Mastery
 **Frequency:** Once per day  
-**Restriction:** Can only be used on skills you have at 30 or higher  
+**Restriction:** Can only be used on skills you have at 50 or higher  
 You can automatically achieve a Normal Success on any one skill check (declare before rolling).

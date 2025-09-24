@@ -158,9 +158,9 @@
 **Target:** One surface or object  
 **Duration:** 24 hours
 
-**Effect:** Place a magical rune that triggers when conditions are met. Choose any Level 2 or lower spell you know to store in the rune.
+**Effect:** Place a magical rune that triggers when conditions are met. Choose any Journeyman or lower spell you know to store in the rune.
 
-**Critical Effect:** Can store a Level 3 spell instead, and duration becomes 48 hours.
+**Critical Effect:** Can store an Expert spell instead, and duration becomes 48 hours.
 
 |Class Tier|Trigger Options|Additional Effect|
 |---|---|---|

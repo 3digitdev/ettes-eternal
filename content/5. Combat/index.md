@@ -2,7 +2,6 @@
 title: 5. Combat
 description: The basic rules of combat
 ---
-
 # Round Resolution Cheat Sheet
 ## Round Structure
 1. **Initiative Order**: Characters act in order determined by Initiative result
@@ -20,7 +19,7 @@ description: The basic rules of combat
 ---
 # Actions/Turn Cheat Sheet
 - 5 AP per round
-	- 2 AP for attacks/spells; +1 AP escalation
+	- 2 AP for attacks/spells
 	- 1 AP per Move Speed; maximum 2 AP/turn
 	- 1-2 AP for various actions
 - 2 RP per round
@@ -48,6 +47,7 @@ Every player starts each round of combat with **5 AP**.  Any unused AP at the en
 _(this is not an exhaustive list!)_
 - Movement: 1 AP to move full [[1. Basics/index#Movement|Move Speed]]
 - [[Attack & Damage|Attacking]]/[[6. Magic/index#Casting Spells|Casting a Spell]]: 2 AP
+- **Using Class Abilities**  2 AP _(unless the class ability specifies otherwise)_
 - Drawing/Sheathing an item: 1 AP each _(thus, 2 AP to switch weapons)_
 - Drinking a potion from your bag: 2 AP _(1 AP to draw potion, 1 AP to drink)_
 - Using a Magic Item: 1-2 AP _(specific to each item)_
@@ -59,20 +59,22 @@ Every player starts combat with **Full RP** (usually 2, unless abilities grant m
 **You may not perform multiple Reactions against a single attack, unless performing a [[#Riposte|Riposte]]**
 ### Basic Reactions & costs
 _(there are more abilities that work as Reactions, with their own costs, but the following list is available to all characters from Level 1, regardless of build)_
-- **Dodge**: 1 RP to roll Agility to avoid a melee or ranged attack
+- **Dodge**: 1 RP to roll higher of Agility/Athletics to avoid a melee or ranged attack
 - **Parry**: 1 RP to roll Melee to deflect another melee attack
 - **Block:** 1 RP to roll Endurance to block a melee or ranged attack; _requires a shield_
 - **Reaction Attack**: 1 RP to roll a single unmodified attack against an enemy who performs a triggering action within range; _many abilities refer to Reaction Attacks in their effects; this is what they refer to._
 - **Riposte**: 2 RP to Parry and immediately counterattack on success
 - **Intercept**: 2 RP to move up to 3 Hexes and roll Agility to take an attack for an ally; _does not require a shield_
 ### Reaction Attacks
-Reaction Attacks are a special attack that can be used to disrupt or punish enemies for taking an action that distracts them from your fight.  These can include things like moving out of a hex, spellcasting, standing up from prone, or other actions.  These actions only provoke **Reaction Attacks** if they happen within your [[#Threat Range|Threat Range]].
+Reaction Attacks are a special attack that can be used to disrupt or punish enemies for taking an action that distracts them from your fight.  These can include things like moving out of a hex, casting a spell, standing up from prone, or other actions.  These actions only provoke **Reaction Attacks** if they happen within your [[#Threat Range|Threat Range]].
+
+Reaction Attacks taken against a spellcaster do **not** disrupt the spell being cast, unless a special ability states that it would.
 
 For the sake certain abilities, **Reaction Attacks** are a special type of attack.  Many abilities may explicitly single out or _exclude_ Reaction Attacks from their effects.  Refer to the text of each ability for that.  **If not overtly excluded, you may assume that Reaction Attacks are included in the effect if it talks about "attacks"**
 #### Reaction Chains
 When a Reaction attack is performed, the defending player still has the ability to react to that attack as normal.  In this situation, if the defending player still has RP left, **you can still Dodge/Parry/Block** as normal, but you **cannot** perform any advanced Reactions; that is, you cannot Riposte or similar.  **Reaction Attacks cannot trigger new attacks in response.**
 ### Dodge/Parry
-When an attack of the right type would succeed against you, you may spend 1 RP to attempt any of these abilities in order to avoid taking damage from the attack.  Each is either an **Agility** (Dodge) or **Melee** (Parry) Skill Check.  Treat this check as an [[1. Basics/index#Opposed Checks|Opposed Check]] against the attacker's attack Skill Check, and resolve as normal.  **If you win the Opposed Check, then the attack does no damage to you**, unless another rule would state otherwise.
+When an attack of the right type would succeed against you, you may spend 1 RP to attempt any of these abilities in order to avoid taking damage from the attack.  Each is either an **Agility/Athletics** (Dodge) or **Melee** (Parry) Skill Check.  Treat this check as an [[1. Basics/index#Opposed Checks|Opposed Check]] against the attacker's attack Skill Check, and resolve as normal.  **If you win the Opposed Check, then the attack does no damage to you**, unless another rule would state otherwise.
 #### Critical Results
 If you **critically succeed** at your Dodge/Parry roll, as long as the enemy attack was not also a critical success, **you regain the 1 RP you spent on the Reaction**.
 
@@ -83,6 +85,10 @@ When a large creature attacks a smaller one (Huge > Large > Medium > Small), the
 This is a one-two combo of a **Parry** (Riposte) followed by a **Reaction Attack** with your melee weapon.  Resolve the action as a combination of these two, with the Reaction Attack being possible only if the Parry succeeds first.  **If an ability would affect Reaction Attacks, it also affects Riposte.**  This ability is special in that it lets you effectively do 2 reactions against a single attack.
 ### Intercept
 This is a special reaction that can allow you to take a physical attack from an enemy in place of a nearby ally.  If it is a melee attack, you first must be within **3 hexes** of your ally **and** the attacker. Put simply: if you cannot move to be adjacent to BOTH of them with 3 hexes of movement, **you may not perform Intercept**.  For ranged attacks, you must be able to stand **directly between your ally and the attacking enemy** within 3 hexes.  If you can not do this using 3 hexes of movement, **you may not perform Intercept**.
+
+You are able to **Intercept** a Spell, but only if
+1. It is a single-target spell, and
+2. You can follow the same rules as above for melee/ranged attacks
 
 Once you have moved to **Intercept**, you must make an **Agility** Check against their attack as an [[1. Basics/index#Opposed Checks|Opposed Check]], and resolve as normal.  **If you win the Opposed Check**, you take the **full damage** of the attack from the enemy, and your ally takes no damage.  No other reactions may be used as a result of this, and normal damage rules still apply.
 
@@ -118,7 +124,7 @@ Once you have moved to **Intercept**, you must make an **Agility** Check against
 **Cost:** 1 AP
 **Mechanic:** Make an opposed Melee or Deception roll vs target's Melee or Agility (target's choice).
 **Restriction:** Usable once per round.
-**Effect:** On success, your next attack against that target gains Advantage.
+**Effect:** On success, your next physical attack against that target gains Advantage.
 ### Flow State
 **Cost:** 1 AP
 **Effect**: Retain all [[#Flow Points]] at the end of your turn, skipping the normal FP decay.  This is essentially just trading 1 AP for that 1 FP next round.
@@ -135,7 +141,7 @@ _NOTE: This is a great choice if you have 1 AP left on your turn and nothing els
 - **Duration:** Until defender wins Athletics contest or the effect is broken or ended
 ### Ready Action
 **Cost:** N/A
-**Effect:** Define a specific trigger condition and choose an action to take when that trigger occurs. When the trigger happens, you act immediately at that point in the initiative order. Your initiative position moves to that point for subsequent rounds.  If a trigger does not happen before the end of the round, then you may choose to either continue waiting or cancel the Readied Action at no cost.
+**Effect:** Define a specific trigger condition and choose an action to take when that trigger occurs. When the trigger happens, you act immediately at that point in the initiative order, and perform the action you specified. Your initiative position moves to that point for subsequent rounds.  If a trigger does not happen before the end of the round, then you may choose to either continue waiting or cancel the Readied Action at no cost.
 
 ***Example Triggers:** "When an enemy enters my reach," "When the wizard starts casting," "When the door opens"*
 ### Shove

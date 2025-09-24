@@ -13,10 +13,11 @@
 | Acid                  | Agility           | Take damage at end of turn                            |
 | **Physical Effects**  |                   |                                                       |
 | Asleep                | --                | As Paralyzed, ally can wake (2 AP)                    |
-| Blind                 | --                | -50 to vision-based checks                            |
+| Blind/Deafened        | --                | -50 to vision/hearing-based checks                    |
 | Invisible             | --                | Major Perception Success to locate; can't be targeted |
 | Paralyzed             | --                | Lose all points, fall prone, helpless                 |
 | Prone                 | --                | Disadvantage attacks/agility; standing provokes       |
+| Regeneration          | --                | Gain HP at the start of each turn                     |
 | Restrained            | Endurance/Agility | As Stunned, 1 escape attempt/round                    |
 | Slowed                | --                | Half movement; no Step Action                         |
 | Stunned               | --                | Lose FP/RP, can only move 1 hex                       |
@@ -56,9 +57,9 @@ Each time someone is affected (fails to resists, etc.) a **Physical** or **Menta
 ## Asleep
 **Duration:** Until the cause states it ends  
 **Effect:** Similar to Paralyzed. An ally can spend 2 AP on their turn to rouse you from Sleep with no skill check required.
-## Blind
+## Blind/Deafened
 **Duration:** Until the cause states it ends  
-**Effect:** Cannot attempt vision-based Perception checks. All vision-based skill checks (attacking, spellcasting, etc.) suffer -50 penalty to hit targets or achieve intent.
+**Effect:** Cannot attempt vision/hearing-based Perception checks. All vision/hearing-based skill checks _within reason_ suffer -50 penalty to hit targets or achieve intent.
 ## Invisible
 **Duration:** Until removed  
 **Effect:** Enemies must make a Hard Success Perception Check to discover your location. You cannot be targeted by attacks or spells (but AoE can still hit) unless they succeed in detecting you. Taking hostile actions or casting spells ends Invisibility **after** the action resolves; attacks/spells while Invisible are treated as Surprise Round actions.  If the enemy has succeeded in detecting you, they may take a Reaction against your attack, but with Disadvantage.  In an Opposed Check between your Thievery and a Perception Check to detect you, increase your success level on the check by one step (this cannot turn a Failure into a Success).
@@ -69,6 +70,9 @@ Each time someone is affected (fails to resists, etc.) a **Physical** or **Menta
 **Duration:** Until removed  
 **Effect:** Disadvantage on Attack and Agility rolls (but not Spellcasting). Melee attacks gain Advantage against you, Ranged attacks gain Disadvantage against you. Spells targeting you are unaffected.  
 **Removal:** Stand up for 1 AP (provokes reactions) OR crawl 1 hex for 1 AP (does not provoke reactions).
+## Regeneration
+**Duration:** Until the cause states it ends
+**Effect:** At the beginning of each of your turns, regain HP equal to the rating of the Regeneration (so Regeneration 5 would gain 5 HP at the start of each turn)
 ## Restrained
 **Duration:** Until the cause states it ends  
 **Effect:** As Stunned, but once per round you may make an appropriate skill check (usually Endurance or Agility) to slip/break free.

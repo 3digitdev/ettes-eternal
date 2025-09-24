@@ -8,7 +8,6 @@ As you adventure you gain experience and can advance your character in one of 3 
 ## Session Experience
 At the end of every _[[11. GM Guidelines/index#Session Productivity|productive]] gaming session_, all players gain **5 Experience Points (XP)**
 ## XP Spending Restrictions
-- You may not increase any skill more than once per session
 - Each session, you must spend all 5 XP
 Note that these restrictions **will** result in situations where you have additional XP left over that you cannot put towards "favored" or class skills.  This is meant to encourage you to increase your various other skills and not overspecialize.  We realize this may feel restrictive, but this is designed to be balanced and encourage more broadly-defined characters while still allowing you to reach extremes in your primary skills by the end of a campaign.
 ## Skill Advancement Costs
@@ -31,28 +30,28 @@ Although there are many ways to determine how/when players should level up, Ette
 *See the [[11. GM Guidelines/index#System Scaling|GM Guidelines]] for information on deviating from this timeline!*
 _If you are beginning your campaign at a higher level, or are making a new character at a specific level, use the "Total XP Gained" column to know how much XP you have to spend for a character at that level_
 
-| Level | XP to next level | Total XP Gained |     Campaign Milestone      |
-| ----- | :--------------: | :-------------: | :-------------------------: |
-| 1     |        5         |        0        |                             |
-| 2     |        5         |        5        |                             |
-| 3     |        10        |       10        |                             |
-| 4     |        10        |       20        |                             |
-| 5     |        10        |       30        | Journeyman Tier; Class Path |
-| 6     |        10        |       40        |                             |
-| 7     |        15        |       50        |                             |
-| 8     |        15        |       65        |                             |
-| 9     |        15        |       80        |                             |
-| 10    |        15        |       95        |         Expert Tier         |
-| 11    |        20        |       110       |                             |
-| 12    |        20        |       130       |                             |
-| 13    |        20        |       150       |                             |
-| 14    |        20        |       170       |         Master Tier         |
-| 15    |        25        |       190       |                             |
-| 16    |        25        |       215       |                             |
-| 17    |        25        |       240       |       Legendary Tier        |
-| 18    |        25        |       265       |                             |
-| 19    |        25        |       290       |                             |
-| 20    |        -         |       315       |                             |
+| Level | XP to next level | Total XP Gained | Sessions to next lvl |     Campaign Milestone      |
+| ----- | :--------------: | :-------------: | :------------------: | :-------------------------: |
+| 1     |        5         |        0        |          1           |                             |
+| 2     |        5         |        5        |          1           |                             |
+| 3     |        10        |       10        |          2           |                             |
+| 4     |        10        |       20        |          2           |                             |
+| 5     |        10        |       30        |          2           | Journeyman Tier; Class Path |
+| 6     |        10        |       40        |          2           |                             |
+| 7     |        15        |       50        |          3           |                             |
+| 8     |        15        |       65        |          3           |                             |
+| 9     |        15        |       80        |          3           |                             |
+| 10    |        15        |       95        |          3           |         Expert Tier         |
+| 11    |        20        |       110       |          4           |                             |
+| 12    |        20        |       130       |          4           |                             |
+| 13    |        20        |       150       |          4           |                             |
+| 14    |        20        |       170       |          4           |         Master Tier         |
+| 15    |        25        |       190       |          5           |                             |
+| 16    |        25        |       215       |          5           |                             |
+| 17    |        25        |       240       |          5           |       Legendary Tier        |
+| 18    |        25        |       265       |          5           |                             |
+| 19    |        25        |       290       |          5           |                             |
+| 20    |        -         |       315       |                      |                             |
 
 _**Total Campaign Length:** ~64 sessions + however many spent at Level 20; coming out to ~1 year, 3 months assuming consistent weekly sessions._
 

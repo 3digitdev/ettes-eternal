@@ -180,9 +180,9 @@
 **Target:** One willing ally  
 **Duration:** Instant
 
-**Effect:** Magically propel an ally up to their move speed toward an enemy. Their next attack gains Advantage and +1 damage die.
+**Effect:** Magically propel an ally up to their move speed toward an enemy. Their next melee attack gains Advantage and +1 damage die.
 
-**Critical Effect:** Ally can attack immediately as part of the movement without spending AP.
+**Critical Effect:** Ally can melee attack immediately as part of the movement without spending AP.
 
 |Class Tier|Movement Distance|Additional Effect|
 |---|---|---|

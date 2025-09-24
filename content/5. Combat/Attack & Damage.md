@@ -24,7 +24,7 @@ Whenever something states that you gain an "automatic" success of a specified le
 What you roll for damage is highly variable. However, there are 3 different sources that can modify your damage roll for any given attack or spell.
 ## Bonus Damage Sources
 ### Bonus Damage Dice
-You gain bonus damage dice on all weapon and spell attack damage as a result of your [[3. Classes/index#Class Tier System|Class Tier]]]. The progression, repeated here:
+You gain bonus damage dice on all weapon damage as a result of your [[3. Classes/index#Class Tier System|Class Tier]]]. The progression, repeated here:
 
 | Class Tier | Total Dice |
 | ---------- | ---------- |

@@ -62,15 +62,15 @@
 **Duration:** Instant  
 **Limitation:** Once per creature per day
 
-**Effect:** Channel natural healing energy to mend wounds using the restorative power of nature itself. This deep healing cannot be repeated on the same person until they have rested.
+**Effect:** Channel natural healing energy to mend wounds using the restorative power of nature itself. This deep healing cannot be repeated on the same person until they have rested after the spell successfully affects them _(meaning that failing the Spellcasting roll does **not** trigger this effect)_.
 
-|Class Tier|Additional Effect|
-|---|---|
-|Apprentice|2d4 + Spellcasting modifier healing|
-|Journeyman|3d4 + Spellcasting modifier healing|
-|Expert|3d4 + Spellcasting modifier healing, remove 1 Persistent Bleed|
-|Master|4d4 + Spellcasting modifier healing, remove 1 Persistent effect|
-|Legendary|5d4 + Spellcasting modifier healing, remove any 1 Persistent effect|
+| Class Tier | Additional Effect                                                   |
+| ---------- | ------------------------------------------------------------------- |
+| Apprentice | 2d4 + Spellcasting modifier healing                                 |
+| Journeyman | 3d4 + Spellcasting modifier healing                                 |
+| Expert     | 3d4 + Spellcasting modifier healing, remove 1 Persistent Bleed      |
+| Master     | 4d4 + Spellcasting modifier healing, remove 1 Persistent effect     |
+| Legendary  | 5d4 + Spellcasting modifier healing, remove any 1 Persistent effect |
 
 ---
 ## Nature's Wrath
@@ -142,13 +142,13 @@
 
 **Effect:** Create a lash of thorny vines that strikes your target and can pull them closer to you. The vines grow more powerful and reach further as your druidic abilities strengthen.
 
-|Class Tier|Additional Effect|
-|---|---|
-|Apprentice|1d6 + Spellcasting modifier damage, pull 1 hex closer|
-|Journeyman|2d6 + Spellcasting modifier damage, pull 1 hex closer|
-|Expert|2d6 + Spellcasting modifier damage, pull 2 hexes closer|
-|Master|3d6 + Spellcasting modifier damage, pull 2 hexes closer|
-|Legendary|4d6 + Spellcasting modifier damage, pull 3 hexes closer|
+| Class Tier | Additional Effect                                       |
+| ---------- | ------------------------------------------------------- |
+| Apprentice | 1d4 + Spellcasting modifier damage, pull 1 hex closer   |
+| Journeyman | 2d4 + Spellcasting modifier damage, pull 1 hex closer   |
+| Expert     | 2d4 + Spellcasting modifier damage, pull 2 hexes closer |
+| Master     | 3d4 + Spellcasting modifier damage, pull 2 hexes closer |
+| Legendary  | 4d4 + Spellcasting modifier damage, pull 3 hexes closer |
 
 ---
 ## Tremor Sense

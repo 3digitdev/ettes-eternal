@@ -1,14 +1,16 @@
 # Stats
 - **Hit Dice:** d6
-- **Weapon Proficiencies**: None
+- **Weapon Proficiencies**: 1 of your choice
 - **Armor Proficiencies:** None
 # Class Equipment
-_Pick one at character creation_
+_Pick two at character creation_
 - **Surge gloves**: reroll damage dice spell, take higher result 1/day
 - **Apprentice Wand** 2 AP: cast chosen Apprentice for 0 Mana, 3/day. Must be wielding the wand.
 - **Elemental charm**: change damage type of spell, 1/day
 - **Spell echo ring**: repeat last Novice spell cast as free action, 1/day
 - **Silent casting tattoo**: cast one specific Novice spell you know, with Silent [[6. Magic/index#Metamagic|Metamagic]]. Choose the spell at character creation from the Novice Spells you know at level 1.
+# Spellcasting
+As a spellcasting class, Sorcerers gain Mana based on their level and Spellcasting Modifier.  See [[6. Magic/index#Learning Spells|Learning Spells]], and the [[6. Magic/index#Spellcasting Advancement Table|Spellcasting Advancement Table]] for more information.
 # Core Features
 
 | Level | Feature             | Description                                |
@@ -19,9 +21,9 @@ _Pick one at character creation_
 | 4     | Magical Conduit     | Channel spells through objects and weapons |
 | 5     | Path Selection      | Choose path; Journeyman Class Tier         |
 ### Instinctive Magic
-You may choose 1 cantrip you know that can be permanently cast for 1 AP less than normal (standard cost scaling for multiple spells still applies). Each time you learn a new spell level (Levels 3, 5, 7, 9, 12, and 15) you may pick one additional spell at least 1 level below that new spell level to add to your list of Instinctive Spells. You **cannot** change these, nor can you select the same spell multiple times.
+You may choose 1 Novice spell you know that can be cast once per combat for 1 AP less than normal. Each time you learn a new spell level (Levels 1, 5, 10, 14, and 17) you may pick one additional spell at least 1 level below that new spell level to add to your list of Instinctive Spells. You **cannot** change these, nor can you select the same spell multiple times.
 
-_Example: at Level 9, when you learn Level 5 Spells, you may pick any one spell Level 4 or lower to add to your Instinctive spells._
+_Example: at Level 10, when you learn Expert Spells, you may pick any one Journeyman spell or lower to add to your Instinctive spells._
 ### Mana Leech
 **Frequency:** Once per day, Choose one effect:
 - **Self-Sacrifice:** Sacrifice any amount of HP to gain 1 mana for every 3 HP sacrificed
@@ -65,9 +67,15 @@ At Level 5, Sorcerers must choose their specialization path:
 | 6     | Spell Threads    | Enhanced spell sustaining                         |
 | 7     | Flawless Casting | Cast spells without provoking Reaction Attacks |
 ### Spell Shaping
-When casting any spell, you may make one of the following modifications without additional cost:
+When casting any spell, you may make **one** of the following modifications to a spell without additional cost:
 - Change the damage type to any other damage type (including Bludgeoning, Piercing, or Slashing)
-- Change the spell's shape (line/burst/cone/nova) to any other shape
+- Change the spell's shape (Line/Blast/Cone) to any other shape
+	- Converting between shapes requires modification for balance:
+		- Line → Cone: divide by 2 (round up)
+		- Line → Blast: divide by 3 (round up)
+		- Cone → Blast: divide by 2 (round up)
+	- So a Line 8 spell would become either a Cone 4 or a Blast 3spell, and a Cone 4 spell would become a Blast 2 spell
+	- You can reverse this math to go the opposite direction too; e.g. a Blast 3 spell would become a Line 9 spell
 - Delay the spell's effect by up to 3 rounds (spell activates automatically at chosen time)
 - Spread a damage spell's effect across multiple rounds (divide damage evenly over 2-3 rounds)
 ### Spell Threads
@@ -86,14 +94,16 @@ You can cast a spell while threatened without provoking Reaction Attacks.
 ### Wild Casting
 When casting any spell, you may choose to "lose control" - the spell targets a random enemy within the normal range of the spell (you don't choose which enemy), but the spell gains either an additional round of duration OR 1 extra damage die (your choice when casting).
 ### Chaotic Surge
-Trigger on natural 05 or less on spellcasting rolls, OR voluntarily trigger 1/day. Roll 1d4:
+Trigger on natural 05 or less on spellcasting rolls.  You may also voluntarily trigger this ability once per day. 
 
-|d4|Effect|
-|---|---|
-|1|Increase damage dice by 1 step (d4→d6→d8→d10→d12→d20)|
-|2|No mana cost|
-|3|Spell echoes next round (targets different target, effects/damage halved)|
-|4|Spell affects additional random target|
+Roll 1d4:
+
+| d4  | Effect                                                                    |
+| --- | ------------------------------------------------------------------------- |
+| 1   | Increase damage dice by 1 step (d4→d6→d8→d10→d12→d20)                     |
+| 2   | No mana cost                                                              |
+| 3   | Spell echoes next round (targets different target, effects/damage halved) |
+| 4   | Spell affects additional random target                                    |
 ### Wild Success
 **Frequency:** Once per day  
 When you critically fail any roll, you may choose to turn it into a "wild success" - you achieve a Normal Success at your original goal, but with massive unintended consequences that affect the entire scene (GM's discretion).

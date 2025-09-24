@@ -52,7 +52,7 @@ Plant Companions are the flora-based equivalent of Animal Companions, available 
 **Skills**: Melee/Endurance/Athletics/Willpower/Perception (Primary 40), Agility/Insight/Thievery (Secondary 30)  
 **Special Abilities**:
 - **Hardened Bark**: Can spend 1 AP to gain +2 DR until start of next turn, but movement is halved while active (cannot be used if already active)
-- **Branch Reach**: Can attack enemies 2 hexes away at Disadvantage
+- **Branch Reach**: Can melee attack enemies 2 hexes away at Disadvantage
 - **Living Fortress**: Can root in place to gain +3 DR and provide cover for adjacent allies
 ## Root Anchor
 (_Plant equivalent of Bear_)

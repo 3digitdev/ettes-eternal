@@ -3,7 +3,7 @@
 - **Weapon Proficiencies**: All weapons
 - **Armor Proficiencies:** Light, Medium, Heavy, Shields
 # Class Equipment
-_Pick one at character creation_
+_Pick two at character creation_
 - **Dueling Gauntlet**: Spend 2 AP to challenge a single enemy to combat; they must make Willpower Check to resist, if they fail, both you and the target gain +1 damage die against each other for the combat duration, 1/combat
 - **Tactical War Horn**: Spend 2 AP to grant all allies within 6 hexes +1 AP on their next turn, 1/combat
 - **Battle standard** 1 AP - allies within 3 hexes gain +5 to fear resistance, 1/day

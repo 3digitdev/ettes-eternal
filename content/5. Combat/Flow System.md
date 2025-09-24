@@ -11,13 +11,13 @@ At the end of your turn (after all other effects are applied) you lose **1 FP** 
 ### Gaining Flow Points
 At a basic level, you gain FP by succeeding on attacks in combat.
 - **Attack hits, NOT a crit** : +2 FP
-- **Attack Critically Hits**: +3 FP
+- **Attack Critically Hits**: +1 FP (on top of normal FP from attack)
 - **First Reaction:** +1 FP
 - **Killing Blow on Enemy**: +1 FP
 ### Important Note on Spells
 **Spells do NOT generate FP at any time**.  They are not considered "attacks" for the sake of the Flow system.  This system is intended to bring physical combat up to match the utility and variety of spellcasting, and thus is not intended to mesh with the Magic system.
 ### Summary + Example
-This means that, in an _incredibly lucky situation_, if you manage to attack 2 times, crit both, then perform a Dodge, you will have gained 3+3+1 = **7 Flow Points** in a single round (although you would Decay 1 FP at the end of your turn as usual).  On average though a melee combatant cutting their way through a battle is likely to earn around 2-3 FP in a round barring any special abilities/effects. (2 successful attacks + 1 successful reaction)
+This means that, in an _incredibly lucky situation_, if you manage to attack 2 times, crit both, killing 2 enemies, then perform a Dodge, you will have gained 3+3+1+1+1 = **9 Flow Points** in a single round (although you would Decay 1 FP at the end of your turn as usual).  On average though a melee combatant cutting their way through a battle is likely to earn around 3-6 FP in a round barring any special abilities/effects. (1-2 successful attacks + 1 successful reaction)
 ## Flow Actions
 There are MANY different Flow Actions that you can perform.  [[#Global Flow Actions|Some]] are available to everyone, [[#Flow Actions by Weapon Category|others]] are dependent on what type of weapon you wield.  Some will even be granted by various [[7. Perks/index|Perks]] or Class Abilities.
 ### Global Flow Actions
@@ -29,7 +29,7 @@ All characters have access to a small number of Flow Actions available regardles
 #### Guaranteed Critical
 **Cost**: 5 FP
 **Declaration:** After rolling a successful attack, but before Reactions or Damage are rolled
-**Effect**: Your successful attack automatically achieves a critical hit without rolling (consider your roll a 5 for the sake of ties, etc).  **This attack will not grant any FP**.
+**Effect**: Your successful attack automatically achieves a critical hit (consider your roll a 5 for the sake of ties, etc).  **This attack will not grant any FP**.
 #### Perfect Defense
 **Cost**: 2 FP
 **Declaration:** After a successful attack roll was achieved against you, but before rolling any Reactions

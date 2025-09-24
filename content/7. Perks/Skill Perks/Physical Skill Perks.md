@@ -73,10 +73,10 @@
 **Effect:** Improvised weapons gain +1 damage die step and grant access to custom flow actions as if they were a weapon category.
 ### Victory Lap
 **Prerequisites:** Athletics 50+
-**Effect:** After defeating an enemy, spend 1 AP celebrating dramatically to gain +10 to your next attack or skill check.
+**Effect:** After defeating an enemy, spend 1 AP celebrating dramatically to gain +10 to your next physical attack or skill check.
 ## Expert Tier
 ### Enhanced Reactive Roll
 **Prerequisites:** [[#Reactive Roll]], Agility 60+
-**Effect:** When using Reactive Roll, you can also move 1 hex directly away without provoking reaction attacks.
+**Effect:** When using Reactive Roll, you can also move 1 hex directly away without provoking Reaction Attacks.
 ## Master Tier
 ## Legendary Tier

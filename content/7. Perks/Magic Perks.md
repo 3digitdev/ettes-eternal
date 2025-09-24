@@ -2,12 +2,12 @@
 
 | Perk Name            | Tier       | Prerequisites                              | Synopsis                                                                                 |
 | -------------------- | ---------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Chrono Resonance     | Apprentice | Spellcasting 50+                           | Choose one day for spell damage bonus, opposite day penalty                              |
 | Divine Practitioner  | Apprentice | Religion 60+, allegiance to a chosen Deity | Gain the ability to use [[Divine Intervention\|Divine Interventions]]                    |
-| Spell Initiate       | Apprentice | Spellcasting 50+                           | Learn 2 cantrips from another spellcasting class                                         |
+| Spell Initiate       | Apprentice | Spellcasting 50+                           | Learn 2 Novice spells from another spellcasting class                                    |
 | Magic Eater          | Apprentice | Spellcasting 50+                           | Gain HP when targeted by spells                                                          |
 | Spell Dreamer        | Apprentice | -                                          | Dream about magical events elsewhere for cryptic visions                                 |
 | Synchronized Casting | Apprentice | Spellcasting 50+                           | +2 damage when casting same turn as ally, stackable                                      |
-| Weekly Resonance     | Apprentice | Spellcasting 50+                           | Choose one day for spell damage bonus, opposite day penalty                              |
 | Basic Metamagic      | Journeyman | Spellcasting 60+                           | Choose one Basic Metamagic option                                                        |
 | Counterspell Expert  | Journeyman | Spellcasting 60+                           | Disrupt enemy spellcasting within range                                                  |
 | Elemental Affinity   | Journeyman | Spellcasting 60+                           | Specialize in one damage type for +4 damage and resistance                               |
@@ -21,12 +21,16 @@
 | Divine Specialist    | Expert     | Religion 80+, Divine Practitioner          | One Intervention category costs 1 less Favor                                             |
 # Magic Perk Descriptions
 ## Apprentice Tier
+
+### Chrono Resonance
+**Prerequisites:** Spellcasting 50+
+**Effect:** Choose **morning (12am-12pm)** or **afternoon (12pm-12am)**. During that time of day, your spells deal +2 damage. In the other time of day, your spells deal -2 damage.
 ### Divine Practitioner
 **Prerequisites:** Religion 60+, allegiance to a chosen [[Religion#Pantheon|Deity]]
 **Effect:** You are recognized as a champion of your Deity, and are granted access to [[Divine Intervention|Divine Interventions]] on behalf of that Deity.
 ### Spell Initiate
 **Prerequisites:** Spellcasting 50+
-**Effect:** Choose one spellcasting class. Learn 2 cantrips from that class's spell list. You can cast these cantrips using your normal spellcasting ability (if you have one) or using the chosen class's spellcasting ability if you are not a spellcaster.
+**Effect:** Choose one spellcasting class. Learn 2 Novice spells from that class's spell list. You can cast these Novice spells using your normal spellcasting ability (if you have one) or using the chosen class's spellcasting ability if you are not a spellcaster.
 ### Magic Eater
 **Prerequisites:** Spellcasting 50+
 **Effect:** When you are directly targeted by a spell (not AoE), gain HP that increases automatically based on your Class Tier. **This effect triggers regardless of whether the spell hits or is beneficial/harmful.**
@@ -43,7 +47,8 @@
 **Effect:** You occasionally dream about magical events happening elsewhere in the world. The GM provides you with cryptic but useful visions related to ongoing magical phenomena, distant spellcasters, or supernatural threats.
 ### Synchronized Casting
 **Prerequisites:** Spellcasting 50+
-**Effect:** When you cast a spell in the same turn that an ally also casts a spell, your spell deals additional damage that increases automatically based on your Class tier
+**Effect:** When you cast a spell in the same round that an ally also casts a spell, your spell deals additional damage that increases automatically based on your Class tier.
+_Multi-hit spells such as [[6. Magic/Spell Lists/Sorcerer/1 - Apprentice#Arcane Barrage|Arcane Barrage]] gain the bonus damage on each separate hit_
 
 | Class Tier | Bonus Damage |
 | ---------- | ------------ |
@@ -52,9 +57,6 @@
 | Expert     | +5           |
 | Master     | +8           |
 | Legendary  | +12          |
-### Weekly Resonance
-**Prerequisites:** Spellcasting 50+
-**Effect:** Choose one day of the week. On that day, your spells deal +2 damage. On the opposite day of the week, your spells deal -2 damage.
 ## Journeyman Tier
 ### Basic Metamagic
 **Prerequisites:** Spellcasting 60+
@@ -73,7 +75,7 @@
 **Effect:** When an enemy within 6 hexes critically fails a Spellcasting check, they immediately take {Level÷2} magical damage as their spell backfires.
 ### Spell Disruption
 **Prerequisites:** Spellcasting 60+
-**Effect:** Your magical aura interferes with nearby spellcasting. Enemies within 2 hexes of you suffer -5 to their Spellcasting checks.
+**Effect:** Your magical aura interferes with nearby spellcasting. Enemies within 2 hexes of you suffer -5 to their Spellcasting.
 ### Passive Arcane Sense
 **Prerequisites:** Spellcasting 60+
 **Effect:** Your Perception skill automatically detects magical auras within 3 hexes without requiring any action or roll. You sense the presence and general school of magic, but not specific details.

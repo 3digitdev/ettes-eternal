@@ -15,7 +15,7 @@
 | Medium Armor Proficiency | Apprentice | Light Armor Proficiency         | Can wear medium armor                                                         |
 | Quick Thinking           | Apprentice | Willpower 40+                   | Use Willpower modifier for Initiative                                         |
 | Shield Proficiency       | Apprentice | Endurance 40+                   | Become proficient with Shields                                                |
-| Tavern Brawler           | Apprentice | Brawl Weapon Proficiency        | Removed penalties for improvised weapons, increased damage, flow actions      |
+| Tavern Brawler           | Apprentice | Weapon Proficiency (Brawl)      | Removed penalties for improvised weapons, increased damage, flow actions      |
 | Two-Weapon Fighter       | Apprentice | -                               | Extra attack with off-hand for +1 AP at -10                                   |
 | Weapon Proficiency       | Apprentice | -                               | Become proficient with a new weapon category                                  |
 | Battle Dance             | Journeyman | Agility 50+                     | Free 1 hex movement after each enemy kill                                     |
@@ -40,13 +40,13 @@
 **Effect:** Use Academia modifier instead of Agility modifier for Initiative rolls.
 ### Charge
 **Prerequisites:** None
-**Effect:** When you move at least 4 hexes before making an attack, deal +{Level÷2} additional damage with that attack.
+**Effect:** When you move at least 4 hexes before making a melee attack, deal +{Level÷2} additional damage with that attack.
 ### Combat Awareness
 **Prerequisites:** Perception 40+
 **Effect:** You can use defensive reactions (Dodge, Parry) normally while Blinded, suffering no penalties from the condition.
 ### Counter Attacker
 **Prerequisites:** None
-**Effect:** Your reaction attacks deal +2 additional damage.
+**Effect:** Your Reaction Attacks deal +2 additional damage.
 ### Critical Focus
 **Prerequisites:** None
 **Effect:** Your critical hit range expands by 1. This is a Tiered Perk; the range automatically expands by an additional 1 per Class Tier (maximum expansion of 5).
@@ -97,7 +97,7 @@
 **Effect:** Each time you kill an enemy, you can immediately move 1 hex without provoking Reaction Attacks.
 ### Brutal Critical
 **Prerequisites:** [[#Critical Focus]]
-**Effect:** When you score a critical hit with any attack, the target takes 1d6 Persistent Bleed damage each round.
+**Effect:** When you score a critical hit with any physical attack, the target takes 1d6 Persistent Bleed damage each round.
 ### Combat Awareness
 **Prerequisites:** None
 **Effect:** Gain +1 Reaction Point per turn.

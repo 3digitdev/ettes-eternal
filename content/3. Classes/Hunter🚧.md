@@ -1,9 +1,9 @@
 # Stats
 - **Hit Dice:** d10
-- **Weapon Proficiencies**: Bow OR Crossbow (pick one)
+- **Weapon Proficiencies**: Bow OR Crossbow (pick one), plus 1 of your choice
 - **Armor Proficiencies:** Light
 # Class Equipment
-_Pick one at character creation_
+_Pick two at character creation_
 - **Quiver of returning**: arrows return after missing targets
 - **Quiver of accuracy**: after rolling attack, can add +10 to hit, 1/day
 - **Phase arrows**: 3 arrows that ignore 2 points of DR

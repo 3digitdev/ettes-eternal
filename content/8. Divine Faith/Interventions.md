@@ -1,16 +1,16 @@
 ## Apprentice Interventions
 
-|Name|Category|Summary|
-|---|---|---|
-|**Holy Nova**|Healing|Heal all nearby allies for (Level+3)d8 HP. Plea effect grants temporary HP.|
-|**Panacea**|Healing|Remove one chosen status effect from all allies. Plea effect grants immunity to chosen effects.|
-|**Holy Shell**|Healing|Grant Level damage reduction to all allies for 3 rounds. Plea effect provides Flow Points.|
-|**Strength of Demigods**|Blessing|Grant +1 damage die to first attack each round for Level÷2 rounds. Plea effect provides Flow Points.|
-|**Divine Swiftness**|Blessing|Enhanced step moves 2 hexes for Level÷2 rounds. Plea effect increases base movement speed.|
-|**Divine Luck**|Blessing|Reroll one failed roll per round for Level÷2 rounds. Plea effect adds bonus to rerolls.|
-|**Fear of God**|Curse|All enemies become Frightened for 3 rounds of chosen source. Plea effect penalizes Willpower saves.|
-|**Chains of Faith**|Curse|Halve enemy movement speed for Level÷2 rounds. Plea effect extends duration.|
-|**Disruption**|Curse|Enemies limited to 2 FP maximum for Level÷2 rounds. Plea effect immediately drains FP.|
+|Name|Category| Summary                                                                                                       |
+| ------------------------ | -------- | ------------------------------------------------------------------------------------------------------------- |
+|**Holy Nova**|Healing| Heal all nearby allies for (Level+3)d8 HP. Plea effect grants temporary HP.                                   |
+|**Panacea**|Healing| Remove one chosen status effect from all allies. Plea effect grants immunity to chosen effects.               |
+|**Holy Shell**|Healing| Grant Level damage reduction to all allies for 3 rounds. Plea effect provides Flow Points.                    |
+|**Strength of Demigods**|Blessing| Grant +1 damage die to first attack or spell each round for Level÷2 rounds. Plea effect provides Flow Points. |
+|**Divine Swiftness**|Blessing| Enhanced step moves 2 hexes for Level÷2 rounds. Plea effect increases base movement speed.                    |
+|**Divine Luck**|Blessing| Reroll one failed roll per round for Level÷2 rounds. Plea effect adds bonus to rerolls.                       |
+|**Fear of God**|Curse| All enemies become Frightened for 3 rounds of chosen source. Plea effect penalizes Willpower saves.           |
+|**Chains of Faith**|Curse| Halve enemy movement speed for Level÷2 rounds. Plea effect extends duration.                                  |
+|**Disruption**|Curse| Enemies limited to 2 FP maximum for Level÷2 rounds. Plea effect immediately drains FP.                        |
 ### Apprentice Intervention Descriptions
 #### Holy Nova
 **Cost:** 2 AP + 5 Favor  
@@ -53,7 +53,7 @@ All allies within range gain **Level** Damage Reduction for 3 rounds.
 **Range:** 10 hexes from caster  
 **Targets:** All allies within range
 
-All allies within range gain **+1 damage die** to their **first attack each round** (magic or physical) for **Level ÷ 2 rounds (minimum 1)**. Effects that calculate based on damage dice (such as Axe Rending Strike) include this bonus die in their calculations.
+All allies within range gain **+1 damage die** to their **first attack or spell each round** for **Level ÷ 2 rounds (minimum 1)**. Effects that calculate based on damage dice (such as Axe Rending Strike) include this bonus die in their calculations.
 
 **Plea Effect:** Make a Religion skill check. On success, all blessed allies also gain Flow Points: **1 FP per success level, totaling 4 FP on a Critical Success.**
 #### Divine Swiftness

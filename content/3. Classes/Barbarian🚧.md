@@ -3,7 +3,7 @@
 - **Weapon Proficiencies**: Pick any two melee weapon categories
 - **Armor Proficiencies:** Light, Medium
 # Class Equipment
-_Pick one at character creation_
+_Pick two at character creation_
 - **Tribal paint**: apply before combat: enemies must make Willpower check or lose 1 AP first turn
 - **Berserker's trophy belt**: gain 2 extra Flow Point when you perform a killing blow, 1/combat
 - **Clarity totem**: ignore negative effects of a single Rage.  3 total uses, and then becomes inert
@@ -23,7 +23,6 @@ _Pick one at character creation_
 - **Duration:** Until voluntarily cancelled (free action), you spend 1 full round without taking or dealing damage, or combat ends
 - **Benefits:** Damage bonus and temporary HP based on your Barbarian Class Tier when activated
     - temporary HP goes away when Rage ends
-- **Penalty:** Lose 1 RP per turn while raging
 - **Forced Rage:** When ally drops to 0 HP, make Willpower check or rage for minimum 4 rounds (doesn't count against daily limit)
 - **Battle Fatigue:** After rage ends, for 1 hour:
     - move 2 hexes slower
@@ -33,15 +32,15 @@ _Pick one at character creation_
 
 | Class Tier | Rage Damage Bonus | Rage Temporary HP |
 | ---------- | ----------------- | ----------------- |
-| Apprentice | +2                | +5                |
-| Journeyman | +4                | +15               |
-| Expert     | +6                | +25               |
-| Master     | +8                | +30               |
-| Legendary  | +10               | +40               |
+| Apprentice | +2                | +10               |
+| Journeyman | +4                | +20               |
+| Expert     | +6                | +30               |
+| Master     | +8                | +40               |
+| Legendary  | +10               | +50               |
 ### Thick Skinned
 Gain +1 DR permanently. Enemies have Disadvantage on Influence checks to intimidate or insult you.
 ### Rampage
-Killing an enemy while raging grants 2 FP.
+Killing an enemy while raging grants 2 FP (instead of 1).
 ### Intimidating Presence
 Use the higher of your Athletics, Endurance, or Influence skill when making intimidation attempts. When you slay an enemy, you may spend 1 AP to force all enemies within 2 hexes to succeed a Willpower check or be Frightened of you for a duration based on your Barbarian Class Tier.
 
@@ -70,8 +69,8 @@ At Level 5, Barbarians must choose their specialization path:
 **Timing:** While raging  
 Choose one effect for the remainder of this rage:
 - You may have your melee attacks knock enemies back 1 hex on hit
-- Your attacks inflict 2 Bleed damage per round
-- Your attacks inflict Frightened on critical hits
+- Your physical attacks inflict 2 Bleed damage per round
+- Your physical attacks inflict Frightened on critical hits
 ### Flow Rage
 When you enter rage (voluntarily or involuntarily), gain 2 Flow Points immediately.
 ### Iron Discipline
@@ -86,13 +85,13 @@ You have Advantage on saves against all Mental Effects. Additionally, when force
 | 6     | Primal Resilience | Enhanced resistances            |
 | 7     | Beast Within      | Animal aspects during rage      |
 ### Elemental Fury
-When you enter rage, choose Fire, Ice, or Shock. For each attack while raging, you may choose to deal that damage type or your normal damage type, and you gain Resistance equal to your Level against the chosen damage type for the duration.
+When you enter rage, choose Fire, Ice, or Shock. For each physical attack while raging, you may choose to deal that damage type or your normal damage type, and you gain Resistance equal to your Level against the chosen damage type for the duration.
 ### Primal Resilience
 Gain Resistance 2 against your chosen elemental damage type from Elemental Fury.
 ### Beast Within
 While raging, choose one animal aspect (cannot be changed during the rage):
 - **Bear:** +2 DR for the rage duration
-- **Wolf:** Your attacks grant allies +5 to hit the same target until start of your next turn
+- **Wolf:** Your physical attacks grant allies +5 to hit the same target until start of your next turn
 - **Lion:** Free 5-foot step doesn't count against your once-per-turn limit
 - **Elephant:** You can move through enemy squares without stopping, and enemies you move through take {Level÷2} damage
 - **Viper:** You may spend 1 AP per round to spit venom at an adjacent enemy (no attack roll) and inflict a {Level÷2} ongoing Poison damage effect

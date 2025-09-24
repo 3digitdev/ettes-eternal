@@ -112,7 +112,7 @@ The entrance is nearly invisible from outside (Hard Success Perception to detect
 |Master|3d8 + Spellcasting modifier|2 spirits|
 |Legendary|4d8 + Spellcasting modifier|3 spirits|
 
-Spirits phase through obstacles and cannot be targeted by attacks, but dispel magic or similar effects can dismiss them.
+Spirits phase through obstacles and cannot be targeted by physical attacks, but dispel magic or similar effects can dismiss them.
 
 ---
 ## Sap Prison

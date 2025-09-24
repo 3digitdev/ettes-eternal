@@ -2,7 +2,7 @@
 title: 13. Glossary
 ---
 ## Action Point (AP)
-The primary action currency in [[5. Combat/index|Combat]]. Characters start each round with 6 AP and spend them on attacks, spells, movement, and other actions. First attacks cost 2 AP, with escalating costs for additional actions.
+The primary action currency in [[5. Combat/index|Combat]]. Characters start each round with 5 AP and spend them on attacks, spells, movement, and other actions. 
 ## Advantage/Disadvantage
 Roll twice and take the higher (Advantage) or lower (Disadvantage) result. Used instead of small numerical bonuses to represent favorable or unfavorable circumstances.
 ## Animal Companion
@@ -26,7 +26,7 @@ Special combat techniques powered by [[Flow System#Flow Points|Flow Points]]. In
 ## Hard/Major Success
 [[1. Basics/index#Success/Failure Levels|Success Levels]] achieved by rolling ≤½ Target Number (Hard) or ≤¼ Target Number (Major). Provide better results than Normal Success, including damage bonuses.
 ## Heightening
-Enhancing spells by spending additional AP to increase their effective level and power. Each heightened level costs +1 AP and cannot exceed your maximum castable spell level.  See [[6. Magic/index#Heightened Spells|Heightened Spells]].
+Enhancing spells by spending additional Mana to increase their effective level and power. Each heightened level costs +1 Mana and cannot exceed your maximum castable spell level.  See [[6. Magic/index#Heightened Spells|Heightened Spells]].
 ## Hit Dice (HD)
 Determines health scaling by class. Each class has a different HD (d6, d8, d10, or d12) that affects total health calculation alongside [[3. Classes/index#Class Tier System|Class Tiers]].
 ## Interventions

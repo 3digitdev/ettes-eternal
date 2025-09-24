@@ -2,7 +2,6 @@
 title: 1. Basics
 description: The basic rules of the system
 ---
-
 # Dice
 ## Dice Basics
 This system uses a d100-based system in order to easily represent difficulties, power level, and odds of success at a glance.
@@ -155,6 +154,13 @@ Note that at no point do characters **roll** their Hit Dice to determine their H
 All characters have a default **Move Speed** of 6 hexes per round.   Outside of combat we let the math stay simple and say 4 mph (6.5 kph) walking, or 8 mph (13 kph) running.  If the players want to achieve greater than these numbers **outside of combat**, the GM may ask for an Athletics Check with appropriate difficulty.
 ### Senses
 Unless specified otherwise by Ancestry, characters have standard human senses and sense abilities.
+### Size Categories 🚧
+**TODO**
+- Huge
+- Large
+- Medium
+- Small
+- Tiny
 ## Character Features
 ### Ancestry
 Every character has an [[2. Character Creation#Ancestries|Ancestry]] (commonly called a Race in other systems) which represents your bloodline/lineage.  These Ancestries will grant you certain benefits including a Skill Bonus and an Ancestral Trait.  The idea behind these is to simply provide some small flavor and abilities, rather than becoming the "correct" choice for any given class like other systems might be.  See the [[2. Character Creation#Ancestries|Ancestries]] for more details
@@ -203,7 +209,7 @@ When you make a Recovery Roll, you can choose each time between a "Safe" Recover
 You regain 10% of your max HP (round up)
 #### Luck Option
 You may roll a number of your hit dice equal to your Level÷2 (round up), and regain that many hit points
-- *MATH NOTE: Assuming absolute average rolls/stats, a player usually will recover slightly more HP than 10% from this, but potentially much more (or less)!*
+- *MATH NOTE: Assuming average rolls/stats, a player usually will recover slightly more HP than 10% from this, but potentially much more (or less)!*
 ## Natural Healing
 Every time a character takes a [[#Rest|Long Rest]], they may attempt 1 Recovery Roll
 ## Applied Healing

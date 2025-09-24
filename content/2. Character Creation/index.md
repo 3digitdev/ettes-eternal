@@ -2,16 +2,19 @@
 title: 2. Character Creation
 description: The basics of character creation
 ---
-
 # Overview
 Here are the high-level steps for creating a new character in Ettes Eternal:
 1. Select a [[3. Classes/index|Character Class]] and pick your [[3. Classes/index#Starting Equipment|Starting Equipment]]
+	- If you are a spellcaster, pick your [[6. Magic/index#Starting Spells|Starting Spells]]
 2. Set your [[#Initial Skill Levels]] and set up **Class Skills**
 3. Select an [[#Ancestries|Ancestry]]
 4. Come up with a basic backstory concept, and select a [[#Backgrounds|Background]]
 5. Pick your Level 1 [[7. Perks/index|Perk]]
 6. Calculate your starting [[1. Basics/index#Health|Health]]
 7. Pick out your starter [[Weapons|Weapon]] & [[Armor|Armor]]
+	- Make sure to make a note of all of your Flow Actions:
+		- [[Flow System#Global Flow Actions|Global Actions]]
+		- [[Weapons|Weapon Actions]]
 8. Buy any additional [[Gear & Services|Gear]] with your starting gold
 9. Flesh out your character's backstory, physical description, and personality
 
@@ -51,7 +54,7 @@ Each Ancestry will grant you a single +10 bonus to a Skill, and a single **Ances
 ### Gnome
 - **Ancestral Skill**: Academia +10
 - **Ancestral Trait (pick one)**:
-    - Tinker (you can create a minor gadget once per day that lasts for the day; it replicates a single cantrip of your choice using your highest Spellcaster [[_Character Classes#Class Tier System|Class Tier]], or Apprentice-level)
+    - Tinker (you can create a minor gadget once per day that lasts for the day; it replicates a single Novice spell of your choice using your highest Spellcaster [[_Character Classes#Class Tier System|Class Tier]], or Apprentice-level)
     - Fade (Perception checks to detect you have Disadvantage when you are standing still for more than 5 seconds and not out in the open alone)
 ## Special Ancestries
 ### Nephilim

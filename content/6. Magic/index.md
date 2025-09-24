@@ -2,7 +2,6 @@
 title: 6. Magic
 description: The basic rules of the magic system
 ---
-
 Many RPG systems use what's called [Vancian Magic](https://tvtropes.org/pmwiki/pmwiki.php/Main/VancianMagic), and it involves Spell Slots, Preparing Spells each morning, etc. Ettes Eternal takes a more free-form approach;  Each Spellcaster simply has a list of known Spells, and a **Mana Pool** that they use to cast/modify those spells of various levels/costs.  There is no limit to how many of each Spell Level you can cast per day, provided you have the **Mana** for it, but there's a tradeoff of power versus a wider array of options throughout the day.
 
 There are 5 Spell Tiers in Ettes Eternal (matching directly to [[3. Classes/index#Class Tier System|Class Tiers]]), as well as **Novice Spells**
@@ -38,6 +37,8 @@ Finally, if a spell targets 1 or more creatures (as opposed to being Blast/Cone/
 ## Casting a Spell
 You can cast any spell that you have in your Spell List AND that you have the required Mana to cast.  There is no limit or cooldowns on spells, unless an effect states otherwise.
 
+Casting a spell _that is not a touch-based spell (any spell with range or a shape like cone etc)_ while engaged in melee range of an enemy **will provoke a Reaction Attack**.  The attack will not disrupt the spellcasting, unless an ability states that it would.
+
 After selecting your Spell, immediately pay the AP and Mana costs associated with the spell, as well as any additional AP/Mana required for additional effects such as Metamagic.  If you cannot afford to pay these costs immediately, **you cannot cast the Spell**.  Once you have paid the required costs, you can make your...
 ### Heightened Spells
 When you choose a Spell to cast, and BEFORE rolling the Spellcasting Check, you may choose to **Heighten** the spell.
@@ -69,7 +70,9 @@ When you take damage while sustaining a Spell, you must make an **[[1. Basics/in
 ---
 # Learning Spells
 ## Starting Spells
-Every Spellcaster will have a prescribed number of Novice and Apprentice Spells that they know when they start the adventure. This number is specific to each Class; refer to the Class itself for this number.
+Every Spellcaster will have **4 Novice Spells** and **2 Apprentice Spells** that they know when they start the adventure, regardless of their class.
+
+If you multiclass into a new spellcasting class, you immediately gain these starting spells for that class.
 ## New Spells by Class Level
 Each time you level up in your **spellcaster** Class, you can learn 2 new Spells of any Spell Tier that you can currently cast.  This means that when you Level up and gain access to a new Spell Tier (like gaining access to Journeyman Spells at Class Level 5), you can immediately learn 2 Spells at that newly-obtained Spell Tier.
 
@@ -111,7 +114,7 @@ The following table demonstrates the scaling of your Base Mana (not linear per l
 **You can only apply a single Metamagic Effect to a Spell when it is cast**.  There may be abilities that provide a limited exception to this, but they are very rare.
 
 Initially, no Spellcaster has access to Metamagic.  You gain access via a set of two [[7. Perks/index|Perks]]:
-- [[Magic Perks#Basic Metamagic|Basic Metamagic]] grants you access to **ALL** Basic Metamagic effects.
+- [[Magic Perks#Basic Metamagic|Basic Metamagic]] grants you access to **ONE** Basic Metamagic effect that you select when you take each stack of the Perk.
 - [[Magic Perks#Advanced Metamagic|Advanced Metamagic]] grants you access to **ONE** Advanced Metamagic effect that you select when you take each stack of the Perk.
 ## Metamagic List
 
@@ -122,11 +125,11 @@ Initially, no Spellcaster has access to Metamagic.  You gain access via a set of
 | Still     | Basic    | +1   | Cast without needing to move your arms/etc. Still requires verbal component                                                                                                      |
 | Rebound   | Basic    | +2   | If spell is resisted/saved against, automatically targets nearest enemy                                                                                                          |
 | Surge     | Basic    | +2   | Roll damage dice twice, take the higher result                                                                                                                                   |
-| Widen     | Basic    | +2   | Increase area of effect                                                                                                                                                          |
+| Widen     | Basic    | +2   | Increase area of effect by up to 2 (Line 2→4, Blast 3→5, etc.)  If a spell affects a specific number of hexes, just increase the number by 2                                     |
 | Selective | Advanced | +2   | Exclude any number of targets from a spells effect                                                                                                                               |
 | Silent    | Advanced | +2   | Cast without verbal components                                                                                                                                                   |
 | Echo      | Advanced | +3   | Half of any rolled damage applies again next round at beginning of your turn                                                                                                     |
 | Penetrate | Advanced | +3   | Ignore magical resistances or defenses                                                                                                                                           |
-| Quicken   | Advanced | +3   | Reduce casting time/AP cost                                                                                                                                                      |
+| Quicken   | Advanced | +3   | Reduce the cost to cast the spell by 1 AP (cannot reduce cost to 0 AP)                                                                                                           |
 | Maximize  | Advanced | +4   | All variable effects use maximum values                                                                                                                                          |
-| Ricochet  | Advanced | +4   | Single-target spells can bounce to additional targets                                                                                                                            |
+| Ricochet  | Advanced | +4   | Single-target spells can bounce to an additional target at full effect                                                                                                           |

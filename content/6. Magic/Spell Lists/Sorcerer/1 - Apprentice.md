@@ -136,7 +136,7 @@
 **Target:** Blast 2  
 **Duration:** Instant
 
-**Effect:** Explosion of flames. Targets make an Endurance Opposed Check vs your Spellcasting or suffer persistent fire damage.
+**Effect:** Explosion of flames. Targets struck suffer persistent fire damage.
 
 |Class Tier|Damage|Persistent Fire|Additional Effect|
 |---|---|---|---|

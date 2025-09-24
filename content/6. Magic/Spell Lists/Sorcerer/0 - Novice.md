@@ -22,15 +22,15 @@
 **Target:** One creature  
 **Duration:** Instant
 
-**Effect:** Cold damage that prevents healing.
+**Effect:** Icy hand deals Cold damage.
 
 | Class Tier | Damage                      |
 | ---------- | --------------------------- |
-| Apprentice | 1d8 + Spellcasting modifier |
-| Journeyman | 2d8 + Spellcasting modifier |
-| Expert     | 2d8 + Spellcasting modifier |
-| Master     | 3d8 + Spellcasting modifier |
-| Legendary  | 4d8 + Spellcasting modifier |
+| Apprentice | 1d6 + Spellcasting modifier |
+| Journeyman | 2d6 + Spellcasting modifier |
+| Expert     | 2d6 + Spellcasting modifier |
+| Master     | 3d6 + Spellcasting modifier |
+| Legendary  | 4d6 + Spellcasting modifier |
 
 ---
 ## Flame Jet
@@ -44,11 +44,11 @@
 
 | Class Tier | Damage                      |
 | ---------- | --------------------------- |
-| Apprentice | 1d6 + Spellcasting modifier |
-| Journeyman | 2d6 + Spellcasting modifier |
-| Expert     | 2d6 + Spellcasting modifier |
-| Master     | 3d6 + Spellcasting modifier |
-| Legendary  | 4d6 + Spellcasting modifier |
+| Apprentice | 1d4 + Spellcasting modifier |
+| Journeyman | 2d4 + Spellcasting modifier |
+| Expert     | 2d4 + Spellcasting modifier |
+| Master     | 3d4 + Spellcasting modifier |
+| Legendary  | 4d4 + Spellcasting modifier |
 
 ---
 ## Illusory Sound
@@ -118,11 +118,11 @@
 
 | Class Tier | Damage                      |
 | ---------- | --------------------------- |
-| Apprentice | 1d6 + Spellcasting modifier |
-| Journeyman | 2d6 + Spellcasting modifier |
-| Expert     | 2d6 + Spellcasting modifier |
-| Master     | 3d6 + Spellcasting modifier |
-| Legendary  | 4d6 + Spellcasting modifier |
+| Apprentice | 1d4 + Spellcasting modifier |
+| Journeyman | 2d4 + Spellcasting modifier |
+| Expert     | 2d4 + Spellcasting modifier |
+| Master     | 3d4 + Spellcasting modifier |
+| Legendary  | 4d4 + Spellcasting modifier |
 
 ---
 ## Message
@@ -170,15 +170,15 @@
 **Target:** One creature  
 **Duration:** Instant
 
-**Effect:** Toxic projectile. Targets make an Endurance Opposed Check vs your Spellcasting or suffer Persistent Poison damage.
+**Effect:** Toxic projectile. Targets suffer Persistent Poison damage.
 
 | Class Tier | Damage                                    |
 | ---------- | ----------------------------------------- |
-| Apprentice | 1d6 + Spellcasting modifier; Persistent 1 |
-| Journeyman | 2d6 + Spellcasting modifier; Persistent 1 |
-| Expert     | 2d6 + Spellcasting modifier; Persistent 2 |
-| Master     | 3d6 + Spellcasting modifier; Persistent 2 |
-| Legendary  | 4d6 + Spellcasting modifier; Persistent 3 |
+| Apprentice | 1d3 + Spellcasting modifier; Persistent 1 |
+| Journeyman | 2d3 + Spellcasting modifier; Persistent 1 |
+| Expert     | 2d3 + Spellcasting modifier; Persistent 2 |
+| Master     | 3d3 + Spellcasting modifier; Persistent 2 |
+| Legendary  | 4d3 + Spellcasting modifier; Persistent 3 |
 
 ---
 ## Spark Bolt
@@ -192,8 +192,8 @@
 
 | Class Tier | Damage                      |
 | ---------- | --------------------------- |
-| Apprentice | 1d8 + Spellcasting modifier |
-| Journeyman | 2d8 + Spellcasting modifier |
-| Expert     | 2d8 + Spellcasting modifier |
-| Master     | 3d8 + Spellcasting modifier |
-| Legendary  | 4d8 + Spellcasting modifier |
+| Apprentice | 1d4 + Spellcasting modifier |
+| Journeyman | 2d4 + Spellcasting modifier |
+| Expert     | 2d4 + Spellcasting modifier |
+| Master     | 3d4 + Spellcasting modifier |
+| Legendary  | 4d4 + Spellcasting modifier |

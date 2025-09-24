@@ -1,100 +1,83 @@
-# Wild Shape Forms
 Wild Shape allows Druids to transform into various creature types. All forms retain the character's mental abilities, skills, and memories while gaining the physical capabilities of the chosen form.
 
-When you choose a form to Wild Shape into, you must classify it as Defense, Offense, or Utility.  Below are guidelines on what might fit, but pick what is appropriate.
-## Form Selection Guidelines
-- **Defense Forms:** Choose when you need durability and want to protect allies
-- **Offense Forms:** Choose when you need damage output and mobility
-- **Utility Forms:** Choose when you need special movement, stealth, or battlefield control
-- **Encounter Requirement:** You must have encountered the specific creature before to Wild Shape into it. If uncertain about backstory encounters, make a Nature check (Hard Success required)
+When you choose a form to Wild Shape into, you must classify it based on the category it reasonable would fit into.
+# Form Selection Guidelines
+Animals cannot be categorized as simply as we have attempted to here.  If an animal could reasonably fall into one of multiple different categories, then **you must pick one category to use upon Wildshaping into that animal.**  Examples:  A Wolf could be Predator OR Agile.  A Crocodile could be Cold-blooded OR Aquatic.  Whether a specified animal can be a specified Category remains at the GM's discretion
+
+If you wish to switch your category for the same animal you must re-cast Wildshape and declare the new Category.
+## Restrictions
+You must choose animals that are:
+- Natural
+- Non-humanoid (chimps are okay; humans are not)
+- Non-magical (meaning magic is not an inherent part)
+
+For specificity, here are some **examples** that are restricted.  This list is **not** all-encompassing:
+- All Dragons (magical)
+- Vampires (humanoid; non-natural)
+- Blink dogs (magical)
+- Kobold (humanoid)
+- etc.
 # Base Mechanics
-- **HP:** Character HP + form-specific bonuses
-- **Skills:** Use character's skills while transformed
+- **HP:** Use your characters HP,  gain bonuses from certain categories
+- **Skills:** Use your character's skills while transformed, gain bonuses/detriments from certain categories
 - **Equipment:** Armor and worn items transform with you, retaining their DR and magical properties as natural hide/scales/etc.
-- **Damage:** Standard weapon damage dice scaled by Class Tier
-- **Mana Cost:** 2 mana to transform
-- **Duration:** Until voluntarily ended (free action), you spend 1 full round without taking or dealing damage, or you fall unconscious
-- **Flow Actions**: Each category has a set of 2 Flow Actions that will replace the Flow Actions of your normal wielded weapon.
-- **Spellcasting**:  Cannot cast spells unless an ability states otherwise (see [[Druid🚧#Primal Casting|Primal Casting]])
-# Animal Forms (Path of Fauna)
-## Defense Forms
-**Examples:** Bear, Boar, Rhinoceros, Large Tortoise
+- **Damage:** Each category will either be d6, d8, or d10 damage, defined below.
+- **Action Cost**: 2 AP to transform (1 AP for Primal Form Druids)
+- **Mana Cost:** 2 mana to transform (1 mana for Primal Form Druids)
+- **Duration:** Until voluntarily ended (free action), or you fall unconscious
+- **Flow Actions**: Each category has a set of 3 Flow Actions unique to the category.  You cannot use any other Weapon Categories' Flow Actions while Wildshaped.
+- **Spellcasting**:  You cannot cast spells unless an ability states otherwise (see [[Druid🚧#Primal Shape|Primal Shape]])
+- **Special Abilities**:  If a form would grant you any non-magical, non-supernatural abilities (flight, water-breathing, incredible sense of smell, poison, etc), you will gain those abilities with no artificial limitations.
+- **Size**:  If a form would make you smaller, choose from the Size Categories defined in [[Core Rules/1. Basics/index#Size Categories 🚧|Size Categories]] that matches the chosen creature, and gain any bonuses or detriments as normal for that size.  Damage modifications for size are applied to the category's defined base damage.
 
-**Stats:**
-- **HP:** Character HP + {Level × 2} temporary HP while transformed
-- **Damage:** 1d8
-- **Movement:** 5 hexes
-- **Special:** Regenerate 1 HP per round
-
+---
+# Animal Categories
+## Predator
+**Examples:** Wolf, Lion, Tiger, Panther, Jaguar, Leopard  
+**Characteristics:** Pack hunters or solitary ambush predators with powerful bites and claws
 **Flow Actions:**
-- **Challenging Roar** (2 FP): Force target within 6 hexes to make Willpower save or must target you with next attack
-- **Territorial Stand** (3 FP): Cannot be moved or knocked prone, +2 DR until start of next turn
-
-## Offense Forms
-**Examples:** Wolf, Big Cat, Raptor, Wolverine
-
-**Stats:**
-- **HP:** Character HP (no bonus)
-- **Damage:** 1d10
-- **Movement:** 7 hexes
-- **Special:** Expanded critical range based on Class Tier:
-    - Apprentice: ≤06
-    - Journeyman: ≤07
-    - Expert: ≤08
-    - Master: ≤09
-    - Legendary: ≤10
-
+- **Pack Tactics** (2 FP): Your next attack gains Advantage if an ally is adjacent to your target. Declared before making an attack.
+- **Blood Feast** (3 FP): Heal {Level÷2} HP immediately. Declared after killing an enemy.
+- **Alpha Strike** (4 FP): Your next attack deals +1 damage die and automatically grapples target on hit. Declared before making an attack.
+## Guardian
+**Examples:** Bear, Boar, Rhinoceros, Elephant, Badger, Wolverine  
+**Characteristics:** Heavily built defensive creatures with thick hides and protective instincts
 **Flow Actions:**
-- **Savage Strike** (2 FP): Next attack gains +1 damage die
-- **Predator's Focus** (3 FP): Mark target for 3 rounds; all your attacks against them gain Advantage (once per target per combat)
-
-## Utility Forms
-**Examples:** Monkey, Octopus, Giant Spider, Bird of Prey
-
-**Stats:**
-- **HP:** Character HP (no bonus)
-- **Damage:** 1d6
-- **Movement:** Varies (climbing, swimming, flying as appropriate)
-- **Special:** Advantage on all Perception and Thievery checks
-
+- **Intimidating Roar** (2 FP): All enemies within 3 hexes must make Willpower check or be Frightened for 1 round. Declared at any time during your turn.
+- **Charging Ram** (3 FP): Move at least 3 hexes toward target, next attack knocks them prone on hit. Declared before moving.
+- **Defensive Stance** (4 FP): Gain +4 DR and +2 RP until start of your next turn. Declared at any time during your turn.
+## Aerial
+**Examples:** Eagle, Hawk, Owl, Raven, Vulture, Bat  
+**Characteristics:** Flying creatures with keen senses and aerial mobility
 **Flow Actions:**
-- **Distraction** (2 FP): Target enemy loses 1 AP on their next turn as you create chaos
-- **Setup** (3 FP): Grant next ally attack Advantage and +2 damage through positioning/distraction
-# Plant Forms (Path of Flora)
-## Ent (Defense)
-**Stats:**
-- **HP:** Character HP + {Level × 2} temporary HP while transformed
-- **Damage:** 1d8
-- **Reach:** 2 hexes
-- **Movement:** 4 hexes
-- **Special:** Regenerate HP per round based on Class Tier:
-    - Apprentice: 1 HP
-    - Journeyman: 2 HP
-    - Expert: 3 HP
-    - Master: 4 HP
-    - Legendary: 5 HP
-
-**Plant Flow Actions:**
-- **Entangling Roots** (2 FP): Target within 3 hexes becomes Restrained for 2 rounds
-- **Bark Armor** (3 FP): Gain +3 DR until start of next turn, can share with adjacent ally
-## Thorn Walker (Offense)
-**Stats:**
-- **HP:** Character HP (no bonus)
-- **Damage:** 1d10
-- **Reach:** 2 hexes (thorny appendages)
-- **Movement:** 6 hexes
-- **Special:** All attacks inflict 2 Persistent Bleed damage
-
-**Plant Flow Actions:**
-- **Thorn Volley** (2 FP): Ranged attack (6 hexes) that inflicts 1 Persistent Bleed
-- **Spike Growth** (3 FP): Create 3-hex line of thorns for 3 rounds that deal 1d6 damage to anyone moving through
-## Moss Shambler (Utility)
-**Stats:**
-- **HP:** Character HP (no bonus)
-- **Damage:** 1d6
-- **Movement:** 5 hexes + can squeeze through any opening larger than 6 inches without penalty
-- **Special:** Can move through enemy hexes without provoking reactions, can choose to leave concealing spores in any hex you move through (spores provide concealment for 1 round)
-
-**Plant Flow Actions:**
-- **Toxic Spores** (2 FP): Create 2-hex poison cloud; enemies inside suffer 1d4 Persistent Poison damage for 3 rounds
-- **Parasitic Growth** (3 FP): Attach to enemy within 2 hexes; they take 1d6 damage per round and you heal for same amount (lasts 3 rounds or until you move more than 6 hexes away)
+- **Talon Rake** (2 FP): Immediately move 2 hexes without provoking Reaction Attacks. Declared after a successful attack.
+- **Evasive Flight** (3 FP): Enemies have Disadvantage on ranged attacks against you until start of your next turn. Declared at any time during your turn.
+- **Diving Strike** (4 FP): Gain +1 damage die on the attack. Declared before making an attack after moving at least 4 hexes.
+## Agile
+**Examples:** Monkey, Cat, Squirrel, Ferret, Rabbit, Deer  
+**Characteristics:** Quick, nimble creatures focused on speed and dexterity
+**Flow Actions:**
+- **Nimble Escape** (2 FP): Move without provoking Reaction Attacks this turn. Declared at any time during your turn.
+- **Pounce** (3 FP): Move up to 3 hexes and make an attack as a single 2 AP action. Declared before moving.
+- **Acrobatic Strike** (4 FP): Target cannot use any defensive reactions against this attack. Declared before making an attack.
+## Aquatic
+**Examples:** Dolphin, Shark, Octopus, Seal, Otter, Fish  
+**Characteristics:** Water-dwelling creatures with swimming capabilities and water adaptation
+**Flow Actions:**
+- **Slick Maneuver** (2 FP): Automatically succeed on the check. Declared when making an Agility check.
+- **Ram** (3 FP): Target is knocked back 2 hexes and loses 1 AP next turn. Declared before making an attack.
+- **Feeding Frenzy** (4 FP): Make an immediate second attack at -10 accuracy. Declared after dealing damage.
+## Cold-blooded
+**Examples:** Snake, Lizard, Frog, Toad, Salamander, Iguana, Gecko  
+**Characteristics:** Reptiles and amphibians with patient hunting styles and environmental adaptation
+**Flow Actions:**
+- **Venomous Strike** (2 FP): Target takes Persistent Poison damage per round based on Class Tier (2/4/6/8/10). Declared after a successful attack.
+- **Camouflage** (3 FP): Gain Advantage on your next attack as you blend with surroundings. Declared at any time during your turn.
+- **Lightning Reflexes** (4 FP): Gain +3 AP this turn that can only be used for movement or attacks. Declared at any time during your turn.
+## Vermin
+**Examples:** Rat, Spider, Beetle, Centipede, Cockroach, Ant  
+**Characteristics:** Small creatures that rely on stealth, numbers, or surprising abilities
+**Flow Actions:**
+- **Skitter** (2 FP): Move through enemy squares and adjacent to enemies without provoking Reaction Attacks. Declared when moving.
+- **Repulsive Presence** (3 FP): All adjacent enemies have Disadvantage on attacks for 2 rounds. Declared at any time during your turn.
+- **Startling Appearance** (4 FP): Target loses 2 AP on their next turn from surprise and disgust. Declared before making an attack.

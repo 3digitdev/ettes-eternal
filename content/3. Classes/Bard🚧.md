@@ -1,9 +1,9 @@
 # Stats
 - **Hit Dice:** d8
-- **Weapon Proficiencies**: Finesse OR Crossbow (pick one)
+- **Weapon Proficiencies**: Finesse OR Crossbow (pick one), plus 1 of your choice
 - **Armor Proficiencies:** Light
 # Class Equipment
-_Pick one at character creation_
+_Pick two at character creation_
 - **Instrument of minor charm**: captivate audience for performance
 - **Harmony earrings**: hear conversations clearly up to 20 hexes away
 - **Lore crystal**: answers one simple lore question for free 1/day
@@ -30,7 +30,7 @@ Spend 1 Inspiration to learn information that people wouldn't normally share wit
 **Cost:** Free action to activate/deactivate  
 **Frequency:** Once per combat  
 **Duration:** 3 rounds or until you choose to end it  
-**Effect:** All weapon attacks gain +5 damage but suffer -15 to Combat Skill Checks as you prioritize flashy techniques over effective combat.
+**Effect:** All weapon attacks gain +5 damage but suffer -10 to Combat Skill Checks as you prioritize flashy techniques over effective combat.
 ### Crowd Pleaser
 When making non-combat skill checks witnessed by 3 or more people, expand your critical success range by +5 (≤05 becomes ≤10) as your natural showmanship enhances your performance.
 ### Performer's Prestige
@@ -49,11 +49,11 @@ At Level 5, Bards must choose their specialization path:
 | 6     | Mocking Strike  | Taunt enemies with optional opposed check for advantage       |
 | 7     | Muse's Momentum | Prevent FP loss or grant FP to allies based on attack success |
 ### Battle Rhythm
-When you successfully hit an enemy, allies within 6 hexes gain +2 damage to their next attack as you create an inspiring combat tempo through your movements and calls.
+When you successfully hit an enemy, allies within 6 hexes gain +2 damage to their next attack or spell as you create an inspiring combat tempo through your movements and calls.
 ### Mocking Strike
 Before making your next attack, spend 1 additional AP on the attack to mock your opponent at the same time. They must succeed a Willpower Check or be forced to target you with their next attack. You may choose to also make the check an Opposed Check against your Influence. If you do, and win the Opposed Check, you gain Advantage on your reaction against their next attack. If you lose the Opposed Check, you have Disadvantage on your reaction against their next attack.
 ### Muse's Momentum
-When you achieve a Hard or Major Success on an attack, all allies within 3 hexes do not lose FP at the end of the round. On a Critical Success, all allies within 3 hexes gain 1 FP and do not lose any FP this round.
+When you achieve a Hard or Major Success on an attack or spell, all allies within 3 hexes do not lose FP at the end of the round. On a Critical Success, all allies within 3 hexes gain 1 FP and do not lose any FP this round.
 
 ---
 ## Swashbuckler Path
@@ -68,4 +68,4 @@ When no allies are adjacent to you OR fighting the same target as you, gain Adva
 ### Enhanced Stage Fighting
 While using Stage Fighting, you generate +1 FP per successful hit as your dramatic combat style energizes your performance.
 ### Daring Gambit
-When making an attack, you may spend 2 FP to make it a reckless attack that leaves you exposed. If you hit, deal double damage. Regardless of whether you hit or miss, the next attack against you before the beginning of your next turn has Advantage.
+When making a physical attack, you may spend 2 FP to make it a reckless attack that leaves you exposed. If you hit, deal double damage. Regardless of whether you hit or miss, the next attack against you before the beginning of your next turn has Advantage.

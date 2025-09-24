@@ -3,13 +3,13 @@
 | Spell Name         | Level | Description                                          |
 | ------------------ | ----- | ---------------------------------------------------- |
 | Alter Self         | 2     | Minor physical transformation                        |
-| Elemental Burst    | 2     | Choose damage type with type-specific effects        |
 | Energy Orb         | 2     | Floating orb that continuously attacks target        |
 | Frost Nova         | 2     | Ice explosion centered on caster with slowing effect |
 | Levitate           | 2     | Float target in air with horizontal movement         |
 | Minor Invisibility | 2     | Short-duration invisibility                          |
 | Misty Step         | 2     | Short-range teleportation                            |
 | Scorching Ray      | 2     | Line of searing fire                                 |
+| Shocking Burst     | 2     | Choose damage type with type-specific effects        |
 | Spider Climb       | 2     | Walk on walls and ceilings                           |
 | Thunder Wave       | 2     | Sonic burst that damages, pushes, and deafens        |
 
@@ -35,24 +35,6 @@
 |Legendary|Can mimic specific individuals you've seen|
 
 ---
-## Elemental Burst
-**Level:** 2  
-**Mana Cost:** 2  
-**Range:** 8 hexes  
-**Target:** Blast 2  
-**Duration:** Instant
-
-**Effect:** Choose Fire, Ice, or Shock when casting. Creates moderate elemental damage with type-specific effects.
-
-|Class Tier|Damage|Additional Effect|
-|---|---|---|
-|Apprentice|1d6 + Spellcasting modifier|Fire ignites flammables; Ice creates difficult terrain 3 rounds; Shock causes targets to lose 1 AP next turn|
-|Journeyman|2d6 + Spellcasting modifier|Fire ignites flammables; Ice creates difficult terrain 3 rounds; Shock causes targets to lose 1 AP next turn|
-|Expert|2d6 + Spellcasting modifier|Fire ignites flammables; Ice creates difficult terrain 4 rounds; Shock causes targets to lose 2 AP next turn|
-|Master|3d6 + Spellcasting modifier|Fire ignites flammables; Ice creates difficult terrain 4 rounds; Shock causes targets to lose 2 AP next turn|
-|Legendary|4d6 + Spellcasting modifier|Fire ignites flammables; Ice creates difficult terrain 5 rounds; Shock causes targets to lose 3 AP next turn|
-
----
 ## Energy Orb
 **Level:** 2  
 **Mana Cost:** 2  
@@ -60,7 +42,7 @@
 **Target:** One creature  
 **Duration:** Sustained
 
-**Effect:** Create a floating orb of energy that follows and harasses a target. Orb attacks automatically at end of each of your turns with no action required.
+**Effect:** Create a floating orb of magic (choose from Fire, Ice, Shock, or Acid) that follows and harasses a target. Orb attacks automatically at end of each of your turns with no action required.
 
 |Class Tier|Damage|Additional Effect|
 |---|---|---|
@@ -78,7 +60,7 @@
 **Target:** Blast 3 centered on caster  
 **Duration:** Instant
 
-**Effect:** Ice explodes outward from your position, potentially slowing enemies. Targets make Endurance Opposed Check or are Slowed for a number of rounds.
+**Effect:** Ice explodes outward from your position, potentially slowing enemies. Targets struck are Slowed for a number of rounds.
 
 |Class Tier|Damage|Slowed Duration|
 |---|---|---|
@@ -167,22 +149,23 @@
 |Legendary|4d8 + Spellcasting modifier|
 
 ---
-## Frost Nova
+
+## Shocking Burst
 **Level:** 2  
 **Mana Cost:** 2  
-**Range:** Self  
-**Target:** Blast 3 centered on caster  
+**Range:** 8 hexes  
+**Target:** Blast 2  
 **Duration:** Instant
 
-**Effect:** Ice explodes outward from your position, potentially slowing enemies.
+**Effect:** Deals shock damage and causes the target to stagger, losing actions in their next turn
 
-|Class Tier|Damage|Additional Effect|
-|---|---|---|
-|Apprentice|1d8 + Spellcasting modifier|Targets make Endurance Opposed Check or Slowed 2 rounds|
-|Journeyman|2d8 + Spellcasting modifier|Targets make Endurance Opposed Check or Slowed 2 rounds|
-|Expert|2d8 + Spellcasting modifier|Targets make Endurance Opposed Check or Slowed 3 rounds|
-|Master|3d8 + Spellcasting modifier|Targets make Endurance Opposed Check or Slowed 3 rounds|
-|Legendary|4d8 + Spellcasting modifier|Targets make Endurance Opposed Check or Slowed 4 rounds|
+| Class Tier | Damage                      | Additional Effect           |
+| ---------- | --------------------------- | --------------------------- |
+| Apprentice | 1d6 + Spellcasting modifier | Targets lose 1 AP next turn |
+| Journeyman | 2d6 + Spellcasting modifier | Targets lose 1 AP next turn |
+| Expert     | 2d6 + Spellcasting modifier | Targets lose 2 AP next turn |
+| Master     | 3d6 + Spellcasting modifier | Targets lose 2 AP next turn |
+| Legendary  | 4d6 + Spellcasting modifier | Targets lose 3 AP next turn |
 
 ---
 ## Energy Orb
@@ -248,10 +231,10 @@
 
 **Effect:** Sonic energy erupts from you in all directions.
 
-|Class Tier|Damage|Additional Effect|
-|---|---|---|
-|Apprentice|1d8 + Spellcasting modifier|Targets make Endurance Opposed Check or pushed back 2 hexes and deafened 3 rounds|
-|Journeyman|2d8 + Spellcasting modifier|Targets make Endurance Opposed Check or pushed back 2 hexes and deafened 3 rounds|
-|Expert|2d8 + Spellcasting modifier|Targets make Endurance Opposed Check or pushed back 3 hexes and deafened 3 rounds|
-|Master|3d8 + Spellcasting modifier|Targets make Endurance Opposed Check or pushed back 3 hexes and deafened 4 rounds|
-|Legendary|4d8 + Spellcasting modifier|Targets make Endurance Opposed Check or pushed back 4 hexes and deafened 4 rounds|
+| Class Tier | Damage                      | Additional Effect                                 |
+| ---------- | --------------------------- | ------------------------------------------------- |
+| Apprentice | 1d8 + Spellcasting modifier | Targets pushed back 2 hexes and Deafened 3 rounds |
+| Journeyman | 2d8 + Spellcasting modifier | Targets pushed back 2 hexes and Deafened 3 rounds |
+| Expert     | 2d8 + Spellcasting modifier | Targets pushed back 3 hexes and Deafened 3 rounds |
+| Master     | 3d8 + Spellcasting modifier | Targets pushed back 3 hexes and Deafened 4 rounds |
+| Legendary  | 4d8 + Spellcasting modifier | Targets pushed back 4 hexes and Deafened 4 rounds |

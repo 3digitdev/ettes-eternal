@@ -2,7 +2,6 @@
 title: 4. Skills
 description: An overview of the Skills in the system
 ---
-
 # Skill List
 Skills are separated by **Skill Category**.  Many times, an ability may refer to Skills within a certain category in order to limit/group what Skills are applicable to the ability's effect.
 

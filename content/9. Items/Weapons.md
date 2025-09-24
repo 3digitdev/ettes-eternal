@@ -45,7 +45,7 @@ In addition to the Flow Actions for their weapon category, all 2h weapons also r
 ## Axe
 
 ### Flow Actions
-- **Devastating Strike** (2 FP): Deal maximum damage.  Declared after Reactions to an attack are resolved.
+- **Devastating Strike** (2 FP): Deal +5 damage.  Declared after Reactions to an attack are resolved.
 - **Rending Strike** (3 FP): Target takes ongoing bleeding damage each round equal to minimum weapon damage from an average success.  Declared after rolling damage on an attack.
 - **Whirlwind** (5 FP): Attack all enemies within your Reach. Each attack uses your full damage dice but at -10 accuracy.  Declared before rolling an attack. **No FP will be gained from this action**.
 ### Class Tier Bonuses
@@ -64,23 +64,23 @@ In addition to the Flow Actions for their weapon category, all 2h weapons also r
 - **Journeyman:** Deal +2 damage to enemies suffering from any status effect
 - **Expert:** Deal +5 damage to enemies at half health or less
 - **Master:** Can counter-attack immediately after being hit (spend 1 RP to perform a Reaction Attack) once per round
-- **Legendary:** Your attacks can grab and throw enemies - move target 2 hexes in any direction on hit.  Only affects targets your size category or lower.
+- **Legendary:** Your melee attacks can grab and throw enemies - move target 2 hexes in any direction on hit.  Only affects targets your size category or lower.
 
 ---
 ## Finesse
 ### Flow Actions
-- **Expose Weakness** (2 FP): Next ally attack on same target gets +4 damage bonus.  Declared after a successful damage roll.
-- **Blade Dance** (3 FP): Immediately make a second attack at -20 accuracy against same or adjacent target.  Declared after an attack resolves, regardless of the result.
+- **Expose Weakness** (2 FP): Next ally attack or spell on same target gets +4 damage bonus.  Declared after a successful damage roll.
+- **Blade Dance** (3 FP): Immediately make a second melee attack at -20 accuracy against same or adjacent target.  Declared after a melee attack resolves, regardless of the result.
 - **Precision Focus** (5 FP): When using this Flow Action, choose **one** effect: 
-1. Gain Advantage on all attack rolls until the beginning of your next turn and deal normal damage
-2. Gain Disadvantage on all attack rolls until the beginning of your next turn, but all successful hits are automatically Critical Hits.  
+1. Gain Advantage on all melee attack rolls until the beginning of your next turn and deal normal damage
+2. Gain Disadvantage on all melee attack rolls until the beginning of your next turn, but all successful hits are automatically Critical Hits.  
 **No attacks made while Precision Focus is active will earn Flow Points.**
 Declared at any time during your turn.
 ### Class Tier Bonuses
 - **Journeyman:** Gain 1 FP when an ally you are Ganging Up with scores a critical hit
 - **Expert:** Blade Dance second attack accuracy penalty reduced to -10
 - **Master:** Expose Weakness grants allies +1 FP when they hit the marked target
-- **Legendary:** All successful attacks grant +1 FP to adjacent allies
+- **Legendary:** All successful melee attacks grant +1 FP to adjacent allies
 
 ---
 ## Improvised
