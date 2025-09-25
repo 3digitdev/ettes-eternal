@@ -69,21 +69,27 @@ For 2 AP + 2 Mana, choose an aspect below and gain a bonuses based on the Animal
 **Predator**
 - **Combat:** Killing an enemy heals you based on your Class Tier (1/2/4/6/8 HP)
 - **Special Ability:** You can track any creature by scent alone, following trails up to 24 hours old
+
 **Guardian**
 - **Combat:** Gain DR based on your class tier (+2/4/6/8/10 DR), and you can spend 1 RP to force an enemy within 3 hexes to target you with their next attack
 - **Special Ability:** You can sense the emotional state (hostile, friendly, fearful, etc.) of any creature within 10 hexes
+
 **Aerial**
 - **Combat:** After making a successful attack, you can immediately move 1 hex without provoking Reaction Attacks
 - **Special Ability:** You take no fall damage and can glide horizontally up to your fall distance
+
 **Agile**
 - **Combat:** Your movement never provokes Reaction Attacks
 - **Special Ability:** Advantage on Athletics checks and can climb at normal movement speed on any surface with handholds
+
 **Aquatic**
 - **Combat:** When you successfully hit an enemy, they are knocked back 1 hex
 - **Special Ability:** You can breathe underwater and swim at your normal movement speed
+
 **Cold-blooded**
 - **Combat:** Your first successful attack each combat inflicts Persistent Poison damage per round based on Class Tier (Persistent Poison 2/4/6/8/10)
 - **Special Ability:** You can remain perfectly still for hours without discomfort and have advantage on Stealth checks when motionless
+
 **Vermin**
 - **Combat:** Enemies adjacent to you have -10 to all attack rolls due to your unsettling presence
 - **Special Ability:** You can fit through any opening larger than 8 inches and automatically detect hidden passages or secret doors within 3 hexes

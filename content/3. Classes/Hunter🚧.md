@@ -74,15 +74,9 @@ You can now make 3 "Trick Arrows" per day in addition to your Specialized Ammuni
 | 6     | Wild Empathy     | Communicate with and influence animals   |
 | 7     | Pack Tactics     | Coordinate attacks with animal companion |
 ### Animal Companion
-Gain an animal companion: 
-- Wolf
-- Bird of Prey
-- Small Bear
-- Lion/Tiger
-- Viper/Python
-- other options at GM's discretion. 
+Gain an animal companion.  It acts on your initiative and can perform simple commands. See [[Animal Companions|Animal Companion]] rules for details on which animals you can choose, and the mechanics of them. 
 
-It acts on your initiative and can perform simple commands. See Animal Companion rules for details. If it dies, it can be resurrected with 3 uninterrupted days of meditation in nature.
+If it dies, it can be resurrected with 3 uninterrupted days of meditation in nature.
 ### Wild Empathy
 You can communicate basic concepts with any natural animal and make Influence checks (within reason) to request simple favors or information. Animals are generally friendly toward you unless threatened. **Note that animals are not inherently intelligent.**
 ### Pack Tactics

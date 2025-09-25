@@ -143,7 +143,7 @@ Declared at any time during your turn.
 
 ---
 ## Bow
-### Flow Actions
+### Flow Actions [[Core Rules/1. Basics/index|index]]
 - **Pin Shot** (2 FP): Target cannot move more than 1 hex per AP until freed by spending 2 AP.  Declared after Reactions are resolved for an attack.
 - **Called Shot** (3 FP): Target specific body part, gain +5 to hit, choose effect (Disarm/Blind/Halve movement).  Declared before rolling an attack.
 - **Seeking Shot** (5 FP): Your next shot automatically achieves Normal Success and curves around cover/obstacles. Target can not Dodge this attack.  Declared before rolling an attack.  **This attack does not gain FP**.

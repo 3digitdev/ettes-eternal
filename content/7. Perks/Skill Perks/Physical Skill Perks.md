@@ -17,7 +17,6 @@
 | One Punch              | Journeyman | Athletics 50+              | Hard Success potentially knocks someone unconscious with unarmed hit                        |
 | Reactive Roll          | Journeyman | Agility 50+                | Stand up with 1 RP reaction                                                                 |
 | Strongman              | Journeyman | Athletics 50+              | Lift/carry 3x normal, perform incredible feats of strength once per day                     |
-| Tavern Brawler         | Journeyman | Athletics 50+              | Improvised weapons damage dice +1 step + custom flow actions                                |
 | Victory Lap            | Journeyman | Athletics 50+              | After defeating enemy, spend 1 AP celebrating for +10 to next attack/skill check            |
 | Enhanced Reactive Roll | Expert     | Reactive Roll, Agility 60+ | Reactive Roll + move 1 hex away without provoking reactions                                 |
 # Physical Skill Perk Descriptions
@@ -68,9 +67,6 @@
 ### Strongman
 **Prerequisites:** Athletics 50+
 **Effect:** You can lift and carry 3x normal weight limits. Additionally, once per day you can perform a feat of incredible strength (bend bars, punch through walls, throw heavy objects as weapons).
-### Tavern Brawler
-**Prerequisites:** Athletics 50+
-**Effect:** Improvised weapons gain +1 damage die step and grant access to custom flow actions as if they were a weapon category.
 ### Victory Lap
 **Prerequisites:** Athletics 50+
 **Effect:** After defeating an enemy, spend 1 AP celebrating dramatically to gain +10 to your next physical attack or skill check.

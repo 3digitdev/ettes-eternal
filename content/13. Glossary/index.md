@@ -58,4 +58,4 @@ This is commonly used to refer to a target you must hit, or to refer to the diff
 ## Threat Range
 The area around a character where they can make melee attacks, determined by [[5. Combat/index#Reach|Reach]]. Moving out of an enemy's threat range typically provokes [[5. Combat/index#Reaction Attacks|Reaction Attacks]].
 ## XP (Experience Points)
-Character advancement currency gained at session end; used to buy [[Advancement#Advancing Skills|skill improvements]] at the end of sessions.
+Character advancement currency gained at session end; used to buy [[Artifacts/DEPRECATED/Advancement#Advancing Skills|skill improvements]] at the end of sessions.

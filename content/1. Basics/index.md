@@ -225,7 +225,7 @@ Ettes Eternal, in many of its mechanics and systems, uses the concept of "Tiers"
 5. Legendary
 The abilities, effects, and other mechanics for each Tiered System in Ettes Eternal scales as you increase in Tiers, with Legendary Tier producing effects worthy of its namesake.
 
-This convention was chosen to easily track progress and match up when new systems/tiers unlock across all of Ettes Eternal.  You can see when these Tiers are achieved in the [[Advancement#Class Level Progression|Class Level Progression]] table.  **Without exception**, each new Tier of effects for a subsystem is unlocked at the same time for all subsystems.  You will get access to Expert Tier Perks at the same time as Expert Tier Traps, and Expert Tier Spells, etc.
+This convention was chosen to easily track progress and match up when new systems/tiers unlock across all of Ettes Eternal.  You can see when these Tiers are achieved in the [[Artifacts/DEPRECATED/Advancement#Class Level Progression|Class Level Progression]] table.  **Without exception**, each new Tier of effects for a subsystem is unlocked at the same time for all subsystems.  You will get access to Expert Tier Perks at the same time as Expert Tier Traps, and Expert Tier Spells, etc.
 
 ---
 # Getting Started

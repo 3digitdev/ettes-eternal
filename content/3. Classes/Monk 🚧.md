@@ -3,7 +3,9 @@
 - **Weapon Proficiencies**: Unarmed Strikes (see [[#Restrictions]])
 - **Armor Proficiencies:** Light
 # Restrictions
-Monks are **incapable of gaining any Weapon Proficiencies**, including the "pick one" category that all other characters get at Level 1.  They are only proficient in Unarmed strikes, and **nothing else within the Brawl category.**
+Monks are **incapable of gaining any Weapon or Shield Proficiencies**, including the "pick one" category that all other characters get at Level 1.  They are only proficient in Unarmed strikes, and **nothing else within the Brawl category.**
+
+For the sake of any proficiency requirements, Monks are considered proficient with the Brawl Weapon Category.
 # Core Features
 
 | Level | Feature             | Description                                                                       |
