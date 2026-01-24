@@ -21,7 +21,7 @@ As a spellcasting class, Druids gain Mana based on their level and Spellcasting 
 |4|Rejuvenating Bloom|Create healing area that grants regeneration to allies|
 |5|Path Selection|Choose path; Journeyman Class Tier|
 ### Wildshape
-**Cost:** 2 AP + 2 mana
+**Cost:** 2 AP + 2 mana  
 **Duration:** Until voluntarily ended (free action), or you fall unconscious  
 **Effect:** Once per day in the morning, select a single animal and category that you can transform into for that day.  This choice may not be changed until the following day.
 **See the [[Druid - Wild Shape]] rules for details.**
