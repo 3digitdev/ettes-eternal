@@ -22,7 +22,7 @@ As a spellcasting class, Druids gain Mana based on their level and Spellcasting 
 |5|Path Selection|Choose path; Journeyman Class Tier|
 ### Wildshape
 **Cost:** 2 AP + 2 mana
-**Duration:** Until voluntarily ended (free action), you spend 1 full round without taking or dealing damage, or you fall unconscious  
+**Duration:** Until voluntarily ended (free action), or you fall unconscious  
 **Effect:** Once per day in the morning, select a single animal and category that you can transform into for that day.  This choice may not be changed until the following day.
 **See the [[Druid - Wild Shape]] rules for details.**
 ### Nature's Resilience
