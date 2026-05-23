@@ -13,7 +13,7 @@ Perks are organized into six categories:
 Combat-focused abilities and benefits that enhance your effectiveness in battle. These include weapon training, defensive techniques, and special maneuvers that make you more dangerous or survivable in conflict.
 ### [[Magic Perks|Magic Perks]]
 Abilities that enhance spellcasting, or grant divine favor. Most of these require existing magical ability, though some allow non-casters to dabble in magical effects.
-### [[Multiclassing Perks|Multiclassing Perks]]
+### [[Multiclassing Perk|Multiclassing Perks]]
 Special perks that allow you to gain abilities from a secondary character class. These follow specific rules and limitations detailed in the [[3. Classes/index#Multiclassing|Multiclassing]] system.  There are only a couple of these, as it was the easiest way to balance Multiclassing in Ettes Eternal.
 ### [[Roleplaying Perks|Roleplaying Perks]]
 Narrative-focused abilities that enhance your character's story and social interactions. These Perks create interesting roleplaying opportunities and help define your character's unique quirks and background. Often these Perks won't even have a directly stated mechanical effect, similar to your Roleplaying Bonuses from Backgrounds.

@@ -13,13 +13,18 @@ The following is a table of the amount of DR you gain from Armor at each Class T
 | **Legendary**  |      6      |      7       |      8      |
 ## Shields
 
-| Category     | DR Bonus | Block Roll | Penalty* |
-| ------------ | -------- | ---------- | -------- |
-| Small Shield | +1       | -10        | 0        |
-| Large Shield | +2       | +0         | -5       |
-| Tower Shield | +3       | +10        | -10      |
+| Category     | DR Bonus | Block Roll | Penalty¹ | Bash Damage |
+| ------------ | -------- | ---------- | -------- | ----------- |
+| Small Shield | +1       | -10        | 0        | 1d4         |
+| Large Shield | +2       | +0         | -5       | 1d6         |
+| Tower Shield | +3       | +10        | -10      | 1d8         |
 
-*Applied to Athletics, Agility, and Thievery while carrying OR wielding the shield.{Level÷2}
+¹Applied to Athletics, Agility, and Thievery while carrying OR wielding the shield.{Level÷2}
+### Shield Bash
+Characters proficient with Shields also gain the **Shield Bash** Flow Action:
+#### Shield Bash
+**Cost:** 2 FP
+**Effect**:  Declared after a successful melee attack; Make a Melee Attack roll for 0 AP to hit the same enemy with your shield, dealing damage based on the type of Shield _(see table above)_.
 ## Armor Materials
 Most armor will be created out of basic materials; Cloth, Leather, and Metal.  Ettes Eternal provides you some example "special materials" that you can craft any type of armor out of that lets you customize your armor in unique ways, as well as increasing the DR value of the Armor!
 

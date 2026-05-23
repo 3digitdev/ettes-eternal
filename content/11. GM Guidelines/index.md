@@ -36,7 +36,7 @@ Reserve the [[Social Challenges|Social Challenges]] system for **significant** s
 
 **Use regular roleplay with simple Skill Checks or Opposed Checks** (Influence/Deception/Insight) for: casual conversations, basic information gathering, shopping, everyday interactions where NPCs have no strong resistance.
 # Favor Management
-[[Divine Intervention#Gaining Favor|Gaining Favor]] is intentionally restrictive. **Frequently deny favor gain** wTarget Number party is inactive or avoiding goals
+[[Divine Intervention#Gaining Favor|Gaining Favor]] is intentionally restrictive. **Frequently deny favor gain** when the party is inactive or avoiding goals
 - Sessions lack meaningful progress
 - Players are obviously trying to "bank" favor
 

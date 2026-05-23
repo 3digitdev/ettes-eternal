@@ -11,7 +11,7 @@ For the sake of any proficiency requirements, Monks are considered proficient wi
 | Level | Feature             | Description                                                                       |
 | ----- | ------------------- | --------------------------------------------------------------------------------- |
 | 1     | Supernatural Strike | Magical unarmed attacks with damage type flexibility and d8 dice                  |
-| 2     | Meditative Flow     | Start combat with +1 FP and no FP decay                                           |
+| 2     | Meditative Flow     | Start combat with +2 FP and no FP decay                                           |
 | 3     | Mental Clarity      | Immune to confusion and charm effects, Advantage on Insight checks to detect lies |
 | 4     | Elemental Strike    | Change attack damage to elemental types for 1 FP                                  |
 | 5     | Path Selection      | Choose path; Journeyman Class Tier                                                |

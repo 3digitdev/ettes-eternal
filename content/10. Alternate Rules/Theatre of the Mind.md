@@ -68,7 +68,7 @@ The following mechanics are fundamentally incompatible with range band abstracti
 #### Fighter
 - **[[Fighter🚧#Castle|Castle]]**: The position-swapping range converts based on tier level. Apprentice/Journeyman (2-3 hexes) becomes Short Range, Expert/Master (4-5 hexes) becomes Medium Range, Legendary (6 hexes) becomes Medium Range.
 #### Barbarian
-- **[[Barbarian🚧#Intimidating Presence|Intimidating Presence]]**: Fear effects apply to **up to 3 enemies** within Short Range (instead of "within 2 hexes").
+- **[[Barbarian#Intimidating Presence|Intimidating Presence]]**: Fear effects apply to **up to 3 enemies** within Short Range (instead of "within 2 hexes").
 #### Hunter
 - **[[Hunter🚧#Environmental Advantage|Environmental Advantage]]**: Effects apply to the current scene's range band rather than specific hex positioning.
 #### Rogue

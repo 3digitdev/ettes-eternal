@@ -48,7 +48,7 @@
 ### Synchronized Casting
 **Prerequisites:** Spellcasting 50+
 **Effect:** When you cast a spell in the same round that an ally also casts a spell, your spell deals additional damage that increases automatically based on your Class tier.
-_Multi-hit spells such as [[6. Magic/Spell Lists/Sorcerer/1 - Apprentice#Arcane Barrage|Arcane Barrage]] gain the bonus damage on each separate hit_
+_Multi-hit spells such as [[Core Rules/6. Magic/Spell Lists/Sorcerer/1 - Apprentice#Arcane Barrage|Arcane Barrage]] gain the bonus damage on each separate hit_
 
 | Class Tier | Bonus Damage |
 | ---------- | ------------ |

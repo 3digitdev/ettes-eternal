@@ -50,9 +50,9 @@ In order to avoid issues with scaling and balance, you are limited to **a single
 
 Additionally, you can never have more than {Level÷2} Levels in your Secondary Class.  So even if you could afford to achieve Level 7 in your Secondary Class by Level 12, you still cannot do so until at least Level 13 (since you round up on division)
 ### Multiclass Perks
-In order to multiclass, you must first obtain the [[Multiclassing Perks#Multiclass Acolyte|Multiclass Acolyte]] Perk.  This Perk is one of many that "stacks" on itself.  Taking this Perk for the first time, you pick your Secondary Class and gain specific one-time bonuses (see the Perk's description for more detail).  **Each additional time you take this Perk** (up to 5 total stacks), you "level up" in that chosen Class (up to Level 5)
+In order to multiclass, you must first obtain the [[Multiclassing Perk#Multiclass Acolyte|Multiclass Acolyte]] Perk.  This Perk is one of many that "stacks" on itself.  Taking this Perk for the first time, you pick your Secondary Class and gain specific one-time bonuses (see the Perk's description for more detail).  **Each additional time you take this Perk** (up to 5 total stacks), you "level up" in that chosen Class (up to Level 5)
 
-Once you have achieved 5 stacks of **Multiclass Acolyte**, you then gain access to the [[Multiclassing Perks#Multiclass Expert|Multiclass Expert]] Perk.  This perk works essentially the same as Multiclass Acolyte, except it covers granting you **Levels 6-10** of your Secondary Class.
+Once you have achieved 5 stacks of **Multiclass Acolyte**, you then gain access to the [[Multiclassing Perk#Multiclass Expert|Multiclass Expert]] Perk.  This perk works essentially the same as Multiclass Acolyte, except it covers granting you **Levels 6-10** of your Secondary Class.
 
 As stated above, **you may not be higher than {Level÷2} (round up as always) in your Secondary Level**.
 ## Multiclass Spellcasters

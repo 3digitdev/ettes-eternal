@@ -87,7 +87,7 @@
 **Effect:** Picking up/drawing a new improvised weapon from the environment or your person becomes a Free Action.  Describe what you would like to pick up from around you or from your pack, within reason for the environment or what you might be carrying.
 ### Two-Weapon Fighter
 **Prerequisites:** None
-**Effect:** You can make an additional attack with an off-hand weapon for +1 AP. This attack suffers a -10 penalty to hit.
+**Effect:** You can make an additional attack with an off-hand weapon for 1 AP. This attack suffers a -20 penalty to hit and only does the damage of the weapon, not including your Melee Attack Modifier or any other static bonuses.
 ### Weapon Proficiency
 **Prerequisites:** None
 **Effect:** Choose a weapon category you are not proficient with. You become proficient with that category.
@@ -146,10 +146,10 @@
 ## Expert Tier
 ### Basically A Weapon
 **Prerequisites:** [[#Seasoned Brawler]], Athletics 60+
-**Effect:** You may now wield an adjacent creature your size category or lower as if they were an Improvised Weapon.  First, you must already be Grappling them.  You may make attacks with them at a **-10 penalty** (instead of Disadvantage, as described in [[5. Combat/index#Grapple|Grapple]] rules) as if they were a 2h Improvised **Melee** Weapon.  Any attack you hit with also does 1d4 bludgeoning damage to the creature you are wielding (reduced by their DR).  Enemies you wield as such can still attempt to break free as a normal Grapple each round.  **You may not use any Flow Actions while doing this, and the "weapon breaking" rules do NOT apply._**
+**Effect:** You may now wield an adjacent creature your size category or lower as if they were an Improvised Weapon.  First, you must already be Grappling them.  You may make attacks with them at a **-10 penalty** (instead of Disadvantage, as described in [[5. Combat/index#Grapple|Grapple]] rules) as if they were a 2h Improvised **Melee** Weapon.  Any attack you hit with also does 1d4 bludgeoning damage to the creature you are wielding (reduced by their DR).  Enemies you wield as such can still attempt to break free as a normal Grapple each round.  **You may not use any Flow Actions while doing this, and the "weapon breaking" rules do NOT apply.**
 ### Two-Weapon Master
 **Prerequisites:** [[#Two-Weapon Fighter]]
-**Effect:** Remove the -10 penalty from your Two-Weapon Fighter attacks. Your off-hand attacks now use your normal attack bonus.
+**Effect:** Reduce the penalty from your Two-Weapon Fighter attacks by 10.
 ## Master Tier
 ## Legendary Tier
 ### Devastating Blow

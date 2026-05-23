@@ -38,7 +38,7 @@ The magical energy resource used by spellcasters. Calculated from base mana (det
 ## Metamagic
 The ability to modify spells as you cast them, adding effects like extended duration or increased area. Requires specific [[Magic Perks|Magic Perks]] and additional mana costs.
 ## Multiclassing
-Taking levels in a secondary character class through the [[Multiclassing Perks|Multiclassing Perks]] system. Limited to one secondary class with a maximum level based on primary class level.
+Taking levels in a secondary character class through the [[Multiclassing Perk|Multiclassing Perks]] system. Limited to one secondary class with a maximum level based on primary class level.
 ## Opposed Check
 A contest between two characters' skill rolls, comparing [[1. Basics/index#Success/Failure Levels|Success Levels]] rather than raw numbers. Used for combat reactions and competitive situations.  See [[1. Basics/index#Opposed Checks|Opposed Checks]].
 ## Persistent Damage
