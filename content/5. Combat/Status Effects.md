@@ -19,7 +19,7 @@
 | Prone                 | --                | Disadvantage attacks/agility; standing provokes       |
 | Regeneration          | --                | Gain HP at the start of each turn                     |
 | Restrained            | Endurance/Agility | As Stunned, 1 escape attempt/round                    |
-| Slowed                | --                | Half movement; no Step Action                         |
+| Slowed                | --                | Movement costs 2 AP; no Step Action                   |
 | Stunned               | --                | Lose FP/RP, can only move 1 hex                       |
 | **Mental Effects**    |                   |                                                       |
 | Charmed               | Willpower         | Can't attack source, treat as ally                    |
@@ -78,7 +78,7 @@ Each time someone is affected (fails to resists, etc.) a **Physical** or **Menta
 **Effect:** As Stunned, but once per round you may make an appropriate skill check (usually Endurance or Agility) to slip/break free.
 ## Slowed
 **Duration:** Until the cause states it ends  
-**Effect:** Move at half rate per AP spent. Cannot take Step Actions.
+**Effect:** You must spend 2 AP to move your full movement speed as the Move Action.  You cannot spend 1 AP for half movement.  You also cannot take Step Actions.
 ## Stunned
 **Duration:** Until the cause states it ends  
 **Effect:** Immediately lose all FP and RP. Can only Move 1 hex on your turn (this movement provokes reactions). Can still take other Actions as normal.  Not knocked Prone by this effect.

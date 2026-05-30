@@ -8,7 +8,7 @@ There are 5 Spell Tiers in Ettes Eternal (matching directly to [[3. Classes/inde
 ## Novice Spells
 Novice Spells are a special type of "innate" spell that are significantly weaker or simple utility spells.  **For all purposes where Spell Tier counts, Novice Spells are 1 step below Apprentice Spells.**
 ### Novice Spell Scaling
-Unlike other spells, Novice Spells scale with your **Adventurer Tier** (based on total character level) rather than your individual Class Tier. This ensures that even multiclass characters and resource-depleted casters maintain competitive basic magical attacks.
+Unlike other spells, Novice Spells scale with your **Primary Class Tier** rather than your individual Class Tier. This ensures that even multiclass characters and resource-depleted casters maintain competitive basic magical attacks.
 
 ---
 # Mana Pool

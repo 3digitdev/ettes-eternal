@@ -30,9 +30,9 @@ You gain bonus damage dice on all weapon damage as a result of your [[3. Classes
 | ---------- | ---------- |
 | Apprentice | 1          |
 | Journeyman | 2          |
-| Expert     | 2          |
-| Master     | 3          |
-| Legendary  | 4          |
+| Expert     | 3          |
+| Master     | 4          |
+| Legendary  | 5          |
 ### Bonus Damage Modifier
 - **Melee Attacks:** Higher of Melee or Agility Modifier
 - **Ranged Attacks:** Higher of Ranged or Agility Modifier
